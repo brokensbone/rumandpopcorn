@@ -37,7 +37,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "page"
       image: "/assets/image/photo/bluepig.jpg"
       desc: "Rum and Popcorn page"
   - 
@@ -45,7 +45,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "default"
+      layout: "post"
       image: "/assets/image/photo/bluepig.jpg"
       desc: "Rum and Popcorn post"
 
