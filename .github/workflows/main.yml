@@ -9,7 +9,9 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
       - name: Build
-        uses: lemonarc/jekyll-action@1.0.0
+        uses: vivi90/jekyll-minimal-action@v1.1.0
+        with:
+          command: jekyll build
       - name: Post-Build
         run: |
           ls -lR ./_site
