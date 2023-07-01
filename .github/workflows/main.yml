@@ -1,9 +1,7 @@
 name: Jekyll Build & Deploy
 on:
   push:
-      branches:
-        main
-        action-test
+    branches: ['main', 'action-test']
 jobs:
   jekyll-build:
     runs-on: ubuntu-latest
