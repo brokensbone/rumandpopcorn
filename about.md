@@ -12,3 +12,5 @@ This is a static site built using [Jekyll](https://jekyllrb.com/). The source is
 
 ### Privacy
 {{ site. title }} tracks nothing. There's no Google Analytics, no ads, no 3rd party data brokers. There's no cookie data, browser fingerprinting, or any of the other grim practices that are widespread on the modern web. 
+
+..
