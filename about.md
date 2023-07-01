@@ -2,6 +2,13 @@
 title: "About"
 ---
 
-Rum and Popcorn is run by Ed Salkeld. 
+### Who
+{{ site.title }} is run by {{ site.author }}. 
 
-Find me on [Instagram](https://instagram.com/edsalkeld) and [Twitter](https://twitter.com/edsalkeld).
+Find me on [Instagram](https://instagram.com/{{ site.instagram_username }}).
+
+### How
+This is a statiuc site built using [Jekyll](https://jekyllrb.com/). The source is all on [GitHub](https://github.com/brokensbone/rumandpopcorn/) and the site is hosted on my own domain.
+
+### Privacy
+{{ site. title }} tracks nothing. There's no Google Analytics, no ads, no 3rd party data brokers. There's no cookie data, browser fingerprinting, or any of the other grim practices that are widespread on the modern web. 
