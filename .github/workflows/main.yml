@@ -1,0 +1,14 @@
+name: Jekyll Build & Deploy
+on:
+  push:
+      branches:
+        main
+        action-test
+jobs:
+  jekyll-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: jekyll build
+        uses: mbursi/jekyll-build-only-action@v1.0.0
