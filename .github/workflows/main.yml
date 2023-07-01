@@ -1,7 +1,17 @@
 name: Jekyll Build & Deploy
 on:
   push:
-    branches: ['main', 'action-test']
+    branches: 
+      - 'main'
+      - 'action-test'
+      - 'staging'
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Test scenario tags'
+        required: false
+        type: boolean
+
 jobs:
   jekyll-build:
     runs-on: ubuntu-latest
