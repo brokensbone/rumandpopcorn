@@ -7,6 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v2
-      - name: jekyll build
-        uses: mbursi/jekyll-build-only-action@v1.0.0
+        uses: actions/checkout@v3
+      - name: Build
+        uses: actions/jekyll-build-pages@v1
+      - name: Post-Build
+        run: |
+          ls -lR ./_site
