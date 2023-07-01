@@ -1,7 +1,7 @@
 ---
 title: Plot 119a
 subtitle: It all begins here
-img: new-allotment
+image: /assets/image/photo/new-allotment.jpg
 desc: We've got an allotment!
 ---
 
