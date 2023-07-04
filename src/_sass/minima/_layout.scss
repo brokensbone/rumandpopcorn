@@ -8,6 +8,8 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  background-color: $brand-color;
 }
 
 .site-title {
@@ -20,7 +22,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $brand-alt-color;
   }
 }
 
@@ -37,7 +39,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $background-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -50,7 +52,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
+    background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -72,9 +74,9 @@
       line-height: 0;
       padding-top: 10px;
       text-align: center;
-
+      background-color: $brand-color;
       > svg {
-        fill: $grey-color-dark;
+        fill: $brand-alt-color;
       }
     }
 
@@ -108,6 +110,8 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $brand-alt-color;
+  color: $brand-color;
 }
 
 .footer-heading {
@@ -199,7 +203,8 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  //color: $grey-color;
+  color: darken($brand-color, 15%);
 }
 
 .post-link {
@@ -220,6 +225,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  color: $brand-color;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -247,6 +253,8 @@
   }
 
   h3 {
+    text-decoration: underline solid $brand-color 20%;
+
     @include relative-font-size(1.625);
 
     @include media-query($on-laptop) {
