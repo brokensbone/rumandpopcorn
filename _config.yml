@@ -33,6 +33,11 @@ instagram_username: edsalkeld
 minima:
   date_format: "%e %b %Y"
 
+collections:
+  films:
+    sort_by: sort
+    output: true
+
 # Build settings
 theme: minima
 plugins:

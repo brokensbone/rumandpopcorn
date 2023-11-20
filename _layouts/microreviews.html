@@ -10,6 +10,15 @@ layout: default
   </div>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    <ol>
+      {% for film in site.films %}
+        {% if page.event == film.event %}
+          <li><h3>{{ film.title }}</h3></li>
+          <p>{{ film.content | markdownify }}</p>
+        {% endif %}
+      {% endfor %}
+    </ol>
   </div>
 
   {%- if site.disqus.shortname -%}
