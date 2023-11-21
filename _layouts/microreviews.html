@@ -15,7 +15,8 @@ layout: default
       {% for film in site.films %}
         {% if page.event == film.event %}
           <li><h3>{{ film.title }}</h3></li>
-          <p>{{ film.content | markdownify }}[<a href={{ film.url }} title="Link"">LN</a>]</p>
+          <p><small><a href="{{ film.url }}">{{ film.url | relative_url }}</a></small></p>
+          <p>{{ film.content | markdownify }}</p>
           {% if film.rating %}<h4>{{ film.rating }}</h4>{% endif %}
           <br />
         {% endif %}
