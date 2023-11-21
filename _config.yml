@@ -33,6 +33,14 @@ instagram_username: edsalkeld
 minima:
   date_format: "%e %b %Y"
 
+feed:
+  excerpt_only: false
+
+collections:
+  films:
+    sort_by: sort
+    output: true
+
 # Build settings
 theme: minima
 plugins:
@@ -58,6 +66,12 @@ defaults:
       layout: "post"
       image: "/assets/image/photo/bluepig.jpg"
       desc: "Rum and Popcorn post"
+  - 
+    scope:
+      path: "_films"
+    values:
+      layout: "post"
+      desc: "Rum and Popcorn Film Review"
 
 permalink: /:categories/:year/:month/:title/
 show_excerpts: true
