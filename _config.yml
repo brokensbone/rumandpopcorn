@@ -33,6 +33,9 @@ instagram_username: edsalkeld
 minima:
   date_format: "%e %b %Y"
 
+feed:
+  excerpt_only: false
+
 collections:
   films:
     sort_by: sort
