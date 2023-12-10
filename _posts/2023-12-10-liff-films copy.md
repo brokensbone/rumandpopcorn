@@ -1,7 +1,7 @@
 ---
 title: "Albums of the Year 2023"
 subtitle: A good year of music!
-#image: /assets/image/photo/2023/liff-logo.png
+image: /assets/image/photo/2023/a_glass_of_rum_and_a_bowl_of_popcorn_5f71aace-5c4a-40ca-b177-ba9e0e435531.png
 --- 
 
 ### Shit and Shine - 2222 and Airport
@@ -44,6 +44,8 @@ OK, this won't be for everyone. It's deeply weird and not an easy listen but its
 Sleeper hit for me. It's _very_ understated. All gentles tunes with a little folksy storytelling. Worth giving some time to.
 
 ### Gaunt - Blind
+
+
 ### Jellyskin - In Brine
 Leeds Leeds Leeds. Bringer of Brine was my most listened track of the year, and 'I was the first Tetrapod' can't have been far behind.
 
