@@ -5,9 +5,11 @@ layout: default
 
   {%- include post-header.html -%}
 
-  <div>
-    <img src={{ page.image }}>
-  </div>
+  {% unless layout.hide_image %}
+    <div>
+      <img src={{ page.image }}>
+    </div>
+  {% endunless %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

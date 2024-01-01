@@ -68,6 +68,12 @@ defaults:
       desc: "Rum and Popcorn post"
   - 
     scope:
+      path: "walks"
+    values:
+      layout: "map"
+      desc: "Rum and Popcorn post"
+  - 
+    scope:
       path: "_films"
     values:
       layout: "post"
