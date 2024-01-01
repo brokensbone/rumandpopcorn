@@ -8,4 +8,17 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  {%- if layout.additional_css -%}
+    {% for stylesheet in layout.additional_css %}
+      <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
+    {% endfor %}
+  {%- endif -%}
+  
+  {%- if layout.additional_js -%}
+    {% for script in layout.additional_js %}
+      <script type="text/javascript" src="{{ script | relative_url }}"></script>
+    {% endfor %}
+  {%- endif -%}
+
 </head>
