@@ -10,7 +10,7 @@ When we finally get out of the town and into the fields, things don't improve. T
 
 The path next to the railway line is flooded so we take a longer route, into Normantofts. Apparently Queen Victoria stayed here once on a trip to the North. But its mining heyday is long in the past.
 
-We loop back into some woods - where we once met a silent man carrying an axe - and carry on to the edges of the nature reserve. From here, things look up. There are some pretty trees, a high bridge over the river and then rejoin the canal. 
+We loop back into some woods - where we once met a silent man carrying an axe - and carry on to the edges of the nature reserve. From here, things look up. There are some pretty trees, a high bridge over the river and then we rejoin the canal. 
 
 ### Parking 
 Public car park by the Stanley Ferry pub.
