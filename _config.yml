@@ -47,7 +47,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-paginate: 10
+paginate: 5
 
 defaults:
   - 
@@ -64,7 +64,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      image: "/assets/image/photo/bluepig.jpg"
       desc: "Rum and Popcorn post"
   - 
     scope:

@@ -22,8 +22,14 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {% unless layout.hide_image %}
+            <div>
+              <img src={{ post.image }}>
+            </div>
+          {% endunless %}
+          {{ post.content }}
         {%- endif -%}
+        <hr />
       </li>
       {%- endfor -%}
     </ul>
