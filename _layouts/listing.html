@@ -13,7 +13,7 @@ layout: page
 <p>
 {% for sub_page in pagesSorted %}
 {% if sub_page.dir contains page.dir and sub_page.dir != page.dir %}
-<a href="{{ sub_page.url }}">{{ sub_page.url }}</a><br />
+<a href="{{ sub_page.url }}">{{ sub_page.url | remove: page.dir }}</a><br />
 {% endif %}
 {% endfor %}
 </p>
