@@ -73,6 +73,12 @@ defaults:
       desc: "Rum and Popcorn post"
   - 
     scope:
+      path: "wine"
+    values:
+      layout: "listing"
+      desc: "Rum and Popcorn post"
+  - 
+    scope:
       path: "_films"
     values:
       layout: "post"
