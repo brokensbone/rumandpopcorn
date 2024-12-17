@@ -3,6 +3,7 @@ title: "(Re)building a music library"
 subtitle: MP3s, FLACs, Records
 image: /assets/image/photo/2024/records.webp
 layout: post
+tags: music library
 --- 
 
 It's coming up to the end of the year, a time for making plans, resolutions, projects and so on and so forth. How many of them will survive contact with 2025? Who knows. But here's the tentative start of a new project: I'm going to rebuild my music library. And I'm going to document the process on here.
