@@ -1,9 +1,12 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
+// README at: https://github.com/devcontainers/templates/tree/main/src/go
 {
-	"name": "Jekyll",
+	"name": "Go",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:3.2-bookworm"
+	"dockerFile": "Dockerfile",
+	"features": {
+
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -11,8 +14,8 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
-	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "jekyll --version"
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "go version",
 
 	// Configure tool-specific properties.
 	// "customizations": {},

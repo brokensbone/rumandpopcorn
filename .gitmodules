@@ -1,0 +1,3 @@
+[submodule "migrate/themes/ananke"]
+	path = migrate/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
