@@ -7,3 +7,6 @@ theme = 'ananke'
 
 [permalinks]
     post = "/:year/:month/:slug"
+
+[params]
+  date_format = "02 Jan 2006"
