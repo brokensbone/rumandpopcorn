@@ -3,7 +3,7 @@ title: "About"
 ---
 
 ### Who?
-Rumandpopcorn.com is run by Ed Salkeld. 
+Rumandpopcorn.com is run by Ed S. 
 
 Find me on [Instagram](https://instagram.com/edsalkeld).
 
