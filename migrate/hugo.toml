@@ -1,4 +1,8 @@
 theme = 'ananke'
+title = 'Rum and Popcorn'
+baseURL = 'https://www.rumandpopcorn.com'
+disablePathToLower = true
+languageCode = 'en-gb'
 
 [markup]
   [markup.goldmark]
