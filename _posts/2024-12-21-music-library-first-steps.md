@@ -49,7 +49,7 @@ I think I need to get the basic technical elements set up first. Something along
 After that, I think the fun really starts. It doesn't actually matter how I approach it, I just need to keep adding to the library. I plan to do weeks where I explore a specific genre, the back catalog of a specific artist, revisit records I've not listened to in a while, explore something brand new. It's all welcome.
 
 Key decisions that need making:
-- What's the tagging rules?
+- What are the tagging rules?
 - What's the filepath structure?
 - What do I do with album art? 
 
