@@ -1,0 +1,36 @@
+body {
+  color: #222;
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin: 1rem;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+}
+
+.container .icon {
+   height: 30px;
+   width: 30px;
+   background: #000;
+   flex: 50%;
+}
+.container .content {
+   flex: 50%;
+}
