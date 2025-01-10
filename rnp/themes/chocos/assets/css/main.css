@@ -23,8 +23,9 @@ a {
 
 .container {
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-
 .container .icon {
    height: 30px;
    width: 30px;
@@ -33,4 +34,21 @@ a {
 }
 .container .content {
    flex: 50%;
+}
+
+@media (max-width: 500px) {
+  .container .icon, .container .content {
+    flex: 100%;
+  }
+}
+.container .right {
+   flex: 50%;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+}
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
 }
