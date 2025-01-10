@@ -36,16 +36,19 @@ a {
    flex: 50%;
 }
 
-@media (max-width: 500px) {
-  .container .icon, .container .content {
-    flex: 100%;
-  }
-}
 .container .right {
    flex: 50%;
    display: flex;
    justify-content: end;
    align-items: center;
+}
+@media (max-width: 500px) {
+  .container .icon, .container .content {
+    flex: 100%;
+  }
+  .container .right {
+    justify-content: start;
+  }
 }
 ul.no-bullets {
   list-style-type: none; /* Remove bullets */
