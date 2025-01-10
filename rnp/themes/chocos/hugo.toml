@@ -7,11 +7,6 @@ name = 'Home'
 pageRef = '/'
 weight = 10
 
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
-
 [module]
   [module.hugoVersion]
     extended = false
