@@ -2,8 +2,10 @@ body {
   color: #222;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem;
-  max-width: 768px;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 650px;
+  
 }
 
 header {
