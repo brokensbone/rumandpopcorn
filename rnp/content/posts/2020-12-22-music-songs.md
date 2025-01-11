@@ -9,7 +9,9 @@ Thanks, COVID.
 There was some good music in 2020, so I've put together my list of ~40 albums. 
 This is the 'Songs' section - a mixed bag of genre but all recognisably songs.
 
-[Click here or scroll down for the Spotify playlist of the lot!](https://open.spotify.com/playlist/4uOMKIBGCzvfxPqSk6SAiK)
+<!--more-->
+
+[Click here for the Spotify playlist of the lot!](https://open.spotify.com/playlist/4uOMKIBGCzvfxPqSk6SAiK)
 
 **Hot Chip - Late Night Tales: Hot Chip - Nothing's Changed**  
 Late Night Tales is a decent mix album, with a couple of new tracks.
