@@ -1,13 +1,13 @@
+title = 'Crum and Popped Horn'
 baseURL = 'https://www.rumandpopcorn.com/'
 languageCode = 'en-gb'
-title = 'Crum and Popped Horn'
 theme = 'chocos'
 
 [params]
-    footer_text = 'I live in Leeds. I like film. And food.'
-    github_username = 'brokensbone'
-    instagram_username = 'edsalkeld'
-    date_format = "02 Jan 2006"
+  footer_text = 'I live in Leeds. I like film. And food.'
+  github_username = 'brokensbone'
+  instagram_username = 'edsalkeld'
+  date_format = "02 Jan 2006"
 
 [outputFormats]
   [outputFormats.RSS]
@@ -16,3 +16,6 @@ theme = 'chocos'
 
 [permalinks]
     posts = "/:year/:month/:slug"
+
+[frontmatter]
+  date  = [":filename", ":default"]
