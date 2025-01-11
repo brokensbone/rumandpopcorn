@@ -64,3 +64,12 @@ ul.no-bullets {
     min-width: 300px;
     height: auto;
 }
+
+ul.pagination {
+  display: inline;
+  list-style-type: none;
+}
+li.page-item {
+  display: inline;
+  list-style-type: none;
+}
