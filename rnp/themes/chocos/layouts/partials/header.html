@@ -1,8 +1,2 @@
-<div class="container">
-    <div class="content">
-        <a href="/"><h1>{{ site.Title }}</h1></a>
-    </div>
-    <div class="content right">
-        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-    </div>
-</div>
+<a href="/"><h1>{{ site.Title }}</h1></a>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}

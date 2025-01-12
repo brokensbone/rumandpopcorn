@@ -57,6 +57,12 @@ ul.no-bullets {
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
 }
+ul.inline {
+  display: inline;
+}
+li {
+  display: inherit;
+}
 
 .img-responsive
 {
