@@ -65,6 +65,11 @@ ul.no-bullets {
     height: auto;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 ul.pagination {
   display: inline;
   list-style-type: none;
