@@ -60,9 +60,10 @@ ul.no-bullets {
 ul.inline {
   display: inline;
 }
-li {
-  display: inherit;
-}
+
+.inline li { display: inherit; }
+.inline li:after { content: "  |  "; }
+.inline li:last-child:after { content: ""; }
 
 .img-responsive
 {
