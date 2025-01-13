@@ -1,5 +1,5 @@
 body {
-  color: navy;
+  color: black;
   font-family: sans-serif;
   line-height: 1.5;
   margin: 0 auto;
@@ -19,8 +19,8 @@ footer {
 }
 
 a {
-  color: darkblue;
-  text-decoration: none;
+  color: #FF3319;
+  text-decoration: underline;
 }
 
 .container {
