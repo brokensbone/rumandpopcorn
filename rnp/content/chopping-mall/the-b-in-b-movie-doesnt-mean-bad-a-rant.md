@@ -29,7 +29,7 @@ This ‘the rest’ category has a bad image nowadays. Once-upon-a-time, in the 
   
 Compare film to literature. Again, we find the blockbusters (your Dan Browns etc), an appreciation for ‘classics’, an appreciation for the experimental/philosophical/foreign/intellectual but you also find an considerable about (albeit way less than there used to be) of pulp literature. Whilst you might very well want to label Dan Brown as pulp (and are probably correct…), there is a difference. By pulp I’m talking about the books that are churned out at an astonishing rate. The detective stories and murder mysteries that fill shelves in bookshops and libraries and lie discarded on trains, benches and café tables.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi99uY4To980mMNtEE_lEzis-1h8WFGtL8VojpnXxDi6pK0nvuhmaRyoofNWvLOltb-WimhxKs9kdCxDYaV6smC9iVKrrSJ4xZavOaNyJOoToELHL_nAmeFEEanKBrE3D-jcrkbHkbiEL0/s800/murder%20party.jpg)](http://picasaweb.google.com/lh/photo/VH99c4MBFa9MfviGuN2Wxg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEi99uY4To980mMNtEE_lEzis-1h8WFGtL8VojpnXxDi6pK0nvuhmaRyoofNWvLOltb-WimhxKs9kdCxDYaV6smC9iVKrrSJ4xZavOaNyJOoToELHL_nAmeFEEanKBrE3D-jcrkbHkbiEL0/s800/murder%20party.jpg)  
   
 These are not high-art. Nevertheless, they are also – to put it simply – not bad. The most essential thing whilst writing genre-fiction to be sold, read and forgotten about is obviously not to be inventive, challenging or weird – that’s not what your readers (or perhaps better, customers) want – but the author is required to at least write a cracking story. It’s got to be exciting. It’s got to be mysterious. It’s got to keep you turning the pages. They might not be books you’d recommend to a friend, see reviewed in the newspaper or ever want to read again, but they should be books that are gripping reads.  
   
@@ -37,7 +37,7 @@ The same applies to film, or at least used to.
   
 Most of the films I prefer to watch do not have brilliant special effects. They don’t have exquisite cinematography. They don’t have big name stars neither in front of nor behind the camera. They don’t have challenging dialogue, open-ended ambiguity, subtleties or philosophical concerns. They are simply good fun.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn_nQ9slBF7LgY8DIw-tUC_vT0lWHzYg75nT3hNJ-Vc5s2viikp9QmD5I9emtSyOQqeyTHUxrs8Z8YdXFFGtb9vK5uXY7POdynulAIPsWf2bjRUch-7ORmCU9fSDQX6JLdEsiWhO_wd5U/s800/bloodanddonuts.jpg)](http://picasaweb.google.com/lh/photo/YLuNm9a6lia-kcDTVF8WRg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjn_nQ9slBF7LgY8DIw-tUC_vT0lWHzYg75nT3hNJ-Vc5s2viikp9QmD5I9emtSyOQqeyTHUxrs8Z8YdXFFGtb9vK5uXY7POdynulAIPsWf2bjRUch-7ORmCU9fSDQX6JLdEsiWhO_wd5U/s800/bloodanddonuts.jpg)  
   
 Sadly it seems that nowadays many people can’t help but sneer a little at the thought of watching Hammer Horror, Toho Godzilla films or anything that wasn’t made by James Cameron or Michael Bay. At the opposite end of the spectrum there are those that sit and smirk at everyone else, whilst claiming there is no such thing as cinema outside of the masterpieces of Michael Haneke, Kurosawa et al.  
   

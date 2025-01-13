@@ -16,4 +16,4 @@ Another month can mean only one thing; it's time for another [Poster Hunt post](
 Coming from an era (1954...) when "man-woman violence" could be used as a selling point, here is I, The Jury  
   
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_lSYzOO2-r1gLg5hXqRYAhEJ2KpJnLrNE4Ko69oGnye046Lodf4H2O1lSES9jARV0Kjdy0ucK8JZljJ5OBOk2PP0iNI7Axe1FuGnVy8uej-b56XG6rdFDlH1kb-mfHHBOmSi3HeEI24/s800/i%20the%20jury-1.jpg)](http://picasaweb.google.com/lh/photo/a1yfhioKgKv96GbMXxrvYw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEih_lSYzOO2-r1gLg5hXqRYAhEJ2KpJnLrNE4Ko69oGnye046Lodf4H2O1lSES9jARV0Kjdy0ucK8JZljJ5OBOk2PP0iNI7Axe1FuGnVy8uej-b56XG6rdFDlH1kb-mfHHBOmSi3HeEI24/s800/i%20the%20jury-1.jpg)

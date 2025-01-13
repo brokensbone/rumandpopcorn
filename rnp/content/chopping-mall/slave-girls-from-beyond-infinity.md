@@ -12,14 +12,14 @@ tags:
 - Sci-fi
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXFkUCCuSI5DIpuPZfENmw8WCPgYoUgIVy-wdARqkp7SSAFmqkbUp1j8EqIqKLO30UreFvN8ark4bHvXIKohow6-6iKu8oOYHoDV9nDP7OcUQ7EccbSc-LkIJX34CRBqGvrj4SitU5CY/s400/slave_girls_poster.jpg)](https://picasaweb.google.com/lh/photo/83-X86y8_VmdD-LOD7RAV-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiNXFkUCCuSI5DIpuPZfENmw8WCPgYoUgIVy-wdARqkp7SSAFmqkbUp1j8EqIqKLO30UreFvN8ark4bHvXIKohow6-6iKu8oOYHoDV9nDP7OcUQ7EccbSc-LkIJX34CRBqGvrj4SitU5CY/s400/slave_girls_poster.jpg)
 
   
   
 **Oh they don't make 'em like this anymore. Armed with an invincible title like that, a budget the size of a shoebox and ambitions the size of an alien planet, how _could_ you go wrong? SGFBI is a masterclass in campy sci-fi film that could teach modern snoozefests a thing or two...**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXVkFJZCjeAClHK3vYGa459hGuFH3XxQpoKTNKqq3-KIeJDcCsrqYOfM9kT6uEK7AWZrqyuXtFPhZCdKzpT7rKWnWf5XnSOonP6f4eZ5T6M3AllDlG6Ff9y5_7OLgMWJkoGMo7FkM57m4/s400/sg01.jpg)](https://picasaweb.google.com/lh/photo/R6ZGE7fwJJ32_Iqao2KCdu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEhXVkFJZCjeAClHK3vYGa459hGuFH3XxQpoKTNKqq3-KIeJDcCsrqYOfM9kT6uEK7AWZrqyuXtFPhZCdKzpT7rKWnWf5XnSOonP6f4eZ5T6M3AllDlG6Ff9y5_7OLgMWJkoGMo7FkM57m4/s400/sg01.jpg)
 
   
   
@@ -28,12 +28,12 @@ Firstly, it's not nearly as sexual as its title would suggest. Nowadays, a film 
 Soon enough, they meet the _outrageously_ camp 'Zed', who is master of this private planet and lives in a stone fortress with his two robotic henchmen (I'm not making a word of this up...).  Invited to slip into something more comfortable and join him for dinner (which includes a bizarre son-et-lumiere theremin interlude...) Daria and Tisa meet two other crash-victims who are stuck on Zed's planet. Before long, they realise that the sinister hunting-enthusiast Zed has been taking his unwilling 'guests' out and hunting them in his jungle gardens.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGIk_MCOtrpkGdpcjE31PQgZeaGkSsHx9gl1pm78RLK__x3bnaPptjDsy0WWiABWDVZ_qpJOUU_cKAqX5rQDYtZYqmZGSuI6fGCLEzPDM72Ah4_DRou-JGQZrWmGXUc8oRESfGibFhdHE/s400/sg02.jpg)](https://picasaweb.google.com/lh/photo/o62UXsWk3gcg-qvyeQvplO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjGIk_MCOtrpkGdpcjE31PQgZeaGkSsHx9gl1pm78RLK__x3bnaPptjDsy0WWiABWDVZ_qpJOUU_cKAqX5rQDYtZYqmZGSuI6fGCLEzPDM72Ah4_DRou-JGQZrWmGXUc8oRESfGibFhdHE/s400/sg02.jpg)
 
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZrts0xkx8F_29gyW4BndwMyQhr0xwWyKGnn20i7eGjUHDKX8s9AEyahu51CwQS659enFVkta3MxzQt0Q-17N-a06ZxWoXt8bWLnX1wTaO2D_J0vmSfw51P1aDVXtdgZkM2q75n5U1ghA/s400/sg03.jpg)](https://picasaweb.google.com/lh/photo/rOzhmJktMAtVs1VXBNgr6e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgZrts0xkx8F_29gyW4BndwMyQhr0xwWyKGnn20i7eGjUHDKX8s9AEyahu51CwQS659enFVkta3MxzQt0Q-17N-a06ZxWoXt8bWLnX1wTaO2D_J0vmSfw51P1aDVXtdgZkM2q75n5U1ghA/s400/sg03.jpg)
 
   
   
@@ -46,12 +46,12 @@ R1: I'm going to inform the maaaaaasteeeerrrrr!
 R2: Tattle-t_aaaaaaaaaaa_lle!  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07dkXUzlo_Sojmc6WYv4iqlhFYivlsyTy3PZ_1MpwbTwPops9NPYWyB3Y8wcPSqnFXD7HhTxg8ThmxOTvIXhcu99s7umUAFivSXjzIVkk2TAcqDqLDjEqd3IwGCffo0ck_7wTI5RjNTs/s400/sg04.jpg)](https://picasaweb.google.com/lh/photo/5pqeMpB7Qv94Z7OpNiVSxu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEg07dkXUzlo_Sojmc6WYv4iqlhFYivlsyTy3PZ_1MpwbTwPops9NPYWyB3Y8wcPSqnFXD7HhTxg8ThmxOTvIXhcu99s7umUAFivSXjzIVkk2TAcqDqLDjEqd3IwGCffo0ck_7wTI5RjNTs/s400/sg04.jpg)
 
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxEmfKc6LD5Drbafw9_MOu1fPkVIhlGxb3PXBNciVR2lUftWNiMasxLaTZGITbFK7MuEOVy_DnCFeL74__RbgmUEnDrpI34Tt76tqZYAabSLQyekz5u82kNMd7RVoUx069hajaLsVRXQ/s400/sg05.jpg)](https://picasaweb.google.com/lh/photo/hooCogDSALoflXZhjWQZXe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgbxEmfKc6LD5Drbafw9_MOu1fPkVIhlGxb3PXBNciVR2lUftWNiMasxLaTZGITbFK7MuEOVy_DnCFeL74__RbgmUEnDrpI34Tt76tqZYAabSLQyekz5u82kNMd7RVoUx069hajaLsVRXQ/s400/sg05.jpg)
 
   
   

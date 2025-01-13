@@ -16,4 +16,4 @@ What with November being quite busy and the [poster for The Killer Shrews](http:
   
 Still, just over half-way through, the showcase of fabulous and/or strange posters returns with the [Erotic Adventures of Zorro](http://www.imdb.com/title/tt0068545). How classy.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh69-YkwDMiSN9-PjnTAsMJ9fkMQgQAT94xo-6g9B11XaSq9RH7Ck86vw7YrWUry8l9KiY8SUKeFf-75eaMyZlErjzmc5_r3OuWoFDphhsDxA4qVSzkvfawJXDwcaRZiH7fuoWk8K-2_5Q/s800/POSTER%20-%20THE%20EROTIC%20ADVENTURES%20OF%20ZORRO.JPG)](http://picasaweb.google.com/lh/photo/ckrwCG83IYdeOxtc1--OkA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEh69-YkwDMiSN9-PjnTAsMJ9fkMQgQAT94xo-6g9B11XaSq9RH7Ck86vw7YrWUry8l9KiY8SUKeFf-75eaMyZlErjzmc5_r3OuWoFDphhsDxA4qVSzkvfawJXDwcaRZiH7fuoWk8K-2_5Q/s800/POSTER%20-%20THE%20EROTIC%20ADVENTURES%20OF%20ZORRO.JPG)

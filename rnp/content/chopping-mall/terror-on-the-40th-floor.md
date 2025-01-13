@@ -11,7 +11,7 @@ tags:
 - Terror on the 40th floor
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU8DgIJoIhqoMNaYrL1_9TZ_mCu6PIqXxeHKmbA4aAGNVfAld39HJXW9__yO0pVI4ZC2zvYRPApnCOsdeZiX1PZC74TOlwowIMJ7ruq4vxR-be4qas1kZcEROCEqsmYsaWZITtN8U3YeQ/s800/terror.jpg)](http://picasaweb.google.com/lh/photo/HvI8COZjvuXcmTDuPOFS1e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEgU8DgIJoIhqoMNaYrL1_9TZ_mCu6PIqXxeHKmbA4aAGNVfAld39HJXW9__yO0pVI4ZC2zvYRPApnCOsdeZiX1PZC74TOlwowIMJ7ruq4vxR-be4qas1kZcEROCEqsmYsaWZITtN8U3YeQ/s800/terror.jpg)  
   
 Sometimes, a review just doesn't tell you whether you want to watch it. Sometimes, writing a review just isn't appealing.  
   

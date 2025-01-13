@@ -15,7 +15,7 @@ tags:
 - Scream and Scream Again
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTyGnznAZcHSTJFsXxgpDts8MaonEk3ttnSwttJ_5bAgSrO_aigQXlURppbnc0gezkghzJpaF1EcySXToANtNXGUYXkJ08lW4GunKjs1XnWoU550hOBBvcoPHqyrRo7N-lLGl1XFYSAY8/s800/screamandscreamagaing.jpg)](http://picasaweb.google.com/lh/photo/yIKoUjY1FqLOIkJekEyBmg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgTyGnznAZcHSTJFsXxgpDts8MaonEk3ttnSwttJ_5bAgSrO_aigQXlURppbnc0gezkghzJpaF1EcySXToANtNXGUYXkJ08lW4GunKjs1XnWoU550hOBBvcoPHqyrRo7N-lLGl1XFYSAY8/s800/screamandscreamagaing.jpg)  
   
 Scream and Scream Again? Sigh. With a name so dull can we really expect anything much from this 1970 UK horror flick? I mean, Scream and Scream again? How prosaic.  
   
@@ -28,13 +28,13 @@ Christopher Lee? \[Damn, no more eyebrows to raise\] Christopher Lee as well? Wh
 Mad scientists? CraZed killers? Genetically created Frankenstein-a-like super-beings? Shady (Soviet-in-all-but-name) foreign powers? Vats of acid?  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirXCVwC4UYMumucUpUdsjTfgP6fGjsecibRq-0msdCzTAkV80R55vhJ_JUlQcrbKcVjUsVcOSOOFa5lbrZJZCbSC70v90Z4a86bwx5gtdUKUPt_-ueEgywisBGYEoMD-ywqtRWU3fIrO0/s400/Scream%20and_001.jpg)](http://picasaweb.google.com/lh/photo/9H1O-3abo-7QyWgmaV2w-Q?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEirXCVwC4UYMumucUpUdsjTfgP6fGjsecibRq-0msdCzTAkV80R55vhJ_JUlQcrbKcVjUsVcOSOOFa5lbrZJZCbSC70v90Z4a86bwx5gtdUKUPt_-ueEgywisBGYEoMD-ywqtRWU3fIrO0/s400/Scream%20and_001.jpg)
 
 [  
 ](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGhaqpotpkvcBbd5szyZ_ALSjKbZ_Bm3EA_B5X7HGNA3sSTJEy9fUGHcHFHyb_-4PBIFurK3NenZARbppMEg0Q9KaQWhSeMRDiaU0NVXJLlbz4Q4HrhbAuE8tY8yAwz6c1Rs5ZOE64VXU/s400/Scream%20and_003.jpg)](http://picasaweb.google.com/lh/photo/bFt6zuJ7kB9cCCh_Xo_8rg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhGhaqpotpkvcBbd5szyZ_ALSjKbZ_Bm3EA_B5X7HGNA3sSTJEy9fUGHcHFHyb_-4PBIFurK3NenZARbppMEg0Q9KaQWhSeMRDiaU0NVXJLlbz4Q4HrhbAuE8tY8yAwz6c1Rs5ZOE64VXU/s400/Scream%20and_003.jpg)  
   
 The ingredients of this film are so good as to be almost untrue. In fact, if I'm brutally honest, the ingredients are too good; the film simply can't live up to its summary. Though (a lot of) fun, Scream And Scream Again is sadly less than the sum of its parts. It's as if we have several films here at once; the foreign spy adventure is treading on the heels of the police-detective thriller which in turn keeps bumping into the mad-scientist sci-fi body horror. There's just too many films happening at once here.  
   
@@ -42,7 +42,7 @@ Perhaps if it were made nowadays it would've hit the two hour mark and made the 
   
 All this sounds like I didn't enjoy it. I did enjoy it. I enjoyed it immensely. From start to finish there wasn't a single dull moment (which puts it above nearly every other film on this blog...) and I loved it. I just didn't necessarily understand it all very well..  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8yDAbpVI7oABBQAf7QKjhfHpL-ppjW5TfQ7YOxWYvdqg-TVfbgQnyi0iGqGGG3cWEWcyu8uC3WNnivu0rlaXaIu6m7mo-mVQPwTt7IMMoqVQvPHApuY-t4TCfnTDYyDOjUhHT3_4kpIc/s400/Scream%20and_004.jpg)](http://picasaweb.google.com/lh/photo/7s8m0GgoLC2EyY1yfqv-mA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEh8yDAbpVI7oABBQAf7QKjhfHpL-ppjW5TfQ7YOxWYvdqg-TVfbgQnyi0iGqGGG3cWEWcyu8uC3WNnivu0rlaXaIu6m7mo-mVQPwTt7IMMoqVQvPHApuY-t4TCfnTDYyDOjUhHT3_4kpIc/s400/Scream%20and_004.jpg)  
   
 Price, Lee and Cushing are all as reliably smashing as you could hope for, which it makes it all the more remarkable that Alfred Marks, as Superintendant Bellaver, completely steals the show. Grumpy, rude and oh-so-British, this is a fantastic performance and one that the film would be poorer without.  
   
@@ -50,4 +50,4 @@ If you come to watch Scream and Scream Again with expectations as high as its am
   
 Oh, and the whacky science towards the end is just great...  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpFrEdZgDjpxMSHU9YQfX956OPz9VQt3CWUlVlg6TdiR78MehsV4DdU2oR2qnpIT2io3U44Fn-kFzM2_h2fB9FyKmOKz-tg8kzRWx0sbnls1UaaAi-lREdgRsoIJ13X9F3DJyY4Cq87RY/s400/Scream%20and_009.jpg)](http://picasaweb.google.com/lh/photo/UyaJeA-rfv3rTcJJ6xOQ4Q?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEgpFrEdZgDjpxMSHU9YQfX956OPz9VQt3CWUlVlg6TdiR78MehsV4DdU2oR2qnpIT2io3U44Fn-kFzM2_h2fB9FyKmOKz-tg8kzRWx0sbnls1UaaAi-lREdgRsoIJ13X9F3DJyY4Cq87RY/s400/Scream%20and_009.jpg)

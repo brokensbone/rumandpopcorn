@@ -36,7 +36,7 @@ June was a fairly slow month for films for me. Between other excitements though,
 5\. El Asesino del Parking – Spanish slasher flick about a guy who kills in carparks. One of the highlights of the month's films; this manages both to be gripping murder mystery and also rather wonderfully gruesome. I'd recommend it to anyone, though it's not for everyone.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGcu_R0R5IqA10PxjWo6JgukVxdDGefEjuvWGzUtsePLN4e_H43YqJGi_Sc6F9DvYLWBmVf0YN1LNxwZojjNW_NqmPIr8apIv79tOe7f44UNONtJy91-alw_o46tsGA2bUSwPfCtAe1g/s400/peliculas.6544.IMAGEN1.jpg)](http://picasaweb.google.com/lh/photo/GutQ-Q8dZZREv-KrQcEgze54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEgcGcu_R0R5IqA10PxjWo6JgukVxdDGefEjuvWGzUtsePLN4e_H43YqJGi_Sc6F9DvYLWBmVf0YN1LNxwZojjNW_NqmPIr8apIv79tOe7f44UNONtJy91-alw_o46tsGA2bUSwPfCtAe1g/s400/peliculas.6544.IMAGEN1.jpg)  
 
   
 6\. Opera – Argento slasher. Easily one of the best; bloody and great fun. There really isn't much else to say; if you've seen an Argento film you'll know the kind of thing to expect - beautiful cinematography, grisly deaths - and if you haven't then I'd say here was a good place to start.  

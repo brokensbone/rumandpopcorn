@@ -14,14 +14,14 @@ tags:
 
 This is just a short and grumpy post.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglGyfn2M2xllNjCjln0OImP2UwUjgwjwOwkeXUQNy3vbSeHycK6c5n2pqCer7ReuD1MQ-ptblCmcH3f7lYkJ_YJzz5Qii7NGFWLcFn8qqbXDZMOPad20__EFHf5iGHK8oB-eNJrQrTKeY/s400/let_the_right_one_in_poster.jpg)](http://picasaweb.google.com/lh/photo/iYAQ-uJzAz3AbUOY09Fn_e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEglGyfn2M2xllNjCjln0OImP2UwUjgwjwOwkeXUQNy3vbSeHycK6c5n2pqCer7ReuD1MQ-ptblCmcH3f7lYkJ_YJzz5Qii7NGFWLcFn8qqbXDZMOPad20__EFHf5iGHK8oB-eNJrQrTKeY/s400/let_the_right_one_in_poster.jpg)  
   
 [Let Me In](http://www.imdb.com/title/tt1228987/). If you've been paying attention you'll know that it's the forthcoming remake of 2008's (?) [Let The Right One In](http://www.imdb.com/title/tt1139797/), a Swedish film that is easily one of the best horror productions of recent years (maybe even the decade?) and an antidote to the sparkly fang-less prancing of the [Twilight](http://www.imdb.com/title/tt1099212/) saga.  
   
 Matt Reeves, the director of the remake is reported in Empire as saying that he simply can't understand the furore around the remake, claiming it should be normal as Hollywood has been churning out remakes for years. Quite apart from the fact that the "it's happened lots of times before" argument is a completely pathetic method of avoiding the point entirely, he has also chosen to ignore that the remake culture he refers to is usually concerned with remaking films that are twenty or so years old. Not two.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYlkrFyLzLpIr6OosdXN9PN1WMaNqBpXoz2qYq1pXjsXSsI7qZwKv9J6wXQgEFwYozjfYyUkdP9K0b1S0v918GmSqlrTgSaX4NTp2tfMUp-J9yz0Brxkab1db5L7EIDefBg5At7Cw53rE/s800/Let-Me-In-Poster.jpg)](http://picasaweb.google.com/lh/photo/5rgEAcjpdugfHQfXwd29Pu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEhYlkrFyLzLpIr6OosdXN9PN1WMaNqBpXoz2qYq1pXjsXSsI7qZwKv9J6wXQgEFwYozjfYyUkdP9K0b1S0v918GmSqlrTgSaX4NTp2tfMUp-J9yz0Brxkab1db5L7EIDefBg5At7Cw53rE/s800/Let-Me-In-Poster.jpg)  
 
   
 As an example, the remake of [Nightmare on Elm Street](http://www.imdb.com/title/tt1179056/), although completely unnecessary, is clearly catering to an entirely new audience, a younger generation who haven't seen the original but are (perhaps unwittingly) just waiting to be shepherded in to the world of gory horror flicks.  

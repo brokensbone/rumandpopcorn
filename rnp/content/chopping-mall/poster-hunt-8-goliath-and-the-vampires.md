@@ -15,6 +15,6 @@ This gorgeous piece of retro poster-art looks back to a day when a film could be
 SEE: The Revolt of the Faceless Humanoids? Count me in!  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-EJSqf4ttc8WsQ1TZ2_qdzBfLjGDvPRn0muOl00aI4A_6OTqKynIJ6VfqEe-WMnkuyixC2BQZiI7KEzjjbxmE9Mo3rYIgUoOQ1DQ6I6ydo5DkMzR-th_0xqq3xcMY89W6osL7pvvbEA/s640/POSTER%2520-%2520GOLIATH%2520AND%2520THE%2520VAMPIRES.JPG)](https://picasaweb.google.com/lh/photo/KQRsOoHF-CoyZnL_2c0UQ-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEhH-EJSqf4ttc8WsQ1TZ2_qdzBfLjGDvPRn0muOl00aI4A_6OTqKynIJ6VfqEe-WMnkuyixC2BQZiI7KEzjjbxmE9Mo3rYIgUoOQ1DQ6I6ydo5DkMzR-th_0xqq3xcMY89W6osL7pvvbEA/s640/POSTER%2520-%2520GOLIATH%2520AND%2520THE%2520VAMPIRES.JPG)
 
 [](http://picasaweb.google.com/lh/photo/gjZ40VxPw3NKWdclfV-_fA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)

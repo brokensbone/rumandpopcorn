@@ -12,7 +12,7 @@ tags:
 - Deep Red
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXr6SZPQ2K9fwWbNXBPph4n9ldIgyGQe0ccnspvQmPPCI-RCFtUxoUOfe4uqf2NxHRLTzDWByOwqQZzTJsMzIViZYII6CVjw1fRYmOljt2LrBP0DzeeH2KsNYwWKAPGq8NjE7NLii0YUo/s640/deep_red_poster_01.jpg)](https://picasaweb.google.com/lh/photo/5kPsVAJwL48W6mW8L-CaHe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEhXr6SZPQ2K9fwWbNXBPph4n9ldIgyGQe0ccnspvQmPPCI-RCFtUxoUOfe4uqf2NxHRLTzDWByOwqQZzTJsMzIViZYII6CVjw1fRYmOljt2LrBP0DzeeH2KsNYwWKAPGq8NjE7NLii0YUo/s640/deep_red_poster_01.jpg)  
 
 Well, after the (comparatively) low point of Four Flies..., the week got right back on track with the superb Argento masterpiece that is Profondo Rosso. This is a film very much in the Bird with the Crystal Plumage vein; it's giallo murder mystery through and through. On top of that, it's done extremely well.  
   

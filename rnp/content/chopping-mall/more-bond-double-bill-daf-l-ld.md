@@ -12,7 +12,7 @@ tags:
 
 **Diamonds Are Forever**  
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaB0LKLscrHudLRxq3GBxqtDMAmAlYNPQ6FpYJ8HEIXJFtoN86atWIRhTt56xDGMCCLdq9rMDj6k1kbRv7EDRcrJJWvoQSa-_ncK31E7MnzIw3jwwSYRXbHxdxeEEoTDEuz6oynnj18nc/s400/james-bond-diamonds-are-forever-01.jpg)](https://picasaweb.google.com/lh/photo/N85yiVgr0BOriOMu4wROAO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgaB0LKLscrHudLRxq3GBxqtDMAmAlYNPQ6FpYJ8HEIXJFtoN86atWIRhTt56xDGMCCLdq9rMDj6k1kbRv7EDRcrJJWvoQSa-_ncK31E7MnzIw3jwwSYRXbHxdxeEEoTDEuz6oynnj18nc/s400/james-bond-diamonds-are-forever-01.jpg)
 
   
 **After the disappointment of On Her Majesty's..., I expect everyone was as glad as me to see Sean Connery resuming Bond duties, taking the role back from Lazenby for one last Bond film.  I had hazy memories of Diamonds Are Forever being - as well as one of the better titled Bonds - one that I'd particularly enjoyed. Sadly, it seems I was getting my Bond films confused: DaF is a pretty dull outing, really.**  
@@ -24,7 +24,7 @@ Most of all it isn't that DaF is bad in any real sense (at least no more bad tha
 **Live and Let Die **  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxI37XK7A1XL5f-Htp51Jup5wi7Ic0qmnHgjnlFloetUDCGL8dIHjKKPExu_nApyY7lreFu4D-lnhEs4CAl5yZRsEdF3Qn_wWzmfVLaguyzgKlAfiFzEhyHJzjMNUJWmpA_zVZt4xe3U/s400/Live-Let-Die.jpg)](https://picasaweb.google.com/lh/photo/xUIkXBl6eW33dceSJRp-E-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEhWxI37XK7A1XL5f-Htp51Jup5wi7Ic0qmnHgjnlFloetUDCGL8dIHjKKPExu_nApyY7lreFu4D-lnhEs4CAl5yZRsEdF3Qn_wWzmfVLaguyzgKlAfiFzEhyHJzjMNUJWmpA_zVZt4xe3U/s400/Live-Let-Die.jpg)
 
   
 **L&LD can be accused of many things but it's certainly not boring. It's almost as if, face with reinventing Bond in a Roger Moore shape, the producers just decided to throw all sorts of fun at the film and see what stuck. **  

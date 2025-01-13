@@ -16,9 +16,9 @@ First up, here's a Poster Hunt for July.
 Here are a couple of posters for Jaques Tourneur's Nightfall ([IMDb](http://www.imdb.com/title/tt0049552/)) from 1957, starring Aldo Ray, Brian Keith and Anne Bancroft. I don't write much about the films for these Poster Hunt posts (as I select them for artwork rather than the film - most of them I haven't seen), so if you do want to know more about the film I'll direct you to this [comprehensive blog post](http://www.noiroftheweek.com/2007/08/nightfall-1957.html) at [Noir of the Week](http://www.noiroftheweek.com/).  
   
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT5g-Tr0sLgiiFf2RAImaCJnayKOsZXm0vZi2cuag5sDQBb58-i4wYEg_6c_4LSbzVC0FjoeM-cv8cS0qE_oXW4PWxinetszLVmX2fYsRBU-rO7NRDHlAlfVb5y5LpgDSCYQoW_O93-qY/s800/nightfall-2.jpg)](http://picasaweb.google.com/lh/photo/KYp2uiJQUM-j52J85KQ9-u54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEgT5g-Tr0sLgiiFf2RAImaCJnayKOsZXm0vZi2cuag5sDQBb58-i4wYEg_6c_4LSbzVC0FjoeM-cv8cS0qE_oXW4PWxinetszLVmX2fYsRBU-rO7NRDHlAlfVb5y5LpgDSCYQoW_O93-qY/s800/nightfall-2.jpg)  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioeXnjdiwK66S8LnZIF3pHmmRbmelV4tb5RBpp6Ea7dKKBDOm6WpaFEjVaPKTR8IRnusbJK5nBXgVc0YcAJV9dJgtideED_0ncaTzAF-mQ5ZlXJXssT581r5TyTvvYFOR-tuAPN2KbSNs/s800/nightfall-3.jpg)](http://picasaweb.google.com/lh/photo/eOEFdCxDFHCwzTUE5qatOe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEioeXnjdiwK66S8LnZIF3pHmmRbmelV4tb5RBpp6Ea7dKKBDOm6WpaFEjVaPKTR8IRnusbJK5nBXgVc0YcAJV9dJgtideED_0ncaTzAF-mQ5ZlXJXssT581r5TyTvvYFOR-tuAPN2KbSNs/s800/nightfall-3.jpg)  
   
 Every day for five years? That's quite a claim!  
   

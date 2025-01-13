@@ -19,7 +19,7 @@ tags:
 First up: **_Vikingland!_**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYdQwNCLOnhHCimAIKnKN45KRE-2jIKHRqR46Sv8ko6RdAPVSX5ZNbFd_csCqetf0ev79vdrkLFP-1t8fu_LfRVZ4ZXR9wWJpNohr3ZeDFr8CkaDeq2nB5P27L2qk-c9VIkQR3XHwOp_U/s400/size1_vikingland3.jpg)](https://picasaweb.google.com/lh/photo/mXiSYIb5w6bb4oHpXjSSPO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjYdQwNCLOnhHCimAIKnKN45KRE-2jIKHRqR46Sv8ko6RdAPVSX5ZNbFd_csCqetf0ev79vdrkLFP-1t8fu_LfRVZ4ZXR9wWJpNohr3ZeDFr8CkaDeq2nB5P27L2qk-c9VIkQR3XHwOp_U/s400/size1_vikingland3.jpg)
 
   
   
@@ -34,7 +34,7 @@ The extended Galician-sailors' Christmas dinner is a great scene. The wine-guzzl
 Next up: _**Moscow Diary**_**.**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtN9NLeuK9W5UxEMWyk1n9_XpulISTbyMjgb69fTjOltG4GPpFbsy3unpaXuJuX4DeMxwHP4IBUOOzwAtixQ6da4nP2EMS-RD0TjQmFW6PM-yoYNIOii_nt3kYMIjg_EMBGTkTBmtKemU/s400/AdamKossoff_MoscowDiaries.jpg)](https://picasaweb.google.com/lh/photo/b39PFamMHya2bgFHSaaDZu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgtN9NLeuK9W5UxEMWyk1n9_XpulISTbyMjgb69fTjOltG4GPpFbsy3unpaXuJuX4DeMxwHP4IBUOOzwAtixQ6da4nP2EMS-RD0TjQmFW6PM-yoYNIOii_nt3kYMIjg_EMBGTkTBmtKemU/s400/AdamKossoff_MoscowDiaries.jpg)
 
   
   
@@ -47,7 +47,7 @@ _Moscow Diary_ was paired with another mid-length film about Walter Benjamin (yo
 In this one, Parisian (?) Benjamin-obsessive Séraphin comes out by train to the border with Spain to recreate Benjamin's last journey, fleeing France for what he hoped would be safety in Spain, before eventually killing himself in the Spanish town of Portbou.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2wT5atJuCrI1-QR0H3iQXJO02rhNhd_R0jqM6mRqOFJUApQAUDZM-J0T0vVU13iZMfuyc8ZQ-HBXQ8CaU1hAs4iTDb56O5QJURz9s_9bywviSkeAa6ABqrLxaQUZWERJC_uixaVE0Qw/s800/les-anges-de-port-bou.jpg)](https://picasaweb.google.com/lh/photo/zLWyQSkvbJM-nyPLAVLP4O54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiA2wT5atJuCrI1-QR0H3iQXJO02rhNhd_R0jqM6mRqOFJUApQAUDZM-J0T0vVU13iZMfuyc8ZQ-HBXQ8CaU1hAs4iTDb56O5QJURz9s_9bywviSkeAa6ABqrLxaQUZWERJC_uixaVE0Qw/s800/les-anges-de-port-bou.jpg)
 
   
   

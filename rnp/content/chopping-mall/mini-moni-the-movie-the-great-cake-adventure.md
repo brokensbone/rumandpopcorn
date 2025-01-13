@@ -10,14 +10,14 @@ tags:
 - japanese
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLZLFhwvAQmnZ0I2Us8rEMXpxdCEg38semQIjJFW-512d5UVQYnCxEWgeX-VqFfhExsEBFMXEg2RxYdto3RsI_D8XcS36vQYi0KJdrXuo877LMZCLhDavUOEHMeWCBInt1MS0_DZ2LNg/s400/minimoni.jpg)](http://picasaweb.google.com/lh/photo/w734t31fsyeXVE1OvQ0VIQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjoLZLFhwvAQmnZ0I2Us8rEMXpxdCEg38semQIjJFW-512d5UVQYnCxEWgeX-VqFfhExsEBFMXEg2RxYdto3RsI_D8XcS36vQYi0KJdrXuo877LMZCLhDavUOEHMeWCBInt1MS0_DZ2LNg/s400/minimoni.jpg)
 
   
   
 This is, without doubt, one of the strangest things I have ever seen. Too weird for IMDb to even list it, Mini Moni the Movie: the Great Cake Adventure is just too damn odd to be true.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEg4DurkP0k5R3W7ud7dvC8M4wzXPn0Zj1llfCt3OPhCMioqvWrngWuDoUWEWKQl4MJDkbLP8D5mOo0iGPewpgFuz8jSQpM_IlJPZVk59Y-PgqwbuB5AcHZi6AGtofLRCI2QzXlpg_xNc/s400/MiniMoni%20T_000.jpg)](http://picasaweb.google.co.uk/lh/photo/vHhxQyH_PDhVFxivWMgvdQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhEg4DurkP0k5R3W7ud7dvC8M4wzXPn0Zj1llfCt3OPhCMioqvWrngWuDoUWEWKQl4MJDkbLP8D5mOo0iGPewpgFuz8jSQpM_IlJPZVk59Y-PgqwbuB5AcHZi6AGtofLRCI2QzXlpg_xNc/s400/MiniMoni%20T_000.jpg)
 
 From [film diary](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
@@ -30,11 +30,11 @@ I knew Japanese films had a tendency towards the weird but this is something ent
 Please watch this if ever you get the chance!  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtnOXnLRvoqCzjpWIYuTKf2w3_mJXW65umxq6sArx7o1DtVxdiOnmxAo3PP6PQ08FeZEupiNANWORKOP973Ouk5FxaV1MA6RzWebA0z-OY6Ry_MVgO8wbPkeHGiOLZa_69jAqmQ1niE3A/s400/MiniMoni%20T_004.jpg)](http://picasaweb.google.co.uk/lh/photo/W8txHdmgcA537841qxP7JA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjtnOXnLRvoqCzjpWIYuTKf2w3_mJXW65umxq6sArx7o1DtVxdiOnmxAo3PP6PQ08FeZEupiNANWORKOP973Ouk5FxaV1MA6RzWebA0z-OY6Ry_MVgO8wbPkeHGiOLZa_69jAqmQ1niE3A/s400/MiniMoni%20T_004.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGNkfkTjT17ibBxh_JVsE6lM17bq1n2qlXpFN6SM0G85RLyLiE5x7CoMjcewxO20w70zlue_pC_-lZAU4jRDBrXgDFA6f2bDsGCwKTIYZ0xTt_8qrC88BJy5NEUXQyIq-Q-OtO27vhaQ8/s400/MiniMoni%20T_012.jpg)](http://picasaweb.google.co.uk/lh/photo/idzCguSWwj17nexs3s7mxw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhGNkfkTjT17ibBxh_JVsE6lM17bq1n2qlXpFN6SM0G85RLyLiE5x7CoMjcewxO20w70zlue_pC_-lZAU4jRDBrXgDFA6f2bDsGCwKTIYZ0xTt_8qrC88BJy5NEUXQyIq-Q-OtO27vhaQ8/s400/MiniMoni%20T_012.jpg)  
 
   
   

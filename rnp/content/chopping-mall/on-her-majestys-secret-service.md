@@ -12,7 +12,7 @@ tags:
 - James Bond
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDGpauZysGCJS5pbe-YIN9NRApbxJTdZ-JB22CT7p4Gc5cMKo8XciCosgU_J5EtFPhrxAOq5gZiCqe0DQVNGaA76FxVaUdcmiUHxmtWEWw0vNJOEuNVNWoMtJQ8RFkPVtJErqDOA4288I/s800/ohmss.jpg)](https://picasaweb.google.com/lh/photo/a9IhYfjVfHe9UoDXLiFSa-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjDGpauZysGCJS5pbe-YIN9NRApbxJTdZ-JB22CT7p4Gc5cMKo8XciCosgU_J5EtFPhrxAOq5gZiCqe0DQVNGaA76FxVaUdcmiUHxmtWEWw0vNJOEuNVNWoMtJQ8RFkPVtJErqDOA4288I/s800/ohmss.jpg)
 
   
   
@@ -29,4 +29,4 @@ There's basically two ways of looking at OHMSS: if you treat it as a Bond film, 
 Still, OHMSS was slightly-less-bad than I had expected, which is pretty much all I was hoping for. Hello and goodbye Mr Lazenby. Next time it's back to Connery...  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnzEblghrs9blEnDU3YTmIlDNfkHRSiZRl1F3k8AjrYBprbD18j5AVrtmZCRIzqf-nv_ORtf5U6-CIQVPN-GDQ8Tm2Wwzm5g6jxcMxK6qGeF6DV_J9nNGXqQ4ukw2uV7vdV_JZCtAU1k/s800/ohmss2.jpg)](https://picasaweb.google.com/lh/photo/1SGVgh8-W5YVvKyx2UkX1-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjbnzEblghrs9blEnDU3YTmIlDNfkHRSiZRl1F3k8AjrYBprbD18j5AVrtmZCRIzqf-nv_ORtf5U6-CIQVPN-GDQ8Tm2Wwzm5g6jxcMxK6qGeF6DV_J9nNGXqQ4ukw2uV7vdV_JZCtAU1k/s800/ohmss2.jpg)

@@ -13,7 +13,7 @@ tags:
 - Dario Argento
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9wC4g2-3QE0lbyhNZ5EkWzw16AzZMoG-Bpo2Sia1auSKQ3s_5zQN5XNw3TvMj8t8pnuPlKCXRm19DJ6IfPLsu-CYOGRTGgkI4dS0aC68tZe2mUyiAfcOe2ngAXGLeN_6i8TlCe739RA/s800/phenomena_poster_02.jpg)](https://picasaweb.google.com/lh/photo/-pWrBJHK4mvNk7QlODUqGO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEim9wC4g2-3QE0lbyhNZ5EkWzw16AzZMoG-Bpo2Sia1auSKQ3s_5zQN5XNw3TvMj8t8pnuPlKCXRm19DJ6IfPLsu-CYOGRTGgkI4dS0aC68tZe2mUyiAfcOe2ngAXGLeN_6i8TlCe739RA/s800/phenomena_poster_02.jpg)  
 
   
 Another new (to me) Argento film, another next-day post. The problem this time, though, is that I still don't know what to think. Phenomena has me confused; it could either be my least favourite Argento film yet or it could even be - whisper it- my favourite. I certainly will need to see it again beofre I'm sure.  

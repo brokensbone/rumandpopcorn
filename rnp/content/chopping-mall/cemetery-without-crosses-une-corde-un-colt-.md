@@ -12,7 +12,7 @@ tags:
 - Western
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwMEOAghqIHX49wpW7XOseBZKSZ71vb7nlPvBDN6rmxT68dnrf_FssLIs71JZIiiNvmFI_KggMG_k4uYQ_MTVe4akXnl6um5lm6Rph1KzvLrF3K56TfCeINoCxArVhYM1TGk4RmcCWm14/s400/cemetery%20without%20crosses.jpg)](http://picasaweb.google.com/lh/photo/5aaTu8FtyMQtoyQh0U2fAg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjwMEOAghqIHX49wpW7XOseBZKSZ71vb7nlPvBDN6rmxT68dnrf_FssLIs71JZIiiNvmFI_KggMG_k4uYQ_MTVe4akXnl6um5lm6Rph1KzvLrF3K56TfCeINoCxArVhYM1TGk4RmcCWm14/s400/cemetery%20without%20crosses.jpg)  
   
 Westerns are in an odd place these days. The culture of the Western is so deeply ingrained in our collective consciousness that everyone is familiar with some, if not all, of the classic clichés and norms of the Western film. Goodies wear white hats, baddies wear black. They smoke. They shoot. They drink whisky. They fight in bars. They barge through saloon doors, chase each other on horses across the desert, dash over the border to Mexico when the heat's on, have quick-draw shoot-outs at high noon, etc, etc.  
   
@@ -24,9 +24,9 @@ THe simple, obvious and so most likely true (thanks Occam's razor...) answer to 
   
 Of course, this doesn't mean we should forget the rest. There are some excellent Westerns available and Cemetery Without Crosses is one of the best. And guess what? Neither Eastwood nor Morricone are anywhere to be seen!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7E1LZB5wkRgp4pHrg9Zc6erR8-jLR9Av56O5GB-enMdeNq2BAnRtDqLzGL-_MmpSaYACb2GtWyKTtog_dYzxO4RDRQcQb6cy6two_Btbmyck_ewWxlxuIznnqZy1wMSnLL4ZbjF2223o/s400/vlcsnap-00001.jpg)](http://picasaweb.google.com/lh/photo/ZRVrwIPgvhK8ERJ-w4p1qw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEj7E1LZB5wkRgp4pHrg9Zc6erR8-jLR9Av56O5GB-enMdeNq2BAnRtDqLzGL-_MmpSaYACb2GtWyKTtog_dYzxO4RDRQcQb6cy6two_Btbmyck_ewWxlxuIznnqZy1wMSnLL4ZbjF2223o/s400/vlcsnap-00001.jpg)  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrwYiRrqYsuecM1MlHJuvwzOqpKlCnXJwtC-rAcrtQJtkY9cEsVwFRhYFre1N2vhHT-ynoDenPx-pGXomOJ4lg5G9Sl1-xJjVMFKRaN1ncgFRVB0uQNkKOGvdyxWo2wNgZ5EoUl1ECs4/s400/vlcsnap-00002.jpg)](http://picasaweb.google.com/lh/photo/g-ekW6eHaCBsOa05yvFa7w?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgIrwYiRrqYsuecM1MlHJuvwzOqpKlCnXJwtC-rAcrtQJtkY9cEsVwFRhYFre1N2vhHT-ynoDenPx-pGXomOJ4lg5G9Sl1-xJjVMFKRaN1ncgFRVB0uQNkKOGvdyxWo2wNgZ5EoUl1ECs4/s400/vlcsnap-00002.jpg)  
   
 Leone however, does stamp his presence here; the film is very much a tribute to his style (which is no bad thing!) and he even guest directed what is possibly the best and most tense scene of the movie, the meal at the Rogers family ranch.  
   
@@ -35,12 +35,12 @@ THe story, then, is interesting and tense, albeit very predictably Spaghetti-Wes
 The Rogers have killed one of the Caines and, though the brother Caines are preparing to flee with their cash, the freshly-widowed Mrs.Caine is spitting blood and demmands revenge. Cue involvement of old flame Manuel and a whole lot of people getting shot.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGQEQ15O3mFDdRaWPgeqJS-gxipERrxVNbL3ewQys1uqIjA7rFw6WIrztvhFwO5JLIDk27qoBxwKPe7utgM_j1KlRt-D2g38Flq6lY8E7zdrrKVaRrlyNo4ex_bCJL9WlURdGuRXMHew/s400/vlcsnap-00003.jpg)](http://picasaweb.google.com/lh/photo/i3Yc9_v1JzrAORMfGeC2Uw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhBGQEQ15O3mFDdRaWPgeqJS-gxipERrxVNbL3ewQys1uqIjA7rFw6WIrztvhFwO5JLIDk27qoBxwKPe7utgM_j1KlRt-D2g38Flq6lY8E7zdrrKVaRrlyNo4ex_bCJL9WlURdGuRXMHew/s400/vlcsnap-00003.jpg)
 
 Sexual tension in the Leone-directed dining scene...  
 
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguwu7OYe4J5-Qddh3X8ENiXMzdkHPyu93mgA2XCQ_yluGsnoinSLiiS2cRLkLPG_HvLp7HFsdIcfmSqwDMU0sZylmrAObRRD6iu2LFZgbXnk_rL9Ur3TrBiXW9PbYTo_tflnupi7ryeIg/s400/vlcsnap-00004.jpg)](http://picasaweb.google.com/lh/photo/dinGtAV4rRusHjMHKFvhdw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEguwu7OYe4J5-Qddh3X8ENiXMzdkHPyu93mgA2XCQ_yluGsnoinSLiiS2cRLkLPG_HvLp7HFsdIcfmSqwDMU0sZylmrAObRRD6iu2LFZgbXnk_rL9Ur3TrBiXW9PbYTo_tflnupi7ryeIg/s400/vlcsnap-00004.jpg)  
   
 So no great innovation in terms of plot, but sometimes its executgion rather than originality that's important. What is noticeable is an unusually positive role for women. Western's female characters tended to be demure and pathetic or prostitutes; here we are thankfully given some strong women who manage to assert themselves. Even without taking off their clothes! Something of a rarity for cheap films of the era...  
   

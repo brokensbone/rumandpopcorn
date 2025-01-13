@@ -14,7 +14,7 @@ tags:
 - Fishmen
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT44bwPy1VFTXg1eS8z2KWyqoVqHeN51pmKpAwm7-nCdcUIu6BMjked0JLCBMPDi71pLkQ5MqoxqczbMLSL2kR4JxdhClerFeFr0us8ulL9qLtRelTTJXFkzUGexVjuNIcm2056zS_8rM/s800/humanoids-from-the-deep-original.jpg)](https://picasaweb.google.com/lh/photo/q7T60MBUX640xTxWl_WZnu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEgT44bwPy1VFTXg1eS8z2KWyqoVqHeN51pmKpAwm7-nCdcUIu6BMjked0JLCBMPDi71pLkQ5MqoxqczbMLSL2kR4JxdhClerFeFr0us8ulL9qLtRelTTJXFkzUGexVjuNIcm2056zS_8rM/s800/humanoids-from-the-deep-original.jpg)  
 
   
 Sometimes it's nice to follow one movie with a similarly themed one. But, I asked, where on earth do you go after The Island of the Fishmen? How could I possibly follow up this Roger Corman distributed, low-budget thriller about an island plagued by half-men, half-fish creatures?  

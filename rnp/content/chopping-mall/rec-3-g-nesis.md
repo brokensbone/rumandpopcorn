@@ -11,7 +11,7 @@ tags:
 - splatter
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3sjOF-f-c7n7vSSk0ulhCPAg9pcQVSBNLr00ipo29thYk2NXMOsLGJwl81e3GkOz1xRoLblIn6nXQiU-zpD7GkpKy7zswSsIykp67CVD7ihtzbDWOEUwiovwkDmO9rk1FA1gktJQVRGY/s400/rec3genesis_640x360.jpg)](https://picasaweb.google.com/lh/photo/3mHXJolQpXl340IarKzTu-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEh3sjOF-f-c7n7vSSk0ulhCPAg9pcQVSBNLr00ipo29thYk2NXMOsLGJwl81e3GkOz1xRoLblIn6nXQiU-zpD7GkpKy7zswSsIykp67CVD7ihtzbDWOEUwiovwkDmO9rk1FA1gktJQVRGY/s400/rec3genesis_640x360.jpg)
 
   
   
@@ -22,7 +22,7 @@ The second in the series was by no means as good but it was still streets ahead 
 Coming to the third instalment, then, my hopes were high. Almost worryingly high.  I'm pretty sure that at some point Balaguero and Plaza had said they intended to stop after the second but, given its commercial success, rights-holders Filmmax said they'd continue with other directors in that case (I might have imagined this. But I think it happened). Whatever the details of the scenario, B+P did sign up to do more \[REC\] films but planned two more, of which they would direct one each, rather than co-directing as before. \[REC\]3 is Plaza's segment. It takes place, as far as I can tell, at roughly the same time as the first film. What seemed like an isolated outbreak clearly wasn't...  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghn5dLANdsc_g_aN8bSB_XPyEdPJxO_PRZR7Mdfwv3FA4SMnR9yzuNzp5kdYVAGD_i_w6eSwLkSOdpfyKMqBNjwAiQNQEb2nPTx2UatvuXK0T0jqDT0dbWvoZCfXt7e3hb5WhHkTlCKCY/s400/REC-3-GENESIS-008.jpg)](https://picasaweb.google.com/lh/photo/zRc_LWQWv5Uk1ZSPxD0bpO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEghn5dLANdsc_g_aN8bSB_XPyEdPJxO_PRZR7Mdfwv3FA4SMnR9yzuNzp5kdYVAGD_i_w6eSwLkSOdpfyKMqBNjwAiQNQEb2nPTx2UatvuXK0T0jqDT0dbWvoZCfXt7e3hb5WhHkTlCKCY/s400/REC-3-GENESIS-008.jpg)
 
   
   
@@ -34,4 +34,4 @@ It's certainly not as innovative or as well-crafted as the first film, I'll acce
   
 
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukfXddGeaaHTrJDxhJ9qcGSwNqZ5ufg0ypuaa1cdhx0uP3x_I82RhGdQaYWL9mhJvpi3DQnnU6YlNsaL0NLBStRqPvZzYQOGz3YRG6iiIfUdf4duDZTWMUg14tb_i1tGhRpXL52z0FZw/s800/c21EH.jpg)](https://picasaweb.google.com/lh/photo/gk3pD-oP65W40yaROO0_X-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiukfXddGeaaHTrJDxhJ9qcGSwNqZ5ufg0ypuaa1cdhx0uP3x_I82RhGdQaYWL9mhJvpi3DQnnU6YlNsaL0NLBStRqPvZzYQOGz3YRG6iiIfUdf4duDZTWMUg14tb_i1tGhRpXL52z0FZw/s800/c21EH.jpg)

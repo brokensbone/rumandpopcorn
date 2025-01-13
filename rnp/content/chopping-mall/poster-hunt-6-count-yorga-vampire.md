@@ -11,7 +11,7 @@ tags:
 
 After completely missing out December, Poster Hunt makes a glamorous 2010 return with this rather lovely poster for Count Yorga, Vampire.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwTrAzZCl2FZozv679FjXSjrunBWyjBGM2DUA-g3gtXOEUVDsomphht0eLbDEcZ2NmRZSNeVemouFHZdovXGttfCBArfKC4OT0OD2v9m2nmzJuHR1H2CO1vD9IkYnAzPmMp2xTJfTZyU/s800/POSTER%20-%20COUNT%20YORGA,%20VAMPIRE%20(2).JPG)](http://picasaweb.google.com/lh/photo/v9WWN2Dqj10BMdA-XdoZrQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEglwTrAzZCl2FZozv679FjXSjrunBWyjBGM2DUA-g3gtXOEUVDsomphht0eLbDEcZ2NmRZSNeVemouFHZdovXGttfCBArfKC4OT0OD2v9m2nmzJuHR1H2CO1vD9IkYnAzPmMp2xTJfTZyU/s800/POSTER%20-%20COUNT%20YORGA,%20VAMPIRE%20(2).JPG)  
   
 They just don't make them like that any more...  
   

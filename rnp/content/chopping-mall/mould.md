@@ -18,7 +18,7 @@ OK, so just few days ago I was wowed by the poster for _Mould_\* and decided tha
 \[Yes, the film is actually called '_Mold_' but the word looks silly without a 'u' in the middle. Sorry America. You might be right about 'color' but oyu're wrong about 'mold'\]  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWvUMcsWvrr9f-WCftBmTz8jE8B_sjDoOAXaSoyJW0YvEx12PWdYTJLwsR5pxUU2bb8yHFwhRJcDcPkxVKIfU2hcZ0sJ_MbBxzn1bNkbUH3UHY679nuxHhyphenhyphenTs4ql9Fomp6fQMh4bErZ5s/s640/mold.jpg)](https://picasaweb.google.com/lh/photo/60-Y6BxJ2_Vfo8Sp2PAW1-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiWvUMcsWvrr9f-WCftBmTz8jE8B_sjDoOAXaSoyJW0YvEx12PWdYTJLwsR5pxUU2bb8yHFwhRJcDcPkxVKIfU2hcZ0sJ_MbBxzn1bNkbUH3UHY679nuxHhyphenhyphenTs4ql9Fomp6fQMh4bErZ5s/s640/mold.jpg)
 
   
   
@@ -27,7 +27,7 @@ The plot is about as complex as you'd expect from a low-budget film about mould.
 And it's demonstration day. So as well as 4 scientists (Old scientist, lady scientist, two young scientists who both fancy the pants off lady scientist) we have a coke-snorting congressman, his effeminate aide, a cigar-toting army general and his dumb, macho soldier aide. So now we have cowards, scientists, bullies and a woman. All locked in together in a building with some mould. AND GUESS WHAT!? Despite all the precautions taken, the mould contaminates one of them and, from that point on, the worry of containment and contamination takes over the film.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkvmEK1eOZNbZMWBAq-hHolnJ4y_b9ohuQJpRUwHl3Gh8MJblNR_Tuuqo9SgLmEH-tTeyQEIGAXK5ifnsJNbGf85PtvwevjqI93vf_U5eoEk4AKMQFu_mGIlWbuv5RGvOIE-U2R0xc9jY/s400/vlcsnap2012031708h00m38.jpg)](https://picasaweb.google.com/lh/photo/B27KkSTRd6L8JVIECH7al-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEhkvmEK1eOZNbZMWBAq-hHolnJ4y_b9ohuQJpRUwHl3Gh8MJblNR_Tuuqo9SgLmEH-tTeyQEIGAXK5ifnsJNbGf85PtvwevjqI93vf_U5eoEk4AKMQFu_mGIlWbuv5RGvOIE-U2R0xc9jY/s400/vlcsnap2012031708h00m38.jpg)
 
   
   

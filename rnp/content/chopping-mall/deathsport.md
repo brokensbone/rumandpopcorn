@@ -14,7 +14,7 @@ tags:
 - Perspex-swords
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMIiVT9xy4xCAYXSz56AyUQ663nenVSZEgKxMCwHEQ7CnnkRmbf-F-I-CcBWj8EK5S9XCTf9_wzZ5cReJ1GZB7h1poetd3R6ucdP32sA5jMw5i7JibEydysj_BVSgOHky0jTf8c5SGKts/s400/POSTER%20-%20DEATHSPORT-1.JPG)](http://picasaweb.google.com/lh/photo/9CjlPEs72AJQh4H_Tq0lnw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhMIiVT9xy4xCAYXSz56AyUQ663nenVSZEgKxMCwHEQ7CnnkRmbf-F-I-CcBWj8EK5S9XCTf9_wzZ5cReJ1GZB7h1poetd3R6ucdP32sA5jMw5i7JibEydysj_BVSgOHky0jTf8c5SGKts/s400/POSTER%20-%20DEATHSPORT-1.JPG)  
   
 Right, let's start with what I knew about this film before I started. It stars (the late, great) David Carradine. It's called Deathsport. If that wasn't enough to make me want to watch, what more could I want? Could I cross my fingers and hope that, on top of those two, pretty convincing selling points, that it was produced by Roger Corman and set in a semi-medieval dystopian future? If I had done, I would've been in luck.  
   
@@ -23,7 +23,7 @@ The film is also brilliant. Brilliant in the way that only a really crappy film 
 From the off, you know you're in for a treat. A narrated intro kindly informs us that, since the neutron wars (!), people only live in the cities, leaving the wild and barren countryside (think Star Wars' Tatooine with a few more bushes) to the "dreaded mutant cannibals" (more on them later) and the Range-Guides. These folk are basically wandering Jedi-cum-gypsies, ultra-talented warrior nomads. Peaceful when left alone but capable of fighting when necessary.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwffHsHOr4TJTlN4WOaAo0F1W4GCXBY5efXRh8xCFRTg26jPWtSDTKOn4DuDFhnvoUPIDNhmqoqoCvBLvRm9WWJ8pTVuxW4t2h_kZebteHPzP4A5CAQroUMqt0Fe7tJ4plp4EjimKKfRY/s400/Deathsport_002.jpg)](http://picasaweb.google.com/lh/photo/9AeDQh-zIeV7TYR8UzpkYQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjwffHsHOr4TJTlN4WOaAo0F1W4GCXBY5efXRh8xCFRTg26jPWtSDTKOn4DuDFhnvoUPIDNhmqoqoCvBLvRm9WWJ8pTVuxW4t2h_kZebteHPzP4A5CAQroUMqt0Fe7tJ4plp4EjimKKfRY/s400/Deathsport_002.jpg)
 
 Mr Carradine in his prison cell.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
@@ -33,13 +33,13 @@ Sadly, bonkers Lord Zirpola of the city, has decided, in an effort to increase t
 The DeathMachines are motorbikes. They're motorbikes. Nothing particularly fancy, just motorbikes.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz2c41OwSxoax5whL3pVsG1VMn6bW0RwnxfZSIBY3oYfNlTxmmnYbIV96Zaqzl_m6ti_Ylmzp3a51cGuQ5tgF_a00QfltzJdw0annAn757MsaKl8giA-C3RvCv5gKJQw27lh7z7dUqCLU/s400/Deathsport_007.jpg)](http://picasaweb.google.com/lh/photo/cfwUKOPmgdf9a5g9kkiJdw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEiz2c41OwSxoax5whL3pVsG1VMn6bW0RwnxfZSIBY3oYfNlTxmmnYbIV96Zaqzl_m6ti_Ylmzp3a51cGuQ5tgF_a00QfltzJdw0annAn757MsaKl8giA-C3RvCv5gKJQw27lh7z7dUqCLU/s400/Deathsport_007.jpg)
 
 Carradine and Claudia Jennings plan their next move[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhljfiRrgigVOwB3zHG4cgKx4BVxMM4la2eAEMLlA8ZjJScbL6zR6hi8p4M4qiz3f5rbdCkpNCP1_st7HhJiivVDT2Z8N4ZDxuwGAC8t6dEiwLm26F5mccOavU9Hu0YbS0OcE6eWF_bRhg/s400/Deathsport_001.jpg)](http://picasaweb.google.com/lh/photo/PNRsjfDLn4I-xrhZUveBuA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhljfiRrgigVOwB3zHG4cgKx4BVxMM4la2eAEMLlA8ZjJScbL6zR6hi8p4M4qiz3f5rbdCkpNCP1_st7HhJiivVDT2Z8N4ZDxuwGAC8t6dEiwLm26F5mccOavU9Hu0YbS0OcE6eWF_bRhg/s400/Deathsport_001.jpg)
 
 AIEEEE! DEATH MACHINES! ... Or motorbikes as they're more commonly known.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
@@ -57,6 +57,6 @@ The answer is DeathSport.
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYOlw8cFs5lPkaOjRp3sCnvxBpxGs0nosk3xTS5D03qjdX9YIg2meTxGrzkGlI9NS8R1VxYMu9mllKAi8epeny2xWcMdi3oAWxofzhpjVFR35j46YDW6-6Ym59VPMpoZyhiz_AZc9R9zI/s400/Deathsport_011.jpg)](http://picasaweb.google.com/lh/photo/MgB8Qn5V1C2JeNBIzcUqEw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEiYOlw8cFs5lPkaOjRp3sCnvxBpxGs0nosk3xTS5D03qjdX9YIg2meTxGrzkGlI9NS8R1VxYMu9mllKAi8epeny2xWcMdi3oAWxofzhpjVFR35j46YDW6-6Ym59VPMpoZyhiz_AZc9R9zI/s400/Deathsport_011.jpg)
 
 Perspex-sword wielding wannabe Jedis.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)

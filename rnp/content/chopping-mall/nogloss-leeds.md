@@ -15,7 +15,7 @@ tags:
 **The weekend of the 8th & 9th of September saw the launch of Leeds' first DIY and experimental film festival _No/Gloss_. As a big fan of film festivals with half-an-eye on experimental film this was pretty exciting. I was only able to attend for one of the two days but I had a great time there.**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFIunJ3SAsmH6S6ZdWykuFKJhWvFbKpXAqyS1v6i5-zEFQILJ7DYGRCiF9vYgJ5oinb888L7Ji1RSI6pvMWDx4HwcUIFESPLxbiLpwBzPG0h4U52bhrYPvkSngKNzS2_y73YBQNjDO4Xs/s400/nogloss.jpg)](https://picasaweb.google.com/lh/photo/To_egCB0GMOSW4aGFLVKJu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjFIunJ3SAsmH6S6ZdWykuFKJhWvFbKpXAqyS1v6i5-zEFQILJ7DYGRCiF9vYgJ5oinb888L7Ji1RSI6pvMWDx4HwcUIFESPLxbiLpwBzPG0h4U52bhrYPvkSngKNzS2_y73YBQNjDO4Xs/s400/nogloss.jpg)
 
   
   

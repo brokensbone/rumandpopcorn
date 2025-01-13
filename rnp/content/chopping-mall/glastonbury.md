@@ -11,13 +11,13 @@ tags:
 - Glastonbury
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuUH2NR69gNuCAHsTG2dk6cDsP7vBa2rb2zS3nhAixxBbsvfzvlrCjjdoQFw4ecElxHZSu86uyHn99lYO5J6y54zBOdajcg8npemi-22dNMymgF_lk9BiaGpaBQmH8Ovhb_lv6JmZE9Ks/s800/glast.jpg)](http://picasaweb.google.co.uk/lh/photo/4rDbPNDnkXOAvFZGSxA0_Q?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhuUH2NR69gNuCAHsTG2dk6cDsP7vBa2rb2zS3nhAixxBbsvfzvlrCjjdoQFw4ecElxHZSu86uyHn99lYO5J6y54zBOdajcg8npemi-22dNMymgF_lk9BiaGpaBQmH8Ovhb_lv6JmZE9Ks/s800/glast.jpg)
 
 From [film diary](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhww5TQQpxxNUahfqkGcXtWPgUNdZJifctSCXmDQTzm3SSSsGXyKZKVVH_l723VllhR3JWq61X_ysSqjnP1LEsa1TF1h5HJg-X-D1L-qTr0H-zGKPFIZEPhttBCxYMdAM6ycls7X6nB5bI/s288/DVD%20Defaul_041.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353197035190357554)
+![](/blogspot/AVvXsEhww5TQQpxxNUahfqkGcXtWPgUNdZJifctSCXmDQTzm3SSSsGXyKZKVVH_l723VllhR3JWq61X_ysSqjnP1LEsa1TF1h5HJg-X-D1L-qTr0H-zGKPFIZEPhttBCxYMdAM6ycls7X6nB5bI/s288/DVD%20Defaul_041.jpg)
 
 Mud[](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
@@ -29,13 +29,13 @@ Glastonbury was filmed by Julien Temple and aims to tell the story of the festiv
 Temple had access to a much greater range of footage than Michael Wadleigh did when making Woodstock though and so he attempts to get a hand around roughly 35 years of the Glastonbury festival, from its creation as the Glastonbury fayre, through the Pyramid festival, right up to the Glastonbury festival of Contemporary Performing Arts that it is today. In this manner it sort of meanders through the decades in a haphazard fashion. We get grainy footage of hippies from the 70s, apparently dancing to the Scissor Sisters, cut amongst festival-goers of the 21st century.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMWPgtXVYrBJbj5MEEY5tE6BLj6bY-kAxSoCvREgxZNbALqJ0Em7oT6nHzYlh8UrL8IYUJIfW7FG2o8rdrjwtDwGmSeH56FCQsiHikFzReRUQQrtdRiWEvlgyEA76SmKB8VEY1yYMqaOM/s288/DVD%20Defaul_003.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353196973861007250)
+![](/blogspot/AVvXsEjMWPgtXVYrBJbj5MEEY5tE6BLj6bY-kAxSoCvREgxZNbALqJ0Em7oT6nHzYlh8UrL8IYUJIfW7FG2o8rdrjwtDwGmSeH56FCQsiHikFzReRUQQrtdRiWEvlgyEA76SmKB8VEY1yYMqaOM/s288/DVD%20Defaul_003.jpg)
 
 Mr Eavis thinking of all that cash...[](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExQBePwYhwLwxesNsXSK0BWH_Pk-5X_oOuV0KejWbyqpSkNwa3QuW0PRGdS1mu8QJ8tIw9H2S5W2FSagl1YBC5g76O_DZheKxzE8n9BzsYQDlJOOeVPRnhnrE1ox1OfFx438UhJaz-vY/s288/DVD%20Defaul_015.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353197007067662242)
+![](/blogspot/AVvXsEiExQBePwYhwLwxesNsXSK0BWH_Pk-5X_oOuV0KejWbyqpSkNwa3QuW0PRGdS1mu8QJ8tIw9H2S5W2FSagl1YBC5g76O_DZheKxzE8n9BzsYQDlJOOeVPRnhnrE1ox1OfFx438UhJaz-vY/s288/DVD%20Defaul_015.jpg)
 
 [  
 ](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
@@ -50,13 +50,13 @@ Some of the performances are fantastic, though are - for obvious reasons - weigh
 As such, the film really has no idea whether it's concert footage or a documentary. We get a vaguely chronological story, broken up by decidedly non-chronological songs. It all feels a little muddled at times.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirk9g0BUJaigkLygxycCGYYTmGBzQt3x8lsdRdYx2s1z-CYOBHSklb1PywAwLIHk44xY9yA0zoWZIpGElDuLntSzPD-8qR1vn0XpGSWIUjqe2zPzKHNf56vCAqDIs7nAl1St1jQtab01A/s288/DVD%20Defaul_006.jpg)](http://picasaweb.google.co.uk/lh/photo/28deUy0DCkXgqZlV3DsADQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEirk9g0BUJaigkLygxycCGYYTmGBzQt3x8lsdRdYx2s1z-CYOBHSklb1PywAwLIHk44xY9yA0zoWZIpGElDuLntSzPD-8qR1vn0XpGSWIUjqe2zPzKHNf56vCAqDIs7nAl1St1jQtab01A/s288/DVD%20Defaul_006.jpg)
 
 Nick Cave  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivy1la1DmxKLohv4SGfeGVo1tnoCEAoRxyQxLUTj8-ympzjJKU8_QlKIPvnFzH4T1-fFO968Bk5Olag72lbSk8HHgv_Yu3y3ikxVASHNZFcJQypo1UXVVZYlMQnLQpf9WFNWqOGMBQXM/s288/DVD%20Defaul_009.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353196988305166770)
+![](/blogspot/AVvXsEjivy1la1DmxKLohv4SGfeGVo1tnoCEAoRxyQxLUTj8-ympzjJKU8_QlKIPvnFzH4T1-fFO968Bk5Olag72lbSk8HHgv_Yu3y3ikxVASHNZFcJQypo1UXVVZYlMQnLQpf9WFNWqOGMBQXM/s288/DVD%20Defaul_009.jpg)
 
 ... and his crowd[  
 ](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
@@ -74,14 +74,14 @@ Overall then, watch it if you've been to Glastonbury, watch it if you're going t
 But if you're not particularly interested in Glastonbury, don't watch it expecting a riveting story...  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieF0FY9lVUlK6U1QxSgYyR7a82FfMRBuf_d4hWUxfvTboT_G_CxGmiOk521aBTRaerHgS5HOh60rvDVReQk1RZnsLcGpbSb2lT_ZEdMzAMKhWVEzPL8MNWXHvuHTcU4YXpPp2QaMX_BGk/s288/DVD%20Defaul_037.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353197016708910402)
+![](/blogspot/AVvXsEieF0FY9lVUlK6U1QxSgYyR7a82FfMRBuf_d4hWUxfvTboT_G_CxGmiOk521aBTRaerHgS5HOh60rvDVReQk1RZnsLcGpbSb2lT_ZEdMzAMKhWVEzPL8MNWXHvuHTcU4YXpPp2QaMX_BGk/s288/DVD%20Defaul_037.jpg)
 
 [  
 ](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYpVwOA-dm0BKabqApdkwnr1IVVNcMaPwT8Z7Yy4WAUtIwfCqiYv9ip4GSyG4NlKp9D_AqWZZ4vIVcBTspTvVh4rME1bb2Pw8DIxM8nT72Gx6AxTGQF4I7goZXq371VT-DhC3CwwhcYE/s288/DVD%20Defaul_040.jpg)](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite#5353197026503284882)
+![](/blogspot/AVvXsEjxYpVwOA-dm0BKabqApdkwnr1IVVNcMaPwT8Z7Yy4WAUtIwfCqiYv9ip4GSyG4NlKp9D_AqWZZ4vIVcBTspTvVh4rME1bb2Pw8DIxM8nT72Gx6AxTGQF4I7goZXq371VT-DhC3CwwhcYE/s288/DVD%20Defaul_040.jpg)
 
 [  
 ](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)

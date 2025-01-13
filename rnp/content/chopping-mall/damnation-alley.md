@@ -14,7 +14,7 @@ tags:
 - landmaster
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCmMjjQVd7C-0aIDhqThyP7HkKY5u5n2PgyByDojKjGeNv2loL_MaCbMnUeyP-p4ljvL8pf7NINySuJ5Fw4Z0dT-aM_9eTJV2PD_zd4Zh2fx446XSnspPkfrK2-KhUmKCFKmdd_4CwOyk/s800/damnation_alley_ver2.jpg)](http://picasaweb.google.com/lh/photo/7slGWOJPTs4d-i_tH_jwlw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjCmMjjQVd7C-0aIDhqThyP7HkKY5u5n2PgyByDojKjGeNv2loL_MaCbMnUeyP-p4ljvL8pf7NINySuJ5Fw4Z0dT-aM_9eTJV2PD_zd4Zh2fx446XSnspPkfrK2-KhUmKCFKmdd_4CwOyk/s800/damnation_alley_ver2.jpg)  
   
 Looking back over some of my other reviews, it becomes quite clear what sort of things I appreciate in a film; before even troubling myself with something as trivial as the plot, I've enthused about Christopher Lee, Ennio Morricone, killer shrews, alien monsters, robots, the undead etc, etc. So, if you were to pitch a film as being a post-apocalyptic adventure with giant scorpions and flesh eating cockroaches, do you really think I could turn it down?  
   
@@ -28,15 +28,15 @@ Nowadays, with CGI (of variable quality) and all sorts of clever trickery, I'm s
   
 Eventually they created some kind of savage montage attempt, putting really close up scorpions in the same screen as some further away action. Although it is thoroughly unconvincing, it's so thoroughly bonkers that you really do have to admire it.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaPguspkO08nu7qD9gw0t5HJaX1IMNdZK0kk6kWBvZ0oMsJZrEHUSlIc1pQcjezAjuuOlp2Tfz0TEjzF4Z7eFwdOb1cUuv0kS5EYJVJsHBQtyQEJx9ur3C5H69FSOPVeW5CWiDwHq5NY/s800/damn001.jpg)](http://picasaweb.google.com/lh/photo/4Ff_CWeBbp_LuTBUhCjJXw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgiaPguspkO08nu7qD9gw0t5HJaX1IMNdZK0kk6kWBvZ0oMsJZrEHUSlIc1pQcjezAjuuOlp2Tfz0TEjzF4Z7eFwdOb1cUuv0kS5EYJVJsHBQtyQEJx9ur3C5H69FSOPVeW5CWiDwHq5NY/s800/damn001.jpg)  
   
 Similarly unconvincingly threatening are the flesh eating cockroaches. Though they do have an awful lot of them, they are not really any bigger or scarier than normal cockroaches which, although a little frightening, tend not to be life-threatening. These ones, however, can strip flesh clean to the bone. And do.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK5TL2Xkc9u-SGEigH4N7jCzD5yH0xTAe02EyKivrXJIy1p5hK5KviFo3cpRMs3vZJ8RmD-iTMIcufQp9JlwcpwPfO9jNhmemKoMjiud2OeqTdzKeHFK_vbde4rrFYFlBiVE5KnL3U-ag/s800/damn002.jpg)](http://picasaweb.google.com/lh/photo/FARh9LQORnyDNJOEZtWeMg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjK5TL2Xkc9u-SGEigH4N7jCzD5yH0xTAe02EyKivrXJIy1p5hK5KviFo3cpRMs3vZJ8RmD-iTMIcufQp9JlwcpwPfO9jNhmemKoMjiud2OeqTdzKeHFK_vbde4rrFYFlBiVE5KnL3U-ag/s800/damn002.jpg)  
   
 Also of note, whilst we're looking at the special effects are the brilliant skies. This film was released in the same year as Star Wars, with Fox originally seeing Star Wars as the underdog to this, their major Sci-fi film for the year. Years later when we compare the two, the effects in Star Wars - though decidedly ropey in places - make the er... green and red skies of Damnation Alley seem laughable, but somehow charming.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPPWXyyIQm7Az21GkPWZliWNzyt4mMg5hFKFyxZnvFNxVF14v17bBZIG2qaMMkVgsG-0jrOsy9l6Ww4roibkDmSVoRQ57CFNo-u8SeBZjkuDQKH_EqtQz6g9kPOBIMktKyr8OmaW0iIjQ/s400/damn003.jpg)](http://picasaweb.google.com/lh/photo/2X0cQ3DRuQSDVtJClDyMBQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEiPPWXyyIQm7Az21GkPWZliWNzyt4mMg5hFKFyxZnvFNxVF14v17bBZIG2qaMMkVgsG-0jrOsy9l6Ww4roibkDmSVoRQ57CFNo-u8SeBZjkuDQKH_EqtQz6g9kPOBIMktKyr8OmaW0iIjQ/s400/damn003.jpg)  
   
 Is there anything I missed? Oh yeah, plot. And one other vitally important feature but we'll come to that last.  
   
@@ -44,7 +44,7 @@ The plot is decidedly so-so. It's based on a book by Roger Zelazny. I haven't re
   
 Finally we arrive at the one massively ambitious creation that was a total success; so much so that it has inspired its very own cult following. Ladies and Gentlemen, I present to you, The Landmaster.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcFP8-w8qGbV2OSIJhTj1g_J6H3PW6Gjgg_PcvoyUrS3V3y45IIusW96T3JR6AkP_F0Ckk3rFTbK7j4YPjWYpt4PDGTU-aS7vFv4DhsDNCpRk_jj3jXfmNR1svjTxceLQMsfGGk5rSxOk/s800/damn004.jpg)](http://picasaweb.google.com/lh/photo/kNE0Sf_7fbFGDO1rOV6kLw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhcFP8-w8qGbV2OSIJhTj1g_J6H3PW6Gjgg_PcvoyUrS3V3y45IIusW96T3JR6AkP_F0Ckk3rFTbK7j4YPjWYpt4PDGTU-aS7vFv4DhsDNCpRk_jj3jXfmNR1svjTxceLQMsfGGk5rSxOk/s800/damn004.jpg)  
   
 I'm sure that it would stand out entirely on it's own merit, but the dodgy effects elsewhere in the film make this purpose-built, fully-functional armoured personnel carrier seem truly phenomenal. To be quite honest, if they'd edited out all the dialouge and just shown non-stop footage of the bendy-middled, heavily armed twelve-wheeled behemoth I'd probably have enjoyed the film even more than I did. It's utterly fantastic and the fact it was designed and built for the film (at a cost equivalent today to $1,200,000) only makes me love it more.  
   

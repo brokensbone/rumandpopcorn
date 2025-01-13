@@ -16,7 +16,7 @@ tags:
 \[NEAR THE END THERE ARE A FEW SPOILERS! \]  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvL-nD4Y0uEuz58dlXuCnjhEm60aKNbGVOJ9U_QCgyESEdrfWueXbxljYgPJ5v0j_t1wfEPfItMLfi8IvzoBt9hmh0bXP-mg5E6oRt5tMK-r1TyxHl_EngpNJ6JYLvmzAPRHVOg5zhzg/s800/idioten.jpg)](http://picasaweb.google.com/lh/photo/0ZhcBwOwh3IcU9RdYkomU-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEjdvL-nD4Y0uEuz58dlXuCnjhEm60aKNbGVOJ9U_QCgyESEdrfWueXbxljYgPJ5v0j_t1wfEPfItMLfi8IvzoBt9hmh0bXP-mg5E6oRt5tMK-r1TyxHl_EngpNJ6JYLvmzAPRHVOg5zhzg/s800/idioten.jpg)  
 
   
 I've not seen a lot of Lars Von Trier's films (Antichrist, \*shudder\*) and generally know more about him from interviews and reviews than from his films. What I do know, however, is that clear meanings and easy answers tend not to be big in his films. The Idiots is a perfect case-in-point and, whilst I would never say I want a director to be heavy handed, to spell things out in an overly laboured manner, I do sometimes, just sometimes think that, when you finish a film and think, "uh..... what?", the director has actually failed slightly.  

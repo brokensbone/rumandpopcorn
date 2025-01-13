@@ -19,7 +19,7 @@ Following on from the last though, which scored higher in the crass stakes than 
   
 Here, without further ado, is the poster for your new favourite film...  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZKglw4vm_QR77QWmcdKbYGH1gT2Cp6SmCsDF-Drmb87tSk5K4uN2GgikCeTU_2b2Hh9snx-aAAXVmjRB50CKYXpwTsZ0AFy9Y2TBTbgZ8uAP_8bizcyeRxEForwedH2MRsWjkAz88O0/s400/POSTER%20-%20FRAULEINS%20IN%20UNIFORM%20(EINE%20ARMEE%20GRETCHEN)-1.JPG)](http://picasaweb.google.com/lh/photo/bhxJGwKzrWMK5A7TTRHTMg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgvZKglw4vm_QR77QWmcdKbYGH1gT2Cp6SmCsDF-Drmb87tSk5K4uN2GgikCeTU_2b2Hh9snx-aAAXVmjRB50CKYXpwTsZ0AFy9Y2TBTbgZ8uAP_8bizcyeRxEForwedH2MRsWjkAz88O0/s400/POSTER%20-%20FRAULEINS%20IN%20UNIFORM%20(EINE%20ARMEE%20GRETCHEN)-1.JPG)  
   
 Wow.  
   

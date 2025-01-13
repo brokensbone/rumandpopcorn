@@ -16,7 +16,7 @@ tags:
 **So of course I had to go and see it. **  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21Lefi0EPtOObbNk3nqWzdShj5FfnHeEt39jV18e5HQD-UYqzjTkcJGXSsu4ssi9gxAoC-jGw4vIIEY3Oq7RarkBx8WW52a6vXcD5ECGKZITgl8ktLYDh1vhXjJQSYR-rrk3XTwrzXII/s400/here-comes-the-devil.jpg)](https://picasaweb.google.com/lh/photo/w-AfAFNeGFH7bGVRYYAsne54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEg21Lefi0EPtOObbNk3nqWzdShj5FfnHeEt39jV18e5HQD-UYqzjTkcJGXSsu4ssi9gxAoC-jGw4vIIEY3Oq7RarkBx8WW52a6vXcD5ECGKZITgl8ktLYDh1vhXjJQSYR-rrk3XTwrzXII/s400/here-comes-the-devil.jpg)
 
   
   

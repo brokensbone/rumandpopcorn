@@ -13,7 +13,7 @@ tags:
 - Boa vs Python
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGNqvTCGS4JkThr_iG8syLAwsPbe-4ypzzvNeUi1hPwDQkCBS9BbtxLFNlfi0uy80Jq2lY3z7xoHxvanqWW-rgJxnQh3J2DAuFn9jcol9a8YFZdp8vSHgiwQ-q01NHO29V9t5KwRuv0NI/s800/BoaFront.jpg)](http://picasaweb.google.com/lh/photo/-PcakookSk1D-Fg3aecEjg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgGNqvTCGS4JkThr_iG8syLAwsPbe-4ypzzvNeUi1hPwDQkCBS9BbtxLFNlfi0uy80Jq2lY3z7xoHxvanqWW-rgJxnQh3J2DAuFn9jcol9a8YFZdp8vSHgiwQ-q01NHO29V9t5KwRuv0NI/s800/BoaFront.jpg)  
 [IMDb](http://www.imdb.com/title/tt0412523/)  
   
 First off, I should make it very clear that this is a brilliant film. Not just good, but brilliant. It's fast-paced, full of action and exactly the right length. After all, who wouldn't be keen off a ninety minute serving of CIA vs Hunters vs massive Boa Constrictor vs massive Python?  
@@ -24,9 +24,9 @@ Basic plot as follows (not that it really matters...), dumb rich hunter orders a
   
 The hunters are the most obvious team you could imagine; we have arrogant rich man, his girlfriend who doesn't wear many clothes, silent broody killer, brash macho man who hits on rich-man's lady, snake-fodder old man and a bumbling father-son duo. Their inclusion is a little odd; rich-man is supposed to have rounded up the cream of the hunting crop, others who really enjoy killing big animals but the father-son pair are simply too stupid to have been included. Sadly, their comic-relief is not particularly comic...  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA8d1vk5tZdkOJzTZlksW9yXJrk0Bo8UF2123f-fb19IPhwDHmtXMn0UpMIUQgmFjQPub7dVnqVhNVcq05c1zSBg27PnErw7VJS4dnNAvIwZhHlznYxnaMpRhtvCU6O2ARzZZXCzigRwI/s400/BoaVsPytho_012.jpg)](http://picasaweb.google.com/lh/photo/aoEKKabIcTirZ5TIQJXKYw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhA8d1vk5tZdkOJzTZlksW9yXJrk0Bo8UF2123f-fb19IPhwDHmtXMn0UpMIUQgmFjQPub7dVnqVhNVcq05c1zSBg27PnErw7VJS4dnNAvIwZhHlznYxnaMpRhtvCU6O2ARzZZXCzigRwI/s400/BoaVsPytho_012.jpg)  
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQ8SqleQdbeDAKN52WLQ7wmJJO1s8Vpyad7DejAWGcoRUuyK7nsbYYetnD0oZG47Q8tQkCEvPtNFQdUC8muadXxNjLdJvBGOTHOeQKROB0mVJ5U5fTO0H59VPNqvd61DPYjR8Wf3kn-M/s400/BoaVsPytho_021.jpg)](http://picasaweb.google.com/lh/photo/9V9VJbEh2lm8yVbGpBfd6A?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhnQ8SqleQdbeDAKN52WLQ7wmJJO1s8Vpyad7DejAWGcoRUuyK7nsbYYetnD0oZG47Q8tQkCEvPtNFQdUC8muadXxNjLdJvBGOTHOeQKROB0mVJ5U5fTO0H59VPNqvd61DPYjR8Wf3kn-M/s400/BoaVsPytho_021.jpg)
 
 Hunters or the hunted?[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
@@ -37,5 +37,5 @@ The CIA operatives themselves are equally useless. The first group of four (pres
   
 None of these things though is a problem. This film is simply too much fun to hold such trivial complaints against it. I challenge anyone who watches it not to enjoy it.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUJqKqwRkFu_M-_ZgqgfMGRzaOqWpMmb-nUkRjZeQRctdtV_wpy8gHgoeK5eqXSWV6qKzxT6oEf17_V-NFCaQ1R0t2btsa1IxuWTpk_EOKFQtopeDhQC3-ASzItEZaEGY_J_53qsEBDEk/s400/BoaVsPytho_025.jpg)](http://picasaweb.google.com/lh/photo/J-hhJACy84dc59-RlAsbXg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgUJqKqwRkFu_M-_ZgqgfMGRzaOqWpMmb-nUkRjZeQRctdtV_wpy8gHgoeK5eqXSWV6qKzxT6oEf17_V-NFCaQ1R0t2btsa1IxuWTpk_EOKFQtopeDhQC3-ASzItEZaEGY_J_53qsEBDEk/s400/BoaVsPytho_025.jpg)  
 [](http://www.youtube.com/v/SFo0nZ9sanc&hl=en&fs=1&rel=0&color1=0x5d1719&color2=0xcd311b)[](http://www.youtube.com/v/SFo0nZ9sanc&hl=en&fs=1&rel=0&color1=0x5d1719&color2=0xcd311b)

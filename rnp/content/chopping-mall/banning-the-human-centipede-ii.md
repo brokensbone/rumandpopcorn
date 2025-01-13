@@ -17,7 +17,7 @@ A day or two ago, the UK's national organisation of stopping-you-watching-things
 In one word, this is ridiculous.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqzvQrNVi-La3Q66FjV4H8SB4l537v8GXqNbPQbJxeyRBdfrvWJW2LSERadhQ0Wbb3pIAU5Mw9J9t-Ns394eV7qI52WymcVjuIqJafXJduz7uqrl7vUQ-btg5enbrGhe2JS5QzTPNFuxo/s800/article-2000178-0C72594A00000578-795_468x286.jpg)](https://picasaweb.google.com/lh/photo/EXXVzfF7PpjhUAQprhrtdO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEiqzvQrNVi-La3Q66FjV4H8SB4l537v8GXqNbPQbJxeyRBdfrvWJW2LSERadhQ0Wbb3pIAU5Mw9J9t-Ns394eV7qI52WymcVjuIqJafXJduz7uqrl7vUQ-btg5enbrGhe2JS5QzTPNFuxo/s800/article-2000178-0C72594A00000578-795_468x286.jpg)  
 
   
 To explain why, I'm using this post to write out three of the reasons I believe this. Namely, that 1) this move reveals awkward things about what we do and don't accept, 2) that the evidence upon which we base the 'dangers' of watching bad things is pretty slim and 3) that censorship simply doesn't work.  

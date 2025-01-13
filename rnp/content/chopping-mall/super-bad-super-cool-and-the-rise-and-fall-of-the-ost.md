@@ -18,7 +18,7 @@ I've just finished listening to a really rather wonderful BBC Radio 2 programme 
   
 The hour long show was narrated by Pam Grier (star of Coffy, Foxy Brown and many a great film, described by Tarantino as being probably the first female action star). It delved into several aspects of the genre - from the controversial and much disputed title 'blaxploitation', it's impact and significance for black actors and cinema-goers of 70s USA and the importance of the soundtrack in these films. Calling on a whole host of film and music luminaries from Isaac (RIP) Hayes (if you're young, you probably know him best as South Park's Chef) to Samuel L Jackson to Tarantino, Pam Griers examined the massive impact of cult-classic [Shaft](http://en.wikipedia.org/wiki/Shaft_%281971_film%29) and it's lasting influence on cinema.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsmh3tpdF3qWEFAwAZxjtBcoxF5nKP2M35D4WHcsZZGNL3jTnDLWNCHAQdWqJBlsXR8LqEfBMq3FyzTinutAvmNBloMGNExKevnUSnDVGZ4vin8mgjcDzr8bU4V4ThU2TTarFQEez36M/s800/POSTER%20-%20COFFY-1.jpg)](http://picasaweb.google.com/lh/photo/8eHJDhd4fYqNAdv9nzAYqQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgxsmh3tpdF3qWEFAwAZxjtBcoxF5nKP2M35D4WHcsZZGNL3jTnDLWNCHAQdWqJBlsXR8LqEfBMq3FyzTinutAvmNBloMGNExKevnUSnDVGZ4vin8mgjcDzr8bU4V4ThU2TTarFQEez36M/s800/POSTER%20-%20COFFY-1.jpg)  
   
 I can't add much to the show in terms of genre studies; you'd be much better seeking it out yourself. Sadly the 7 day listen-again feature on bbc iplayer has expired but it's floating around the internet for anyone tech-savvy enough to find it.  
   

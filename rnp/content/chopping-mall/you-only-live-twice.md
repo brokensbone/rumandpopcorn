@@ -11,7 +11,7 @@ tags:
 - James Bond
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUHWv3DTkJzd34bAKnRrSW1040QCaKnUHaOvyPhwxBAtmMZ-AyjZtur9SMApT1NP9_90l7s8cnOwT3GkstTFHr3VTedQgL1eM8eYhJlYvBKTCuwa2x62f6j_HleJBZX-YBKz5dt8bBhEo/s400/You_only_live_twice.jpg)](https://picasaweb.google.com/lh/photo/E1hS8j1Xio-1SmK8_ownY-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgUHWv3DTkJzd34bAKnRrSW1040QCaKnUHaOvyPhwxBAtmMZ-AyjZtur9SMApT1NP9_90l7s8cnOwT3GkstTFHr3VTedQgL1eM8eYhJlYvBKTCuwa2x62f6j_HleJBZX-YBKz5dt8bBhEo/s400/You_only_live_twice.jpg)
 
   
   

@@ -12,7 +12,7 @@ tags:
 - Killer Shrews
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhflituDsFlXX_1l4CbM-nyL22NGqk68u69-R8gfQ6ZDGMdOsONEZTHCmWHR0aizGAmb2CpFLfdeqB-uc5Y7YI8VURTdur1-Er84_zJXwOCiwi2kqRIdTqt2tE2Ir4bUHzBmottsOpAmwg/s800/killershrewsposter01-1.jpg)](http://picasaweb.google.com/lh/photo/Bmgb9rRZ9XPEknA3-KUrvA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhflituDsFlXX_1l4CbM-nyL22NGqk68u69-R8gfQ6ZDGMdOsONEZTHCmWHR0aizGAmb2CpFLfdeqB-uc5Y7YI8VURTdur1-Er84_zJXwOCiwi2kqRIdTqt2tE2Ir4bUHzBmottsOpAmwg/s800/killershrewsposter01-1.jpg)  
   
 If I asked you to think of a fictional movie-title that would be undoubtedly awful, entirely silly and should probably never be made, do you think you could come up with better than The Killer Shrews?  
   
@@ -22,9 +22,9 @@ Mr Money: So, what is this film you were asking for funding for?
   
 Jay Simms (screenplay): Ah, well. It's going to be an exploration of the dangers of science. We're talking themes of genetic mutation, we're talking science going bad, human achievement getting so far ahead of itself that it puts humanity in danger. We want people to think about science, about whether it's a good thing, about where the limits of 'playing God' lie.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-nAqaqjioqy2KNuWN2xzy25Qtg4ShPcr4qdPh1Hwbwwyr5nGtSyHsKn21N_SgnY0uJr40QxIBpgArTtMazi9xdV1iAy1RHyH3zXglW10Ajd0PW4pVPxYtPWYWFTjHKdGpMAbVmaK7Pb0/s400/Killer%20Shr_000.jpg)](http://picasaweb.google.com/lh/photo/FODf5Ih31QVPB3TTRGNpVg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEj-nAqaqjioqy2KNuWN2xzy25Qtg4ShPcr4qdPh1Hwbwwyr5nGtSyHsKn21N_SgnY0uJr40QxIBpgArTtMazi9xdV1iAy1RHyH3zXglW10Ajd0PW4pVPxYtPWYWFTjHKdGpMAbVmaK7Pb0/s400/Killer%20Shr_000.jpg)  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHGyp-3uXG4K020BXtvR2CJhXVU1iEaig95z_tEudOJ_0dOgETGp17f-rLsaxWCp4EJA9_F2COzU91_4ebzVNVJxMgu5ghlGzuNUyLXmvjjtgvtKU-hbft0Cscl3df2OewYfFZzEXI8JI/s400/Killer%20Shr_002.jpg)](http://picasaweb.google.com/lh/photo/f3SAGMfSWCfqO5pxrcHeig?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgHGyp-3uXG4K020BXtvR2CJhXVU1iEaig95z_tEudOJ_0dOgETGp17f-rLsaxWCp4EJA9_F2COzU91_4ebzVNVJxMgu5ghlGzuNUyLXmvjjtgvtKU-hbft0Cscl3df2OewYfFZzEXI8JI/s400/Killer%20Shr_002.jpg)  
   
 Mr Money: (yawning) yeah, yeah. Ok, same old, same old. Isn't that what every science fiction book and film has tried to do? So what makes you the new HG Wells? What's the actual premise?  
   
@@ -43,7 +43,7 @@ Mr Money: You mean like full moon or something? Are we talking werewolf?
 JS: Erm.. not exactly. No. We're talking animals that have been made larger and more vicious through scientific experiments. They've escaped from the lab and are roaming the island. So our heroes arrive just as they're running out of food and turning on their creators. More drinks?  
 Barman! Two pints, two whiskies ... make them doubles!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBLFeIxvXLYvF6RevPXLsAncPQ3Mw5MaKadygl9Vmx2gjfokQD72N8F2M69mJ5RFbd2RV4VKvn3zdn11_fA-HuwitrUNZe7POebLMXe4sORx942HDNf99gADSTgMl497Kb_6mRuQUozYs/s400/Killer%20Shr_007.jpg)](http://picasaweb.google.com/lh/photo/0SxpQZgspZqoBqxF3w6Wiw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjBLFeIxvXLYvF6RevPXLsAncPQ3Mw5MaKadygl9Vmx2gjfokQD72N8F2M69mJ5RFbd2RV4VKvn3zdn11_fA-HuwitrUNZe7POebLMXe4sORx942HDNf99gADSTgMl497Kb_6mRuQUozYs/s400/Killer%20Shr_007.jpg)  
   
 Mr Money: Go on...  
   
@@ -57,7 +57,7 @@ Mr Money: Well, I must say, that all sounds rather good. What did you say the mo
   
 JS: Not exactly...  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN1Q9PwVqtOSGNWrx_7Skp4XB66qCMQUF3UYn_fkEGheQ72CWP8aztvMbxz4TABiELy3gx-D5U9veyxGK_qtCTnnHSfeQs-ET4dr4-mJ5Ka39dvD1aor0M2sJDH3WSlTBE0L5VWAkQz8w/s400/Killer%20Shr_020.jpg)](http://picasaweb.google.com/lh/photo/3a9wiOrdxcruPFKE5HAuKw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhN1Q9PwVqtOSGNWrx_7Skp4XB66qCMQUF3UYn_fkEGheQ72CWP8aztvMbxz4TABiELy3gx-D5U9veyxGK_qtCTnnHSfeQs-ET4dr4-mJ5Ka39dvD1aor0M2sJDH3WSlTBE0L5VWAkQz8w/s400/Killer%20Shr_020.jpg)  
   
 Mr Money: Well come on, tell me, I want to know...  
   

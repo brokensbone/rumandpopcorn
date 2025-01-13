@@ -16,7 +16,7 @@ tags:
 
 Chopping Mall Video: Watch SpaceGodzilla arrive on Earth and bully poor little baby Godzilla. See below or CLICK HERE! \[Video deleted by request from Toho (Godzilla copyright owners). You'd have thought a single teaser scene, linking to a positive review would be free marketing for them, right? No, as we move into 2010, it seems big money studios are still too technology-illiterate to imagine the internet might actually help them\]  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_-CLqIBfkUz2KwGURuyzK9XmDmojTGWSQR49keUZv1iyS_H9Qkd5fnN4Zw6fVsfMlqK4ZjvDVX2yubzT-MvwVdrS1PIlPNIGuIlHFJtw5pwzRK3DsAz1yaps9XM1wkAJaBxcGTiBCvt8/s800/spacegojira.jpg)](http://picasaweb.google.com/lh/photo/UZei1SOJgal5Ytx0ysZUCw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEh_-CLqIBfkUz2KwGURuyzK9XmDmojTGWSQR49keUZv1iyS_H9Qkd5fnN4Zw6fVsfMlqK4ZjvDVX2yubzT-MvwVdrS1PIlPNIGuIlHFJtw5pwzRK3DsAz1yaps9XM1wkAJaBxcGTiBCvt8/s800/spacegojira.jpg)  
   
 [IMDb](http://www.imdb.com/title/tt0109916/)  
   
@@ -29,13 +29,13 @@ At the opposite extreme, there are some films where I end up with thousands of s
 Godzilla vs. Space Godzilla is both interesting in terms of visuals and entirely dull in terms of plot.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxPpUG_SWCfh6wBmFSO1_1JiHfhiO9MM6wnW6Y6JJ9wLC7Eyasfr808fcKtzz9851uzm06L7eJcIHYWy04zkg57EBU50UHnt5lr1QYwPLV2KdtpinQ8mwxva-ujbCBSngE2ioDuR2Myik/s800/1994%20-%20God_001.jpg)](http://picasaweb.google.com/lh/photo/vNnALTqeAacanjVBqSfZSA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEgxPpUG_SWCfh6wBmFSO1_1JiHfhiO9MM6wnW6Y6JJ9wLC7Eyasfr808fcKtzz9851uzm06L7eJcIHYWy04zkg57EBU50UHnt5lr1QYwPLV2KdtpinQ8mwxva-ujbCBSngE2ioDuR2Myik/s800/1994%20-%20God_001.jpg)
 
 Yep, that's more or less the only conclusion possible.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhix2wejobICi_oVUXxnk-oQGpaSayYumhyphenhyphenNq1LUqEqbz4Qsmp0VhF-qqOlfPEEm4NTPVd_hnl4pIzpW_KlrL44GPLR-Ks0IklUnW0qkocrIhyphenhyphenQLNnwTm3JCGvmxbFYk5HuT87_bicksF0/s800/1994%20-%20God_020.jpg)](http://picasaweb.google.com/lh/photo/l9Is4_jkCXKFeX57NowAiQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhix2wejobICi_oVUXxnk-oQGpaSayYumhyphenhyphenNq1LUqEqbz4Qsmp0VhF-qqOlfPEEm4NTPVd_hnl4pIzpW_KlrL44GPLR-Ks0IklUnW0qkocrIhyphenhyphenQLNnwTm3JCGvmxbFYk5HuT87_bicksF0/s800/1994%20-%20God_020.jpg)
 
 Tokyo-stomping time  
 [](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
@@ -46,13 +46,13 @@ Ok, basic plot, such as it is: the army wants to kill Godzilla. They build Mogue
 There are good bits: baby Godzilla is funny as anything and the bonkers lady who hallucinates Mothra comes out with some wonderful lines. She also manages to lift the bed she’s strapped to a couple of feet into the air using her mind, and then explains “it’s telekinesis – I’ve never tried it before”. Must be beginner’s luck, I guess.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXH26CvLpDj7GewiyoIGLEILh2kU7CBiDmKysVtTqnYUUf5vNSRo_1QfOJmIZcFI89agL7j12GDRGjf1BP1qUTn4hMXe8HgyCV0DF6poxzbENk8mrYXan0weN9fqPjFvrajrcHRAZiCg/s800/1994%20-%20God_004.jpg)](http://picasaweb.google.com/lh/photo/d9WxN1Lllzz3PrRmEOTy3w?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhvXH26CvLpDj7GewiyoIGLEILh2kU7CBiDmKysVtTqnYUUf5vNSRo_1QfOJmIZcFI89agL7j12GDRGjf1BP1qUTn4hMXe8HgyCV0DF6poxzbENk8mrYXan0weN9fqPjFvrajrcHRAZiCg/s800/1994%20-%20God_004.jpg)
 
 Mothra-hallucinating lady tries to see into Godzilla's head...  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhU1OWSDVF7JOoGf27awHDop4FJuAnBtBzAwVYV9n3mFGKbqW7wUHPUfWGUIe5DIf8gBSoB5FKfq1TKWt8YSEw1VUVSf33Vfg1PG62VIZFrsmlOYG03WhfjcedVyiVbLUNS9mGJznMKQk/s800/1994%20-%20God_005.jpg)](http://picasaweb.google.com/lh/photo/Lw6Uz8JLkUHYYnn7DPZfRA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEhhU1OWSDVF7JOoGf27awHDop4FJuAnBtBzAwVYV9n3mFGKbqW7wUHPUfWGUIe5DIf8gBSoB5FKfq1TKWt8YSEw1VUVSf33Vfg1PG62VIZFrsmlOYG03WhfjcedVyiVbLUNS9mGJznMKQk/s800/1994%20-%20God_005.jpg)
 
 Moguera, in all his shiny metal transformers-esque beauty.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 

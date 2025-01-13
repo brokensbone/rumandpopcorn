@@ -10,7 +10,7 @@ tags:
 - Shock Moive Massacre
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO5228OdpyugVfhJl5DrUgRLdz0gHrDsuWC8UzlOICJ86u-3T_F2FfkLJIY3iv4Xrps6xeSWE9KeJqYxeo6QEYAoCNaYczIeaUrU_XYxTl4P8ttE16P3-loBb5luzIIIO-PSMDFyGmr1g/s800/abfYiR.jpg)](http://picasaweb.google.com/lh/photo/vTEVNBg2BFiooipaPU2sew?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEjO5228OdpyugVfhJl5DrUgRLdz0gHrDsuWC8UzlOICJ86u-3T_F2FfkLJIY3iv4Xrps6xeSWE9KeJqYxeo6QEYAoCNaYczIeaUrU_XYxTl4P8ttE16P3-loBb5luzIIIO-PSMDFyGmr1g/s800/abfYiR.jpg)  
   
 Emily Booth has, on reflection got to be pretty much the coolest women in horror. There are precious few people who take horror and genre-films very seriously and fewer still who try to drag it kicking and screaming, bleeding and oozing, into the mainstream's attention.  
   
@@ -18,7 +18,7 @@ In this respect, we ought to forget about Emily Booth being one of the coolest w
   
 But [Shock Movie Massacre](http://www.imdb.com/title/tt0370203/) IS a genre-horror tv programme, and best of all: it's really good. I've read interviews with the producer (I think) who sadly claimed that it was unlikely ever to get a proper release as a series on DVD as the numerous gory cult-movie clips were only ever licensed for TV. This is sad. But don't get too down about it, the entire series is (sssshhh, wisper it!) available online if you hunt around a bit.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Ud5krH-fictRKAH04lyiKroTYLk1ISLGlXxT9GSOmEMO9IEBEYt6XQ0cS52zMII54pNDxK33gk-IwhxGdC7ttdTU1MRJESw2fe43hYsTrYms3yF0-BAXvOM7jIFPrXx-cU1FUmwwzcY/s800/gmm_logo.jpg)](http://picasaweb.google.com/lh/photo/mmr-FAxamXiauwlF2fDcdg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEh3Ud5krH-fictRKAH04lyiKroTYLk1ISLGlXxT9GSOmEMO9IEBEYt6XQ0cS52zMII54pNDxK33gk-IwhxGdC7ttdTU1MRJESw2fe43hYsTrYms3yF0-BAXvOM7jIFPrXx-cU1FUmwwzcY/s800/gmm_logo.jpg)  
   
 Perhaps we shouldn't bother turning back to this series though; she's now presenting a new series, [Gorezone Movie Massacre](http://www.gorezone.co.uk/) that you can get on the cover DVD with Gorezone magazine (which I sadly haven't seen) as well as producing her own (excellent) series Emily Booth's Behind The Screams ([available on YouTube](http://www.youtube.com/user/emilyboothable)). The most recent of these takes a peek behind the filming of Doghouse, in which Booth played the awesomely terrifying "Snipper", zombie hairdresser on a rampage!  
   

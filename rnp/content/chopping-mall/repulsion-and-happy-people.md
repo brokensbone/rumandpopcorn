@@ -25,7 +25,7 @@ Three Two more from the Film Festival! Something old, something new, and somethi
 \[_Bellflower_ was going to be included in this group... It'll be coming soon instead...\]  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB_CurbcShZnc7_uX_SsSG-O5YEvjjKypT8PbnC39l9E-4lcNNLTgu0iUoai6d3HHtIOMdcE3FoafX4iY6AvG2402gS6tJfsgdTdIsI8-qDmDfcu8NlKnBMEh1PrJdRASdu6_ta08-OR0/s800/ce_repulsion.jpg)](https://picasaweb.google.com/lh/photo/6WPhNTdxMAsie_jKuErCce54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgB_CurbcShZnc7_uX_SsSG-O5YEvjjKypT8PbnC39l9E-4lcNNLTgu0iUoai6d3HHtIOMdcE3FoafX4iY6AvG2402gS6tJfsgdTdIsI8-qDmDfcu8NlKnBMEh1PrJdRASdu6_ta08-OR0/s800/ce_repulsion.jpg)
 
   
   
@@ -49,7 +49,7 @@ So little of her condition or the realities or origins of her fears is explained
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvkaEBWsMjlSa3CVF_7bamjhFAEr2T3uMw20JZ7BkUDwu2qnmYIb0hgSIWViZSv_sOeThHcI7FuwoLPjLgxW8PTU0GWyKTfrhXCj5dEekq-L9B1ANMm799MbJulpemzntZNRNYe4ImIZw/s800/220px-Happy_People_A_Year_in_the_Taiga_poster.jpg)](https://picasaweb.google.com/lh/photo/AHqvTiNk8YcQVlLU0YARpO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgvkaEBWsMjlSa3CVF_7bamjhFAEr2T3uMw20JZ7BkUDwu2qnmYIb0hgSIWViZSv_sOeThHcI7FuwoLPjLgxW8PTU0GWyKTfrhXCj5dEekq-L9B1ANMm799MbJulpemzntZNRNYe4ImIZw/s800/220px-Happy_People_A_Year_in_the_Taiga_poster.jpg)
 
   
 

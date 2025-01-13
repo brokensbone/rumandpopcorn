@@ -15,7 +15,7 @@ tags:
 - Raw Meat
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilewbPhyaCjJasStfK5WbS6wYeBMTLgqjKKUYp9Dt10192morS_4QbQVnsx_snX7UVtAbEFItHXzDHYRI7bWBBxYq8eTkA4q7hYnl3dsQgIzj6pchO0w0S-KiSsnYkh4NJcPM8lYOh76A/s400/POSTER%20-%20RAW%20MEAT.jpg)](http://picasaweb.google.com/lh/photo/DkSAtUC_wLBjuCqyKFbCPg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEilewbPhyaCjJasStfK5WbS6wYeBMTLgqjKKUYp9Dt10192morS_4QbQVnsx_snX7UVtAbEFItHXzDHYRI7bWBBxYq8eTkA4q7hYnl3dsQgIzj6pchO0w0S-KiSsnYkh4NJcPM8lYOh76A/s400/POSTER%20-%20RAW%20MEAT.jpg)
 
 This poster bears stunningly little resemblence to the film. How puzzling.[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
@@ -28,13 +28,13 @@ For a long while, the disused stations of the London Underground have interested
 Ok, so the very last bit may not be strictly true, but it's the central premise of this film.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjygECd5Bx4dnwaj5iySEEtKwDMZgd4PEp1r8dYcRm9f-RtFWB_OWIBTsoRlz8IfDg8Aanl-JeWyMQ7m1dCfB2B9F9O0mEhJYEDvrD2LC5WzzvLL_aTHVN0rnNXWCdwFPIyfUOtHFTw9Cg/s400/Death%20Line_009.jpg)](http://picasaweb.google.com/lh/photo/nZy1tGkD4htlxQWW6raBgA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjygECd5Bx4dnwaj5iySEEtKwDMZgd4PEp1r8dYcRm9f-RtFWB_OWIBTsoRlz8IfDg8Aanl-JeWyMQ7m1dCfB2B9F9O0mEhJYEDvrD2LC5WzzvLL_aTHVN0rnNXWCdwFPIyfUOtHFTw9Cg/s400/Death%20Line_009.jpg)
 
 Hopping cautiously from the train[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_zDbkBzc4NhE8y1VSR_x3c2oWGc1y3pz9G0lzLXsiN_Xch8D1vseqSKGYvTx7pnSrlEDTIDEwtBZN1fLATCGX8tw2xt9ldDHx69JdC2CzmPowF-CjmL6IS66J7iDQQI2DVMRF-doARs/s400/Death%20Line_001.jpg)](http://picasaweb.google.com/lh/photo/STK8jVdkWW_rVMs9de4nZw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEg1_zDbkBzc4NhE8y1VSR_x3c2oWGc1y3pz9G0lzLXsiN_Xch8D1vseqSKGYvTx7pnSrlEDTIDEwtBZN1fLATCGX8tw2xt9ldDHx69JdC2CzmPowF-CjmL6IS66J7iDQQI2DVMRF-doARs/s400/Death%20Line_001.jpg)
 
 You can smoke on the tube! Right from the start you know this film is pretty old![](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
@@ -46,13 +46,13 @@ JUst along from Russell Square is an abandoned half-finished station, called Mus
 It's an odd film. The Inspector (Donald Pleasence) and his Sergent are comic characters, all stout British swearing and drinking, whilst the underground man is genuinely pretty creepy. Both are pretty good but they just don't feel like the same film. It's noticeable that, by the time they finally actually investigate the tubes, Donald Pleasence seems to be playing a very different character.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3iY4BZVbyJsEAuoXHCQVq46rQ7uXweGWzPq4DDOEg1mqk2quZy-4YSNxBCcsBa3rjna0ZBqWC3XVxqdztKloIYM2pTqlM3dNyOC4n6LMxfsjhCwwd-gTvjPXgEqJhFKuOlqbADK-iNs4/s400/Death%20Line_000.jpg)](http://picasaweb.google.com/lh/photo/4RV_Mpa8zdjHBeJO9dL1Kw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEj3iY4BZVbyJsEAuoXHCQVq46rQ7uXweGWzPq4DDOEg1mqk2quZy-4YSNxBCcsBa3rjna0ZBqWC3XVxqdztKloIYM2pTqlM3dNyOC4n6LMxfsjhCwwd-gTvjPXgEqJhFKuOlqbADK-iNs4/s400/Death%20Line_000.jpg)
 
 Someone's about to die[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg69RLhDM0-Y8xO45ftYgfAjiN8idIaKku-KUMHJzHYv_Y6xNCJOtn_C3OCOcP8XSFdFu4epBB2e-GORFPQjjNGcvnv4xWOqiy8fvU1glCwZsmnehAoWDQBQrdTHfrVMqa5Dz6O-oOiJfI/s400/Death%20Line_003.jpg)](http://picasaweb.google.com/lh/photo/usNrbLg8dR2SM6p9OTF1uA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEg69RLhDM0-Y8xO45ftYgfAjiN8idIaKku-KUMHJzHYv_Y6xNCJOtn_C3OCOcP8XSFdFu4epBB2e-GORFPQjjNGcvnv4xWOqiy8fvU1glCwZsmnehAoWDQBQrdTHfrVMqa5Dz6O-oOiJfI/s400/Death%20Line_003.jpg)
 
 "Yes, we'd better investigate. But first, some tea!"[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
 
@@ -65,6 +65,6 @@ Overall, the funny bits are funny, the creepy bits are creepy and the music is b
 Oh, and the bar scene is amazing.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjruxML-oXIje3FFlFDah-hfKGBL5b8Aaj25-MsF_qEmUPts7KrTnhVuyBVjLw9mLewjEz7G9I0iJfaiA3F3xi00Qw4qZdmUUPm7GNsG5L6bH5ojUlji3ZGWkgwwoYmmnPQ1qNAeSpuBTk/s400/Death%20Line_005.jpg)](http://picasaweb.google.com/lh/photo/7_UUlRcQQdeklRNQOCVKfw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjruxML-oXIje3FFlFDah-hfKGBL5b8Aaj25-MsF_qEmUPts7KrTnhVuyBVjLw9mLewjEz7G9I0iJfaiA3F3xi00Qw4qZdmUUPm7GNsG5L6bH5ojUlji3ZGWkgwwoYmmnPQ1qNAeSpuBTk/s400/Death%20Line_005.jpg)
 
 There's even time for a Christopher Lee cameo[](http://picasaweb.google.com/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)

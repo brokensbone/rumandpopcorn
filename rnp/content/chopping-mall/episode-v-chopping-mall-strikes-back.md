@@ -11,7 +11,7 @@ tags:
 - makes the heart grow fonder
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5pCLZnOwzyzW-9d5lto96fSrkjohUdkhQo4P9s27Ck8Ia8UMfusPAGF3HNmRM0vaVd3bZXDplpgZjeAoRya5gRlcShvFNiHEzToQkEwuZmmdjKFy55i-DoP29wr_EJNm4YdoBddgUAas/s800/choppingmall-1.jpg)](http://picasaweb.google.com/lh/photo/43uhMpWQ0ylsLCQC--ukDw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEg5pCLZnOwzyzW-9d5lto96fSrkjohUdkhQo4P9s27Ck8Ia8UMfusPAGF3HNmRM0vaVd3bZXDplpgZjeAoRya5gRlcShvFNiHEzToQkEwuZmmdjKFy55i-DoP29wr_EJNm4YdoBddgUAas/s800/choppingmall-1.jpg)  
   
 We're back.  
   

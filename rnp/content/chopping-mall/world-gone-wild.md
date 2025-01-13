@@ -14,7 +14,7 @@ tags:
 - cheese
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGzO3nm343O4g5Vl5Lt4OgvmUk1VpoxqnX6_ftgCW75iUmMcoP0oT3XuZpZduJW7upbmoNdjeYh8gcD3-TU6JZ_koToKZyhsDCgxDR2VL_ZYgaGJRU1nCOScIVSkmbPpEFuh51Cb-ig_M/s800/worldgonewild1bg9.jpg)](http://picasaweb.google.com/lh/photo/rtLgpWF_d1oYUIdTHddGZg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgGzO3nm343O4g5Vl5Lt4OgvmUk1VpoxqnX6_ftgCW75iUmMcoP0oT3XuZpZduJW7upbmoNdjeYh8gcD3-TU6JZ_koToKZyhsDCgxDR2VL_ZYgaGJRU1nCOScIVSkmbPpEFuh51Cb-ig_M/s800/worldgonewild1bg9.jpg)  
   
 After wading through a lot of horror recently (especially Vampires!), I was begining to feel the need to turn my gaze to something a little different. At this point, I usually sit down to choose between my other two favourite genres; is it to be Spaghetti Western or camp 80s Dystopian thrills?  
   
@@ -25,9 +25,9 @@ A desert world where water has become the most precious commodity? Check.
 Adam Ant as a bad guy? Check.  
 Killer frisbees, motorbikes, gunfights and moonshine? Check, check, check, check.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhofbsuNMo_flh3lF8Me2qOENvuqizS4zhlB9tC9ye7ZZPZG8Wh1DJ6ykXQKWJuGTKqzn7uKRCapDUvXoyH5W9IoS_UDr2wmxPCjX3CXHmcmjNlnpGPNkVMxHl-0s3bzaZ6fHmXwQPT6Oo/s800/a1.jpg)](http://picasaweb.google.com/lh/photo/nKy6hR-iq1eR2n18-bC4NA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEhofbsuNMo_flh3lF8Me2qOENvuqizS4zhlB9tC9ye7ZZPZG8Wh1DJ6ykXQKWJuGTKqzn7uKRCapDUvXoyH5W9IoS_UDr2wmxPCjX3CXHmcmjNlnpGPNkVMxHl-0s3bzaZ6fHmXwQPT6Oo/s800/a1.jpg)  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHwY8ZfGpvHvQ8SURm891IyBOxF3klGNYxrAIK8hUthYqPvcVwg32Po_nfAikTb80K-ARJTls5hSxMYIqWqxRaI_WugSXdgD43OVrl5YRKStfRHZPqGUImhSH7i8b3eoqJtjnsHg2F5Xg/s800/a2.jpg)](http://picasaweb.google.com/lh/photo/6dyqySok0vMtP5Iaf4hrHA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgHwY8ZfGpvHvQ8SURm891IyBOxF3klGNYxrAIK8hUthYqPvcVwg32Po_nfAikTb80K-ARJTls5hSxMYIqWqxRaI_WugSXdgD43OVrl5YRKStfRHZPqGUImhSH7i8b3eoqJtjnsHg2F5Xg/s800/a2.jpg)  
   
 It would be grossly unfair to call this a b-movie by numbers - it's not, it's exciting and original - but I think it'd be true to say that it does more or less some up my idea of what a b-movie is.  
   
@@ -35,6 +35,6 @@ From the opening voice-over telling us just how ruined the world is (no rain in 
   
 Disengage brain, open a beer, cook some popcorn; this is a film that is made to be enjoyed. From Adam Ant's wonderful smirking bad-guy to the villagers with their 80s haircuts, defending their livelihood with a wall of abandoned cars, if you like dystopian films, 80s cheese or b-movies in general, you can't fail to enjoy this.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsWomwoVDWIJdbof3fl4hjXIse8FqD-KKGz9pStMCdW8TGxxoyHRhmxJrGJdb2Hs-ch6m2xsBHvAQRL_lUBz6U3Vks7Ht37mBSbMBnaXpa4ccGQ6CaCsAOxcAPp9CBG8DcZLkaaZsvrpg/s800/a3.jpg)](http://picasaweb.google.com/lh/photo/1kr0GL-nUmKWkgTRpRtNrg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)  
+![](/blogspot/AVvXsEgsWomwoVDWIJdbof3fl4hjXIse8FqD-KKGz9pStMCdW8TGxxoyHRhmxJrGJdb2Hs-ch6m2xsBHvAQRL_lUBz6U3Vks7Ht37mBSbMBnaXpa4ccGQ6CaCsAOxcAPp9CBG8DcZLkaaZsvrpg/s800/a3.jpg)  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtSlHc-4HuYsasaiFXwRS3GOOCw5sZtly6V2iSEOLr0BXGqzeQ2tB43AA4vVhNfh1P1TMFFt8uXVrIF5LiBg5C2v6Cw3AcTeowLcMK2FtNKFRhZQZ_WXrHORl__Ih937vlikG5ZrK9Ufs/s800/a4.jpg)](http://picasaweb.google.com/lh/photo/OcT0sKAZhlD2RWOOfLaziw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEgtSlHc-4HuYsasaiFXwRS3GOOCw5sZtly6V2iSEOLr0BXGqzeQ2tB43AA4vVhNfh1P1TMFFt8uXVrIF5LiBg5C2v6Cw3AcTeowLcMK2FtNKFRhZQZ_WXrHORl__Ih937vlikG5ZrK9Ufs/s800/a4.jpg)

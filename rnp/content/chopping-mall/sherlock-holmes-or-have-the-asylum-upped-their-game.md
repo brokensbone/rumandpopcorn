@@ -15,7 +15,7 @@ tags:
 - Watson
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDiHL1uFBmPhoDFryoM7H9VCU389ImRnOC1C46JheGewvR9NlZB-N1RsXYmdVwknwBxYSff_S4WYytFXfUqa1tkATRz8jx2oSeL4SOPj50TzT6fN9ef8DqW7mA3Ey59HhcRciqgDxmNs/s800/sherlock-holmes.jpg)](http://picasaweb.google.com/lh/photo/XIU-jEfG-BNXuVrBaElzAO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEjoDiHL1uFBmPhoDFryoM7H9VCU389ImRnOC1C46JheGewvR9NlZB-N1RsXYmdVwknwBxYSff_S4WYytFXfUqa1tkATRz8jx2oSeL4SOPj50TzT6fN9ef8DqW7mA3Ey59HhcRciqgDxmNs/s800/sherlock-holmes.jpg)  
   
 \[Screenshots and pictures coming soon\]  
   

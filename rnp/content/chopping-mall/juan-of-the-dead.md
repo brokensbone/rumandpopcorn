@@ -12,14 +12,14 @@ tags:
 - splatter
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMOuWok9FjY2Gt6AmIFhwgUztlrlHGwYMVsDW13Wh5iYcCmL6vYHp2U2RgSHQgR1xMUmWPtEVBE8GidSqXp_yAbek7lap6fOAfa3NGNgBiKCf8DtGigF0yX75hbUgPqoE4SfnL3SpdVuQ/s800/juabn.jpg)](https://picasaweb.google.com/lh/photo/EoI8cUcxYL9QZ8J93Y3MC-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgMOuWok9FjY2Gt6AmIFhwgUztlrlHGwYMVsDW13Wh5iYcCmL6vYHp2U2RgSHQgR1xMUmWPtEVBE8GidSqXp_yAbek7lap6fOAfa3NGNgBiKCf8DtGigF0yX75hbUgPqoE4SfnL3SpdVuQ/s800/juabn.jpg)
 
   
   
 **A few months ago, towards the end of last year, the Leeds International Film Festival announced a rather exciting looking UK premiere in the shape of the world's first Cuban zombie film _Juan of the Dead_. Sadly, given that I was volunteering at the time (and watching as many films as I could cope with...) I missed it. Given that foreign cult films are sometimes ridiculously slow to appear on DVD here in the UK, I thought I'd missed it altogether. So it was a pretty nice surprise to see the fabulous [Bradford Film Festival](http://www.nationalmediamuseum.org.uk/bradfordinternationalfilmfestival) schedule it as part of their After Dark strand of horror films this year.**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAtnZDuSSSp31abMZ2Wiuqgd8xPamGNQLt_FHhNvm9AbQ1I6ToZPgWPec4fo631hOPPoQTOFZmBT7uMNeWoudJdxH7P_3bLXT2_RAvbaoVihVtv89vlIg6eHf9GST1W1zV5hkzioLEjjA/s400/juan2.jpg)](https://picasaweb.google.com/lh/photo/hb4h3-8x_SXuaP392n6qte54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgAtnZDuSSSp31abMZ2Wiuqgd8xPamGNQLt_FHhNvm9AbQ1I6ToZPgWPec4fo631hOPPoQTOFZmBT7uMNeWoudJdxH7P_3bLXT2_RAvbaoVihVtv89vlIg6eHf9GST1W1zV5hkzioLEjjA/s400/juan2.jpg)
 
   
   
@@ -30,7 +30,7 @@ _Juan_ is a tongue-in-cheek zombie killing rampage with plenty of laughs, some f
 The basic premise is left beautifully stark. Havana is overrun with zombies. Juan and friends are trying to survive. That's about all there is to it. Like many of the classics they don't waste much time on life-before-zombies and they certainly don't bother explaining where the zombies come from - although the TV reporter blames American imperialists, a neat joke on both Cuban news/propaganda and the (modern) zombie's links to American consumerism. For the most part it just throws us into the middle of the fray as the Juan, his estranged daughter, his best friend and a couple of others start bashing, slashing, smashing and splattering zombies.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYllw2VpRIDSt9KmMM82EGFDqxco-LXvv7uHbVq6zWPakLOpBTAHCMRDwLGi12mRSkDkMkhFkyJ0E_nL4UB1ypovSuPZ3w4oH70tN8BgBHDyCGPQjUndteOsKuc8EtmwtSfEjsXO2IQs/s400/juan3.jpg)](https://picasaweb.google.com/lh/photo/gVaQBtK8ryI-i_qFlBAfSO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjqYllw2VpRIDSt9KmMM82EGFDqxco-LXvv7uHbVq6zWPakLOpBTAHCMRDwLGi12mRSkDkMkhFkyJ0E_nL4UB1ypovSuPZ3w4oH70tN8BgBHDyCGPQjUndteOsKuc8EtmwtSfEjsXO2IQs/s400/juan3.jpg)
 
   
   
@@ -43,4 +43,4 @@ Overall, it's the enthusiasm that holds this film together. It's made by people 
 (The Bradford Film Festival is screening it again on Sunday 22nd and the film **will** get a DVD release on 4th June. Hurrah!)  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJthyphenhyphen_Db8W7Nu7Drx0bTUliiIj9XZj9WU4zjH3o1dzgQiM2lxAz-LQLj2UWT-rrLbxjde53mYCukwhF6SEo0WgyQHUyzNy_s_moOgd6TVrFqffDpNvmOQipbHMSHOor8vFhPPpnvoqC2g/s400/JuanOfTheDead745_ashx.jpg)](https://picasaweb.google.com/lh/photo/9jfGLwdal4EvL4z8oyC4Cu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiJthyphenhyphen_Db8W7Nu7Drx0bTUliiIj9XZj9WU4zjH3o1dzgQiM2lxAz-LQLj2UWT-rrLbxjde53mYCukwhF6SEo0WgyQHUyzNy_s_moOgd6TVrFqffDpNvmOQipbHMSHOor8vFhPPpnvoqC2g/s400/JuanOfTheDead745_ashx.jpg)

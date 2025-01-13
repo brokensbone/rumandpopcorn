@@ -25,7 +25,7 @@ tags:
 Now this was really quite something. It's a while since I've watched anything that screamed 80s any louder than this. In fact, I'm not sure I've _ever_ seen anything more 80s. This is a film set in an aerobics class, with pumping disco music throughout, enormous haircuts, occasional moustaches and lots of lycra. This could almost be a museum piece: look at what people _wore_ in those days!  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWw3LuigWGD9GPGbpts9NJnF4Ns0D-hnSEDC2zl0h8qT6tjQSlsvVcipWEXVceQX4-0rltQyNq1FjdaTiwl86zYcqzAn1hU5MKVyE1lwlA1pcd245r72hxjT_ePG4GGZBYoOnNlvKNC8E/s400/vlcsnap-2012-10-31-15h27m24s135.jpg)](https://picasaweb.google.com/lh/photo/GOseuJY0f7M6ABXoV_bObe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjWw3LuigWGD9GPGbpts9NJnF4Ns0D-hnSEDC2zl0h8qT6tjQSlsvVcipWEXVceQX4-0rltQyNq1FjdaTiwl86zYcqzAn1hU5MKVyE1lwlA1pcd245r72hxjT_ePG4GGZBYoOnNlvKNC8E/s400/vlcsnap-2012-10-31-15h27m24s135.jpg)
 
   
 
@@ -33,7 +33,7 @@ Once you get over the disco beat, though, this is pretty standard slasher fare. 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNUv5L9JXcAHYcrtqn-WTQtz_9P3BGhMCSQ11vXjQl_JbYohjHUPmEUgbg9JgDlUrtzt0ixquLFh7a5g68Vs4YN-5MTMdTFJI_zIoD4-2r7sY_3AyczjYaDHSJlf8AIjgp16v5hU9pFM/s400/vlcsnap-2012-10-31-15h28m14s123.jpg)](https://picasaweb.google.com/lh/photo/5lB87GKnsmEDVHciyMTXAu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjPNUv5L9JXcAHYcrtqn-WTQtz_9P3BGhMCSQ11vXjQl_JbYohjHUPmEUgbg9JgDlUrtzt0ixquLFh7a5g68Vs4YN-5MTMdTFJI_zIoD4-2r7sY_3AyczjYaDHSJlf8AIjgp16v5hU9pFM/s400/vlcsnap-2012-10-31-15h28m14s123.jpg)
 
   
   
@@ -41,7 +41,7 @@ Once you get over the disco beat, though, this is pretty standard slasher fare. 
 It's not really very much fun.  The gore is disappointingly minimal - although the stabbing in the shower isn't bad - the fight scenes are _hilariously_ awful (complete with video-game-esque THWACK sounds), the acting isn't much better and the plot is nothing if not predictable. But perhaps I'm being too hard on this one: it's not without it's charm.  I'd imagine that after a few beers, or just put on as background noise, this wouldn't be so bad.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyOvAT2Im9dnI78xmi0Y1htJ0R_s4KBj3KLIBjb1ViksfXkTWHyoCoyk4vL6SrBEmlX3i9m72XybzvWKIZ0O6q03QQzbEOzq5xrgFvK43LfiNvucawbKyvwsp_20xsPHg2-xT0X1-cYm0/s400/vlcsnap-2012-10-31-15h28m29s22.jpg)](https://picasaweb.google.com/lh/photo/4fJcqUSrHQ3jJcm_rGldQe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEjyOvAT2Im9dnI78xmi0Y1htJ0R_s4KBj3KLIBjb1ViksfXkTWHyoCoyk4vL6SrBEmlX3i9m72XybzvWKIZ0O6q03QQzbEOzq5xrgFvK43LfiNvucawbKyvwsp_20xsPHg2-xT0X1-cYm0/s400/vlcsnap-2012-10-31-15h28m29s22.jpg)
 
   
 
@@ -52,7 +52,7 @@ It's not really very much fun.  The gore is disappointingly minimal - although
 I saw this listed as one of those "so bad you will not believe your eyes" titles and ...oh boy... it certainly was. _BGoI_ is clearly one of the many victims of the "good name - crap film" syndrome that plagues modern B-movies (See _Mega Shark vs Giant Octopus._  Or, rather, don't).  But how could this be? How could you go wrong with a title like _Bikini Girls on Ice_? What kind of _idiot_ would you have to be to screw that up.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_-9kB6v4k9Rxn25Q5nVChTwwCz5t0zwGWxbMuy-Y4KJCdmYxJ38ncD134DGZXAVRKj15oCFQfx_PQxo_pmkAApUPXnvSiYiT1cXnyVJARqt_FRLOyuXe2UnUG5XGk6k-mupzmzwyT2X4/s400/vlcsnap-2012-10-31-15h16m09s23.jpg)](https://picasaweb.google.com/lh/photo/L-YqyCFIlxi0H2icdKiCQe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEg_-9kB6v4k9Rxn25Q5nVChTwwCz5t0zwGWxbMuy-Y4KJCdmYxJ38ncD134DGZXAVRKj15oCFQfx_PQxo_pmkAApUPXnvSiYiT1cXnyVJARqt_FRLOyuXe2UnUG5XGk6k-mupzmzwyT2X4/s400/vlcsnap-2012-10-31-15h16m09s23.jpg)
 
   
 
@@ -60,7 +60,7 @@ Sadly, screw it up they did. _BGoI_ \- which is sadly not about ice-skating wome
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfvbRm6pbMX2k_FUYHHf0iasLsLDa2s9SZyYTZF7MFONTbZS1q-viw8d58iUrbJdzj1TlO-IciGn45-2OiMMhT0aychARFOH98mwHxvyN5cDjm3T1nX0UKuZVzBgCDNDcbZ1EQJ_DZsg/s400/vlcsnap-2012-10-31-15h17m12s139.jpg)](https://picasaweb.google.com/lh/photo/WyPPlt6ERX200OVuIWwzsu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiTfvbRm6pbMX2k_FUYHHf0iasLsLDa2s9SZyYTZF7MFONTbZS1q-viw8d58iUrbJdzj1TlO-IciGn45-2OiMMhT0aychARFOH98mwHxvyN5cDjm3T1nX0UKuZVzBgCDNDcbZ1EQJ_DZsg/s400/vlcsnap-2012-10-31-15h17m12s139.jpg)
 
   
   
@@ -72,7 +72,7 @@ Seriously. This was astonishingly dull. Not only did it have absolutely no sense
 Ultimately, _Bikini Girls on Ice_ makes 80minutes feel like a very long time and gives little by way of entertainment.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhUOUJglURLJvXU8p_OlmrNX7GK2Orcz3hFuk7Sxdb1ZLj65Cp2NTGXoPIWQEGhoSxsNjk9nfoM2XsjONQnpl9Pn58dVnk7-WMRJXuy8hWvt0lXc5e8btNko9Dr0TxLZWDjWvOfNf8_w/s400/vlcsnap-2012-10-31-15h18m23s89.jpg)](https://picasaweb.google.com/lh/photo/L9lHF9F9yjEIranhlJKT0-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEhzhUOUJglURLJvXU8p_OlmrNX7GK2Orcz3hFuk7Sxdb1ZLj65Cp2NTGXoPIWQEGhoSxsNjk9nfoM2XsjONQnpl9Pn58dVnk7-WMRJXuy8hWvt0lXc5e8btNko9Dr0TxLZWDjWvOfNf8_w/s400/vlcsnap-2012-10-31-15h18m23s89.jpg)
 
   
 
@@ -84,7 +84,7 @@ Aaaand finally: here's something to really get excited about. Killdozer, also bl
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKGnpNo31A2WTHGjvqbiOOvDlStv2vwTrsBx9qLWKLR2aCUTmBXxb-fnjd3Sv9dzjzgcKv9hgKMBgv9ZCeSGusjluYZMNsFkVBaS7ben1var5bWv3COWdAyiC8JzbSAakxkyi-zHI25g/s800/vlcsnap-2012-10-31-15h13m14s88.jpg)](https://picasaweb.google.com/lh/photo/TIsBxTDDuBB3MMuTkHru9O54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgcKGnpNo31A2WTHGjvqbiOOvDlStv2vwTrsBx9qLWKLR2aCUTmBXxb-fnjd3Sv9dzjzgcKv9hgKMBgv9ZCeSGusjluYZMNsFkVBaS7ben1var5bWv3COWdAyiC8JzbSAakxkyi-zHI25g/s800/vlcsnap-2012-10-31-15h13m14s88.jpg)
 
   
   
@@ -92,14 +92,14 @@ Aaaand finally: here's something to really get excited about. Killdozer, also bl
 There's surprisingly little to say about it: conveniently cut-off from the rest of the world on an island in the middle of god-knows-where, a small team of basically unlikeable construction workers find themselves unexpectedly terrorised by one of their own bulldozers. Most of the film follows the machine picking them off one-by-one until they really begin to get it together and fight back.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZZ6rqakb7xcmLwEtFPSM4ubYz1H98sTpQvGwIB3Qa4wv6VmEhJYewurFqeOdMnbE68ZJ5V1shTIIiuwnnrfOSsWiGdiVlTjA3nXZDhASnmDok_sw6ie001pjYcwZRFzZvXSnFz_e5KA/s800/vlcsnap-2012-10-31-15h13m03s231.jpg)](https://picasaweb.google.com/lh/photo/V3zY_5AVBJo9GFXZ-g8pLO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEi6ZZ6rqakb7xcmLwEtFPSM4ubYz1H98sTpQvGwIB3Qa4wv6VmEhJYewurFqeOdMnbE68ZJ5V1shTIIiuwnnrfOSsWiGdiVlTjA3nXZDhASnmDok_sw6ie001pjYcwZRFzZvXSnFz_e5KA/s800/vlcsnap-2012-10-31-15h13m03s231.jpg)
 
   
 
 It's absolutely as silly as it sounds. What sets it apart from disappointing modern killer-object movies (like _Rubber_) is that they play it absolutely dead straight. There isn't even a hint of smug, self-aware laughter here. They must have been sniggering on set but none of it carries into the film. If only more silly horror would take itself so seriously. Great fun.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxbbNg0nA5QjZk6L8D_xQa3TdPStoZZ4Fzo1065GMJooVDH0YP7hLQDIu2Y65wc3savPRZO8bxTn8iTVyjrQ7H8Om-8jpFORZLTvwp74uBDI7BlvBYAG0PbW9jT2EEYAbIQ-7Xv7l1qmo/s800/vlcsnap-2012-10-31-15h13m53s219.jpg) ](https://picasaweb.google.com/lh/photo/zY23Wp9Ud3EZTlWwbrUU0e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+[![](/blogspot/AVvXsEgxbbNg0nA5QjZk6L8D_xQa3TdPStoZZ4Fzo1065GMJooVDH0YP7hLQDIu2Y65wc3savPRZO8bxTn8iTVyjrQ7H8Om-8jpFORZLTvwp74uBDI7BlvBYAG0PbW9jT2EEYAbIQ-7Xv7l1qmo/s800/vlcsnap-2012-10-31-15h13m53s219.jpg) ](https://picasaweb.google.com/lh/photo/zY23Wp9Ud3EZTlWwbrUU0e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
 
   
 

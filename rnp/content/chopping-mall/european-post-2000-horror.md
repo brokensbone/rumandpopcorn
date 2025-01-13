@@ -10,7 +10,7 @@ tags:
 - project
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE_U7dEJQFXyWeoX9FWx9EJo6n_YQWzQR1Lps89WHl-zxsngPzgBJkD0BlIMDOKpFFbeicJNJBeZ64scX2y-Yk4LGAUPnXV7poGn3Y5xZDDgO_Mc4xevMUd_gDGfdmMwllFpCig-_8gWc/s800/3272684874_a815f71b39_z.jpg)](https://picasaweb.google.com/lh/photo/zQss5BQbQpDYsfEXv4N5Wu54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEiE_U7dEJQFXyWeoX9FWx9EJo6n_YQWzQR1Lps89WHl-zxsngPzgBJkD0BlIMDOKpFFbeicJNJBeZ64scX2y-Yk4LGAUPnXV7poGn3Y5xZDDgO_Mc4xevMUd_gDGfdmMwllFpCig-_8gWc/s800/3272684874_a815f71b39_z.jpg)  
 [Rather splendid zombie, by 'scabeater'](http://www.flickr.com/photos/scabeater/3272684874/), [under a CC-by-nc\-nd licence](http://creativecommons.org/licenses/by-nc-nd/2.0/)  
 
   
@@ -26,4 +26,4 @@ And with films like Martyrs, El Orfanato, \[Rec\] (and \[Rec\]2) and Sauna (AKA 
   
 Edit: And new project means new banner, hurrah!  
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukfXddGeaaHTrJDxhJ9qcGSwNqZ5ufg0ypuaa1cdhx0uP3x_I82RhGdQaYWL9mhJvpi3DQnnU6YlNsaL0NLBStRqPvZzYQOGz3YRG6iiIfUdf4duDZTWMUg14tb_i1tGhRpXL52z0FZw/s800/c21EH.jpg)](https://picasaweb.google.com/lh/photo/gk3pD-oP65W40yaROO0_X-54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEiukfXddGeaaHTrJDxhJ9qcGSwNqZ5ufg0ypuaa1cdhx0uP3x_I82RhGdQaYWL9mhJvpi3DQnnU6YlNsaL0NLBStRqPvZzYQOGz3YRG6iiIfUdf4duDZTWMUg14tb_i1tGhRpXL52z0FZw/s800/c21EH.jpg)

@@ -14,7 +14,7 @@ tags:
 - psycho-killer
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6adKNmDvnsUpQZGQkfM93pQKSKdLX9CZZhrhyv077UjQtH5kYLKhdI7dRZ_ccXJy0OsaCRW5kFHyRsYgPapQvvdVpDL4pOmo-HdLkJz6WjZ7r0OBsoropl0U6H0q8rxaqevTn8OWfoVw/s800/drillerkillercover.jpg)](http://picasaweb.google.com/lh/photo/cgM9pL-IQSzpJnrqBdAnye54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEh6adKNmDvnsUpQZGQkfM93pQKSKdLX9CZZhrhyv077UjQtH5kYLKhdI7dRZ_ccXJy0OsaCRW5kFHyRsYgPapQvvdVpDL4pOmo-HdLkJz6WjZ7r0OBsoropl0U6H0q8rxaqevTn8OWfoVw/s800/drillerkillercover.jpg)  
 
   
 Abel Ferrara's Driller Killer is a film far better known for its reputation than for its content. For those that don't know, the film is a slasher flick from the US in 1979 and gained it's level of notoriety in Britain in the early 1980s when it was included in the Director of Public Prosecutions list of films to be charged under obscenity laws. This list became known as the "video nasties" and would eventually prompt the creation of the UK's Video Recording Act 1984, a piece of law that, for the first time, meant it was a legal requirement to have any video sold in the UK approved by the BBFC (the UK film regulatory office).  

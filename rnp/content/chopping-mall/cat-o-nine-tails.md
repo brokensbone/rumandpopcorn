@@ -12,7 +12,7 @@ tags:
 - Dario Argento
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8JVoFcL2mL6rhyphenhyphenThCzy0o62zvxXdWFlfoa71yh9dh02bs4kVznpe21ufD-WdkAKOx6ZUkmi9cQPwRRXNH-2c9nC_a3tV8zEKaFKEKlEqLdTGnmghAenVZm2JENdrpNz1cYJp-iSjslmc/s640/cat_o_nine_tails_poster_02.jpg)](https://picasaweb.google.com/lh/photo/dFSvPtxCQOXcXmvHrqJ5uO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEg8JVoFcL2mL6rhyphenhyphenThCzy0o62zvxXdWFlfoa71yh9dh02bs4kVznpe21ufD-WdkAKOx6ZUkmi9cQPwRRXNH-2c9nC_a3tV8zEKaFKEKlEqLdTGnmghAenVZm2JENdrpNz1cYJp-iSjslmc/s640/cat_o_nine_tails_poster_02.jpg)  
 
   
 So here we are! Last night's film, which was number 7 and brought my week of Argento films (before Suspiria tonight) to a close, was Cat O' Nine Tails, another one that I hadn't seen before. I was, I must say, pleasantly surprised. It falls, again, into the giallo camp more than the horror side - although they all show elements of both - and, being another very early film I must admit I didn't expect as much fun as I got.  

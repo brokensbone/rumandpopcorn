@@ -16,7 +16,7 @@ tags:
 **Ah, 1970s Italian films. There's really nothing like them. I'm not nearly well versed enough in cinema history to know what it was that fuelled the explosion of fabulous Italian cinema in the late 60s and 70s but I'm glad it happened. From Spaghetti Westerns to supernatural slashers, a number of my favourite films, directors and film scores come from the era.  **  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7LWTAR70FkSltdOUDoYhnLQLcQQ1GmvzUP2oTAnvLEU3TsWAz_HaXUnFHIhlFjokI0Ua4RfXANkhlKh1bOnehri3-n_p9kp5hdq_00eRvAzW3-u2rJV73ARUkskrdk2jwcmKeJ2P_e4/s640/torso.jpg)](https://picasaweb.google.com/lh/photo/wWe4L-bqnN8vMCUF_rO9Ve54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgc7LWTAR70FkSltdOUDoYhnLQLcQQ1GmvzUP2oTAnvLEU3TsWAz_HaXUnFHIhlFjokI0Ua4RfXANkhlKh1bOnehri3-n_p9kp5hdq_00eRvAzW3-u2rJV73ARUkskrdk2jwcmKeJ2P_e4/s640/torso.jpg)
 
   
   
@@ -25,7 +25,7 @@ More often than not, these films get unfairly dismissed or overlooked.  With la
 _Torso_, today's film, is a giallo flick from Sergio Martino. Like so many of the genre, a number of artsy, rich, female American students meet their end at the hands of a sadistic sexually driven killer (the Italian title translates as _The Bodies Presented Traces of Carnal Violence_...).  Of course, the aim is to catch the killer but you can never really ignore the obvious glee the film takes in punishing these confident, promiscuous women. Besides the obvious sexism - which these films held in common with most other films of the era - the Italian cinema cycles are so confusingly anti-American. Just as the Spaghetti Western took a classic American good-versus-bad narrative and turned most of the Americans into greedy, cold-blooded murderers, mercenaries and cowards, Giallo films are obsessed with Americans but brutal towards them too.   Here, the Italian art professor registers his surprise that his student, "a product of American technology", could possibly have real feelings for art. He suggests that perhaps her real reason for being in Perugia is to "buy the coliseum".  The irony of these films' resistance to American capitalism being delivered side-by-side with English dubbed dialogue for sale to foreign markets is apparently lost on the film-makers...  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSYftoOjqW5vz6cgZQhedXbuPE6Y8ml4pNa4Gz0_vo1KQigWrA_szsfyWI-7dAE7i_GLXVjw3h4FYm1f02ud9h3nv6tHC4qeekq5vtK0yRSkEfOUt1tg36jEpyQNfPsmU3o9Y9JSTsioI/s400/torso62fq9.jpg)](https://picasaweb.google.com/lh/photo/JgLimv2Q2p2BGPFHeHNOHO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgSYftoOjqW5vz6cgZQhedXbuPE6Y8ml4pNa4Gz0_vo1KQigWrA_szsfyWI-7dAE7i_GLXVjw3h4FYm1f02ud9h3nv6tHC4qeekq5vtK0yRSkEfOUt1tg36jEpyQNfPsmU3o9Y9JSTsioI/s400/torso62fq9.jpg)
 
   
   
@@ -34,7 +34,7 @@ Anyway, in _Torso_ we have a bunch of art students being picked of by a killer. 
 Throughout, the score and cinematography are what really drive this film.  Even in moments of calm the camera has a tendency to creep around obstacles in a disarming manner.  As with more famous examples, such as Argento's _Proffondo Rosso / Deep Red_, a certain amount of the mystery revolves around seeing: mistakes, confusion and half-glimpsed actions lead detectives and characters astray and the viewer becomes a part of the voyeurism that drives the story. The camera shoots from face to face, watching people watching. The score is similarly impressive: silence is used to good effect, and the absence of music is often as tension-building as the music itself. When the music does kick in, little recurring patterns foreshadow moments of violence and build towards violent, noisy bursts. [Guido and Marizio de Angelis](http://en.wikipedia.org/wiki/Guido_%26_Maurizio_De_Angelis) did a very good job here.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBdWNdzGMSNnzxBhzfC7hctz4h4uDUz9WzVslOHA1mp2mCPRP-W97mE7g2NuDGinnqqwPfMHkdW5w2yDr9pBn8plEjzkayPvkR80JhcpH7R2ZbUg91DcaZKBlYMPJ7HFL4UOp4RBhv7Hc/s400/torsos.jpg)](https://picasaweb.google.com/lh/photo/6UDTNlMhj16smt91ro_I6e54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgBdWNdzGMSNnzxBhzfC7hctz4h4uDUz9WzVslOHA1mp2mCPRP-W97mE7g2NuDGinnqqwPfMHkdW5w2yDr9pBn8plEjzkayPvkR80JhcpH7R2ZbUg91DcaZKBlYMPJ7HFL4UOp4RBhv7Hc/s400/torsos.jpg)
 
   
   

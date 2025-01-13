@@ -12,13 +12,13 @@ tags:
 - killer
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO2UdRiPu1HLXXh0cpye0K1hcBfjyKudptLfE4-UEmkLGyQYpA8m2Uv9AjQp5nbIMC0tUzWQu-P_Qmxti41pCdJ69F_jiAYcHmsTWh2t1N-NfmcQxATX4diX9CrvdqaAYDqJ0ym4CyR0o/s800/POSTER%20-%20WICKED%20WICKED-1.JPG)](http://picasaweb.google.co.uk/lh/photo/xMnELGXTew4XiLKjQ4nm9w?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEgO2UdRiPu1HLXXh0cpye0K1hcBfjyKudptLfE4-UEmkLGyQYpA8m2Uv9AjQp5nbIMC0tUzWQu-P_Qmxti41pCdJ69F_jiAYcHmsTWh2t1N-NfmcQxATX4diX9CrvdqaAYDqJ0ym4CyR0o/s800/POSTER%20-%20WICKED%20WICKED-1.JPG)
 
 From [film diary](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHCDbqfyZ9Qp77aIfrPpMHDfQeapBSgWU5-iZrgK2Tr7CPcVwLquCKNn81a92TJ2qv0AiC-rc1fP5ey74Ceq2UzazMEALb44-PTYKHe0lJl6Y7-OsgmUOdr_uFFEDue8MHsYdEQUGbIA/s400/Wicked.wic_000.jpg)](http://picasaweb.google.co.uk/lh/photo/evbfuCiuO913crr1A1UBlQ?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEiNHCDbqfyZ9Qp77aIfrPpMHDfQeapBSgWU5-iZrgK2Tr7CPcVwLquCKNn81a92TJ2qv0AiC-rc1fP5ey74Ceq2UzazMEALb44-PTYKHe0lJl6Y7-OsgmUOdr_uFFEDue8MHsYdEQUGbIA/s400/Wicked.wic_000.jpg)
 
 Challenge your imagination? That might be a little optimistic...
 
@@ -30,13 +30,13 @@ This is quite a weird one. As you can see from any of the pictures, Wicked Wicke
 The sad thing is that the gimmick actually works pretty well and is dragged down by a god-awful plot. In some moments, with the killer hiding on one screen and the others looking for him on the other screen, the two screens device really does actually add a bit of tension.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRlOktHK24dFG5W7aq7pgiAIalzWo4Y-8C6W1R6-jlrFV6CTEBMYo2xJljN4a-3sK9g8bmVwb6pMyYDc-f06JwyYnHvMH-hrfN4ayNvoqFbn9VZgFvjoNCBNe_qrxWMdKA69aQX11Faw/s288/Wicked.wic_002.jpg)](http://picasaweb.google.co.uk/lh/photo/1Kym_6BoeHQe2mYSioo00w?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjoRlOktHK24dFG5W7aq7pgiAIalzWo4Y-8C6W1R6-jlrFV6CTEBMYo2xJljN4a-3sK9g8bmVwb6pMyYDc-f06JwyYnHvMH-hrfN4ayNvoqFbn9VZgFvjoNCBNe_qrxWMdKA69aQX11Faw/s288/Wicked.wic_002.jpg)
 
 Kinves!
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PVhwarF47xBAh4I-hIGhZUI0MoJ6icRExDRa-GJNrQJMuRS2kJyxrYX2bUFg6YEoIwuEDUDYSLdqjhG8zETrw8rGISAb7MME0dSHqpQxT438f6TIZn0ba491tvP9jxRLsrD0tMkUhwM/s288/Wicked.wic_004.jpg)](http://picasaweb.google.co.uk/lh/photo/BOKebphlmxkuUrZyCGEThw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEh3PVhwarF47xBAh4I-hIGhZUI0MoJ6icRExDRa-GJNrQJMuRS2kJyxrYX2bUFg6YEoIwuEDUDYSLdqjhG8zETrw8rGISAb7MME0dSHqpQxT438f6TIZn0ba491tvP9jxRLsrD0tMkUhwM/s288/Wicked.wic_004.jpg)
 
 They can talk on the phone between screens![  
 ](http://picasaweb.google.co.uk/edsalkeld/FilmDiary?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
@@ -60,13 +60,13 @@ Mostly crap. Fun at the end.
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeZcM61yc9cpgf7u4An0zKT3IcA4GqM4k4KWeoiCRqZyQEbRMD3ytvPKLTQiqSqZwDEEu6gVq2urBnGjacwwLR-DbmP17ZQ3Xv3-6nzc1s4frkjkmpZBv2qpY4MeTQbA6XdX6ukjhyphenhyphenN4o/s288/Wicked.wic_008.jpg)](http://picasaweb.google.co.uk/lh/photo/wdiegiPe49axkRPMkM1xpg?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjeZcM61yc9cpgf7u4An0zKT3IcA4GqM4k4KWeoiCRqZyQEbRMD3ytvPKLTQiqSqZwDEEu6gVq2urBnGjacwwLR-DbmP17ZQ3Xv3-6nzc1s4frkjkmpZBv2qpY4MeTQbA6XdX6ukjhyphenhyphenN4o/s288/Wicked.wic_008.jpg)
 
 How moody...
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQkZ2_msfbmxibV8xphMoBuhDwMI2qsyQQUUWyNKn9ciPuJ5xujZXLq2Tmvbs4Dzt-z8B5vAW0W_1wWDW9yc_ojcBvh4sgizQt9V7rKHvuf6xNRiVONyLiE4akFtubuk2YfPv4V12cwoY/s288/Wicked.wic_013.jpg)](http://picasaweb.google.co.uk/lh/photo/tjLacpoLDVbZ7QX9VMFYHA?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEjQkZ2_msfbmxibV8xphMoBuhDwMI2qsyQQUUWyNKn9ciPuJ5xujZXLq2Tmvbs4Dzt-z8B5vAW0W_1wWDW9yc_ojcBvh4sgizQt9V7rKHvuf6xNRiVONyLiE4akFtubuk2YfPv4V12cwoY/s288/Wicked.wic_013.jpg)
 
 Fake blood to the face!
 

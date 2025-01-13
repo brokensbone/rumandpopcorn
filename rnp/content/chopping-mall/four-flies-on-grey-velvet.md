@@ -11,7 +11,7 @@ tags:
 - Dario Argento
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1_sGN_ydQYQ85HZon4Qy03radpJ_-rt5op2vpBW0MdB7MuwKasoDoNNXGZM24kPiUE2rJF6cWncK2ZKETZOZAYOH8vb6oSyaAHgTnyqQk1BWAeEpzvhBGqrRsq85kbCyhk6ctn4MW_w/s640/four_flies_on_green_velvet_poster_01.jpg)](https://picasaweb.google.com/lh/photo/regok3Wbck1PT23zSX6VrO54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)  
+![](/blogspot/AVvXsEgD1_sGN_ydQYQ85HZon4Qy03radpJ_-rt5op2vpBW0MdB7MuwKasoDoNNXGZM24kPiUE2rJF6cWncK2ZKETZOZAYOH8vb6oSyaAHgTnyqQk1BWAeEpzvhBGqrRsq85kbCyhk6ctn4MW_w/s640/four_flies_on_green_velvet_poster_01.jpg)  
 
   
 \[AKA 4 mosche di velluto grigio\]  

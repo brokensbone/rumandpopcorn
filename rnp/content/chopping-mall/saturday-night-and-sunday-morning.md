@@ -11,7 +11,7 @@ tags:
 - industrial
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigEl2WALV5AReQ18FJrHhKw4kD8crotepFNwvNtql_Opib9KgzsHdATfH8PTX69EVef-lqb6vr96r_nrpwVjyCauTfZCRphq824fotrXGGn94SCg9gRyHulo_HymGea9gas0mG8lh3eUI/s400/sat%20night%20sun%20morn.jpg)](http://picasaweb.google.com/lh/photo/QhV4rSx8MfOpGgSVHITHHw?authkey=Gv1sRgCLOUlsuAhc7uIA&feat=embedwebsite)
+![](/blogspot/AVvXsEigEl2WALV5AReQ18FJrHhKw4kD8crotepFNwvNtql_Opib9KgzsHdATfH8PTX69EVef-lqb6vr96r_nrpwVjyCauTfZCRphq824fotrXGGn94SCg9gRyHulo_HymGea9gas0mG8lh3eUI/s400/sat%20night%20sun%20morn.jpg)
 
 "I'm just out for a good time. The rest is propaganda"
 

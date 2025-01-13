@@ -14,7 +14,7 @@ tags:
 **I've never been a Lars von Trier completist but I've always enjoyed his films - particularly Dogville, The Idiots and Antichrist (Ok, enjoyed might not be the right word), so I'd been looking forward to Melancholia since Cannes last year. My excitement was only further stoked by Peter Bradshaw's [astonishingly negative review in the Guardian](http://www.guardian.co.uk/film/2011/may/18/cannes-2011-review-melancholia)...**  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBXF81LFvJSAnvMVyLaaFn9TcQCQRl6ljcFfaVkoU-gcEDkSUb9jutCXAvkRQGAn4EeP3TYXwTTzip1BUyYbs5qQSX3GB60hfUH6D15x6MS72s5CZwSlPYpQhlT3MUwxcL4ecASQ_TgEA/s800/melancholia-japanese-3.jpg)](https://picasaweb.google.com/lh/photo/sjUpC92sM5VpusUZkM6Pbe54nN1RycrV_oQh2IHYfkI?feat=embedwebsite)
+![](/blogspot/AVvXsEgBXF81LFvJSAnvMVyLaaFn9TcQCQRl6ljcFfaVkoU-gcEDkSUb9jutCXAvkRQGAn4EeP3TYXwTTzip1BUyYbs5qQSX3GB60hfUH6D15x6MS72s5CZwSlPYpQhlT3MUwxcL4ecASQ_TgEA/s800/melancholia-japanese-3.jpg)
 
   
   
