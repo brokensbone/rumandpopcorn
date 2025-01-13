@@ -2,6 +2,7 @@ title = 'Crum and Popped Horn'
 baseURL = 'https://www.rumandpopcorn.com/'
 languageCode = 'en-gb'
 theme = 'chocos'
+timezone = 'Europe/London'
 
 [params]
   footer_text = 'I live in Leeds. I like film. And food.'
