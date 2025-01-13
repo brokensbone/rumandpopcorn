@@ -1,11 +1,24 @@
+:root {
+  --color-text: black;
+  --color-background: snow;
+}
+
+/* Dark mode if the browser asks nicely */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: snow;
+    --color-background: rgb(64,64,64);
+  }
+}
+
 body {
-  color: black;
+  color: var(--color-text);
   font-family: sans-serif;
   line-height: 1.5;
   margin: 0 auto;
   padding: 1rem;
   max-width: 650px;
-  background-color: snow;
+  background-color: var(--color-background);
 }
 
 header {
