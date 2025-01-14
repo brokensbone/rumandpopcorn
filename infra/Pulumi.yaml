@@ -1,0 +1,10 @@
+name: rnp-web-infra
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: RumAndPopcorn Site Infrastructure
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
