@@ -1,3 +1,4 @@
+/* vars to override */
 :root {
   --color-text: black;
   --color-background: snow;
@@ -14,26 +15,40 @@
 body {
   color: var(--color-text);
   font-family: sans-serif;
-  line-height: 1.5;
   margin: 0 auto;
-  padding: 1rem;
-  max-width: 650px;
+  padding: 0;
   background-color: var(--color-background);
+}
+.site-title {
+  margin: 0;
 }
 
 header {
-  border-bottom: 1px solid #222;
+  border-bottom: 5px solid #222;
   margin-bottom: 1rem;
+  color: snow;
+  background-color: red;
+}
+.main-col {
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
 }
 
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
+  padding: 1rem;
 }
 
 a {
   color: #FF3319;
   text-decoration: underline;
+}
+header a {
+  color: snow;
+  text-decoration: none;
 }
 
 .container {
