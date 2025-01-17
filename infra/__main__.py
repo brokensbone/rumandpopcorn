@@ -29,6 +29,7 @@ main = amplify.Branch("main",
     app_id=amplify_app.id,
     branch_name="hugo",
     stage="PRODUCTION",
+    enable_auto_build=True
 )
 
 pulumi.export('Domain', amplify_app.default_domain)
