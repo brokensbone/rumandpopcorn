@@ -1,1 +1,1 @@
-console.log('This is a CHOCOS theme');
+console.log('Themed by Chocos');
