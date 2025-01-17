@@ -20,3 +20,6 @@ timezone = 'Europe/London'
 
 [frontmatter]
   date  = [":filename", ":default"]
+
+[services.rss]
+  limit = 20
