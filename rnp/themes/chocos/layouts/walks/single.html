@@ -1,0 +1,50 @@
+{{ define "extrahead"}}
+<meta property="og:headover" content="http://localhost:1313/">
+{{ $leaflet := resources.Get "vendor/leaflet/leaflet.js" }}
+{{ $leafletajax := resources.Get "vendor/leaflet-ajax/leaflet.ajax.min.js" }}
+{{ $leafletcss := resources.Get "vendor/leaflet/leaflet.css" }}
+<script src={{ $leaflet.RelPermalink }}></script>
+<script src={{ $leafletajax.RelPermalink }}></script>
+<link rel="stylesheet" href={{ $leafletcss.RelPermalink }}>
+{{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <div class="container">
+    <div class="content">
+      {{ with .Params.subtitle }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time class="content right" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  </div>
+  {{ with .Params.image }}
+    {{ $imageName := . }}
+    {{ $image := resources.Get $imageName }}
+    {{ $image := $image.Resize "500x" }}
+    {{ with $image }}
+      <img src="{{ .RelPermalink }}" class="img-responsive" alt="{{ $.Title }}">
+    {{ end }}
+  {{ end }}
+  {{ with .Resources.Get "route.geojson"}}
+    <div>
+      <div id="map" style="height:400px;"></div>
+      <a href={{ .RelPermalink }}>Download GeoJSON file</a>
+    </div>
+    <script>
+      var map = L.map('map');
+      var layer = new L.GeoJSON.AJAX("{{ .RelPermalink }}").addTo(map);
+      layer.on('data:loaded', function() {
+        map.fitBounds(layer.getBounds());
+      })
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      }).addTo(map);
+    </script>
+  {{ end }}
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
