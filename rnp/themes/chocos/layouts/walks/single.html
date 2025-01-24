@@ -1,11 +1,10 @@
 {{ define "extrahead"}}
 <meta property="og:headover" content="http://localhost:1313/">
-{{ $leaflet := resources.Get "vendor/leaflet/leaflet.js" }}
-{{ $leafletajax := resources.Get "vendor/leaflet-ajax/leaflet.ajax.min.js" }}
-{{ $leafletcss := resources.Get "vendor/leaflet/leaflet.css" }}
-<script src={{ $leaflet.RelPermalink }}></script>
-<script src={{ $leafletajax.RelPermalink }}></script>
-<link rel="stylesheet" href={{ $leafletcss.RelPermalink }}>
+<script src="/vendor/leaflet/leaflet.js"></script>
+<script src="/vendor/leaflet-ajax/leaflet.ajax.min.js"></script>
+<link rel="stylesheet" href="/vendor/leaflet/leaflet.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.2/gpx.min.js"></script>
+
 {{ end }}
 
 {{ define "main" }}
@@ -28,6 +27,13 @@
       <img src="{{ .RelPermalink }}" class="img-responsive" alt="{{ $.Title }}">
     {{ end }}
   {{ end }}
+  {{ with .Resources.Get "image.png" }}
+    {{ $image := . }}
+    {{ $image := $image.Resize "500x" }}
+    {{ with $image }}
+      <img src="{{ .RelPermalink }}" class="img-responsive" alt="{{ $.Title }}">
+    {{ end }}
+  {{ end }}
   {{ with .Resources.Get "route.geojson"}}
     <div>
       <div id="map" style="height:400px;"></div>
@@ -43,6 +49,37 @@
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
       }).addTo(map);
+    </script>
+  {{ end }}
+  {{ with .Resources.Get "route.gpx"}}
+    <div>
+      <div id="map" style="height:400px;"></div>
+      <a href={{ .RelPermalink }}>Download GPX file</a>
+    </div>
+    <script>
+      var map = L.map('map');
+
+
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      }).addTo(map);
+
+      const url = '{{ .RelPermalink }}';
+      const options = {
+        async: true,
+        polyline_options: { color: 'red' },
+        markers: {
+                startIcon: null,
+                endIcon: null,
+            },
+
+      };
+
+      const gpx = new L.GPX(url, options).on('loaded', (e) => {
+        map.fitBounds(e.target.getBounds());
+      }).addTo(map);
+
     </script>
   {{ end }}
   {{ .Content }}
