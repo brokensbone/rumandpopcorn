@@ -35,7 +35,7 @@ branch_prod = amplify.Branch("production",
     app_id=amplify_app.id,
     branch_name="main",
     stage="PRODUCTION",
-    enable_auto_build=False
+    enable_auto_build=True
 )
 
 domain_association_resource = amplify.DomainAssociation("alcachofa-uk",
@@ -59,15 +59,15 @@ domain_association_rnp = amplify.DomainAssociation("rumandpopcorn",
     domain_name="rumandpopcorn.com",
     sub_domains=[
     {
-        "branch_name": main.branch_name,
+        "branch_name": branch_prod.branch_name,
         "prefix": "",
     },
     {
-        "branch_name": main.branch_name,
+        "branch_name": branch_prod.branch_name,
         "prefix": "www",
     },
     {
-        "branch_name": main.branch_name,
+        "branch_name": branch_prod.branch_name,
         "prefix": "prod",
     }],
     enable_auto_sub_domain=False,
