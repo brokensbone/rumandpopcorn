@@ -18,7 +18,7 @@ with open("amplify.yml", "r") as file:
 conf = pulumi.Config()
 github_tok = conf.require_secret("github_token2")
 amplify_app = amplify.App('CrumAndPoppedHorn',
-    name='crumandpoppedhorn',
+    name='rumandpopcorn',
     repository='https://github.com/brokensbone/rumandpopcorn',
     build_spec=amplify_yml,
     access_token=github_tok
@@ -31,5 +31,48 @@ main = amplify.Branch("main",
     stage="PRODUCTION",
     enable_auto_build=True
 )
+branch_prod = amplify.Branch("production",
+    app_id=amplify_app.id,
+    branch_name="main",
+    stage="PRODUCTION",
+    enable_auto_build=False
+)
+
+domain_association_resource = amplify.DomainAssociation("alcachofa-uk",
+    app_id=amplify_app.id,
+    domain_name="alcachofa.uk",
+    sub_domains=[
+    {
+        "branch_name": main.branch_name,
+        "prefix": "",
+    },
+    {
+        "branch_name": main.branch_name,
+        "prefix": "www",
+    }],
+    enable_auto_sub_domain=False,
+    wait_for_verification=False
+)
+
+domain_association_rnp = amplify.DomainAssociation("rumandpopcorn",
+    app_id=amplify_app.id,
+    domain_name="rumandpopcorn.com",
+    sub_domains=[
+    {
+        "branch_name": main.branch_name,
+        "prefix": "",
+    },
+    {
+        "branch_name": main.branch_name,
+        "prefix": "www",
+    },
+    {
+        "branch_name": main.branch_name,
+        "prefix": "prod",
+    }],
+    enable_auto_sub_domain=False,
+    wait_for_verification=False
+)
 
 pulumi.export('Domain', amplify_app.default_domain)
+pulumi.export('DNSRecords', domain_association_rnp.certificate_verification_dns_record)
