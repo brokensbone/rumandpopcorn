@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <div class="container">
+    <div class="content">
+      {{ with .Params.subtitle }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time class="content right" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  </div>
+  {{ with .Params.image }}
+    {{ $imageName := . }}
+    {{ $image := resources.Get $imageName }}
+    {{ $image := $image.Resize "500x" }}
+    {{ with $image }}
+      <img src="{{ .RelPermalink }}" class="img-responsive" alt="{{ $.Title }}">
+    {{ end }}
+
+  {{ end }}
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

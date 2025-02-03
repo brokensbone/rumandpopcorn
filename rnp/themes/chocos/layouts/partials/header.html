@@ -1,0 +1,4 @@
+<div class="main-col">
+    <a href="/"><h1 class="site-title">{{ site.Title }}{{ if not hugo.IsProduction }} - DEV {{ end }}</h1></a>
+    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>

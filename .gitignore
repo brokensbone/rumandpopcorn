@@ -3,3 +3,12 @@ _site
 .jekyll-cache
 .jekyll-metadata
 deploy.sh
+
+# Generated files by hugo
+migrate/public/
+migrate/resources/_gen/
+migrate/assets/jsconfig.json
+migrate/hugo_stats.json
+
+# Temporary lock file while building
+migrate/.hugo_build.lock

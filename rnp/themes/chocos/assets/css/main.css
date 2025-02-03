@@ -1,0 +1,149 @@
+/* vars to override */
+:root {
+  --color-text: black;
+  --color-background: snow;
+  --color-header: #FF3319;
+  --color-header-text: snow;
+  --color-links: #FF3319;
+  --color-accent: yellow;
+  --breakpoint-small: 500px;
+}
+
+/* Dark mode if the browser asks nicely */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: snow;
+    --color-background: rgb(64,64,64);
+  }
+}
+
+body {
+  color: var(--color-text);
+  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  margin: 0 auto;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  padding: 0;
+  background-color: var(--color-background);
+}
+.site-title {
+  margin: 0;
+}
+
+header {
+  border-bottom: 5px solid #222;
+  margin-bottom: 1rem;
+  color: var(--color-header-text);
+  background-color: var(--color-header);
+}
+.main-col {
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+a {
+  color: var(--color-links);
+  text-decoration: underline;
+}
+header a {
+  color: var(--color-header-text);
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.container .icon {
+   height: 30px;
+   width: 30px;
+   background: #000;
+   flex: 50%;
+}
+.container .content {
+   flex: 50%;
+}
+
+.container .right {
+   flex: 50%;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+}
+
+@media (max-width: 500px) {
+  .container .icon, .container .content {
+    flex: 100%;
+  }
+  .container .right {
+    justify-content: start;
+  }
+}
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+ul.inline {
+  display: inline;
+}
+
+.inline li { display: inherit; }
+.inline li:after { content: "  |  "; }
+.inline li:last-child:after { content: ""; }
+
+.img-responsive
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ul.pagination {
+  list-style-type: none;
+  padding: 0;
+  justify-content: center;
+  text-align: center;
+}
+ul.pagination li {
+  display: inline;
+  margin: 1rem;
+  padding: 1rem;
+  border: var(--color-header) 3px solid;
+  border-radius: 5px;
+}
+
+@media (max-width: 500px) {
+  ul.pagination li {
+    margin: 0.5rem;
+    padding: 0.2rem;
+    background-color: var(--color-header);
+    & a {
+    color: var(--color-text);
+    }  
+  }
+}
+
+ul.pagination .active, ul.pagination .active a {
+  background-color: var(--color-accent);
+  text-decoration: none;
+}
+
