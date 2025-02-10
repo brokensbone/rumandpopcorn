@@ -3,6 +3,7 @@ title: Books 2024
 date: 2024-01-01
 ---
 
-1. Richard Flanagan - Gould's Book of Fish
-1. Benjamin Myers - The Perfect Golden Circle
-1. Donna Tartt - A Secret History
+1. Richard Flanagan - Gould's Book of Fish [Tasmanian penal colony. Paintings of fish. Great]
+1. Benjamin Myers - The Perfect Golden Circle [Crop circles in the 90s. Decent]
+1. Donna Tartt - A Secret History [College weirdos get weirder. Uneven. Great bits]
+1. John Lanchester - Mr Phillips [Well written but a bit hollow. Dated]
