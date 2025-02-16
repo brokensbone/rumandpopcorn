@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $paginator.Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Content }}
+    {{ with .Params.film_tag_in }}
+      <p>Linked by {{ . }} to... </p>
+    {{ end }}
+  {{ end }}
+  {{ template "_internal/pagination.html" (dict "page" . "format" "terse") }}
+
+{{ end }}
