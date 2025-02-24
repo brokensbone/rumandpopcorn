@@ -4,6 +4,8 @@ import pulumi
 from pulumi_aws import s3
 from pulumi_aws import amplify
 
+from uptime import build_statuscake_check
+
 # Create an AWS resource (S3 Bucket)
 bucket = s3.BucketV2('my-bucket')
 
@@ -73,6 +75,8 @@ domain_association_rnp = amplify.DomainAssociation("rumandpopcorn",
     enable_auto_sub_domain=False,
     wait_for_verification=False
 )
+
+build_statuscake_check()
 
 pulumi.export('Domain', amplify_app.default_domain)
 pulumi.export('DNSRecords', domain_association_rnp.certificate_verification_dns_record)
