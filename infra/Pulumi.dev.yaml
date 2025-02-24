@@ -6,3 +6,5 @@ config:
     secure: AAABAL9vpngsfbLDsYCqUGFyADLSIZ/Gr9h/BdrX1aAhlV+Opd+FgnaLbIRt6O0rK2r+p2jJjb82wMIjz/+XCBIlfrdv+LxGsQDrkYjcc59azlVoI1GvX5Lz2L2RCdJpohXRHUuPXrfX5lMEGVld6l9N2fikUldGvkUxauI=
   rnp-web-infra:github_token2:
     secure: AAABADtz5v7mS6DzsHOTUmSWpPwOBDH9ZJ0ZS+0LqCuxTwVWE9acWUCPNMb7ySH0vb3cnyCUF01J/dSX2Dk22ayM25Bv5Ci/
+  statuscake:apiToken:
+    secure: AAABAKGQ8fBiLdI0wUjTyvhbcSljbehjHF+Hjo4FoDFlGcs2MFLe+FsO8tmN52h9kvkufZmKVrnJysIFH78=
