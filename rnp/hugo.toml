@@ -6,7 +6,7 @@ timezone = 'Europe/London'
 
 [params]
   footer_text = 'I live in Leeds. I like film. And food.'
-  github_username = 'brokensbone'
+  github_username = 'brokensbone/rumandpopcorn'
   instagram_username = 'edsalkeld'
   date_format = "02 Jan 2006"
 
