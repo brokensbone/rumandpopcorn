@@ -1,10 +1,10 @@
 {{ define "main" }}
   {{ .Content }}
   {{ $pages := where .Site.RegularPages "Section" "posts" }}
-  {{ $paginator := .Paginate $pages.ByDate.Reverse }}
+  {{ $paginator := .Paginate $pages.ByDate.Reverse 5 }}
   {{ range $paginator.Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    {{ .Content }}
   {{ end }}
   {{ template "_internal/pagination.html" (dict "page" . "format" "terse") }}
 
