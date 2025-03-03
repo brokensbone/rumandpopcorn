@@ -8,3 +8,4 @@ date: 2024-01-01
 1. Donna Tartt - A Secret History [College weirdos get weirder. Uneven. Great bits]
 1. John Lanchester - Mr Phillips [Well written but a bit hollow. Dated]
 1. Geraldine Brooks - Year of Wonder [Plague village. Beautifully written but unrelentingly horrible]
+1. Leonardo Sciascia - The Day of the Owl [Very short but totally gripping. A murder in Sicily. Does the mafia even exist?]
