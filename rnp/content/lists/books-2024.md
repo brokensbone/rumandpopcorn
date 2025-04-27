@@ -19,3 +19,5 @@ date: 2024-01-01
     - Totally fascinating history of British food and politics
 1. Shirley Jackson - We Have Always Lived in the Castle
     - Well this was weird. Intense and spooky novella of two creepy sisters and their murderous past
+1. Toby Litt - Corpsing
+    - A decent page-turner thriller. Feels a bit early-noughties bloke-lit. Intentionally, I think.
