@@ -1,6 +1,6 @@
 ---
-title: Books 2024
-date: 2024-01-01
+title: Books 2025
+date: 2025-01-01
 ---
 
 1. Richard Flanagan - Gould's Book of Fish
