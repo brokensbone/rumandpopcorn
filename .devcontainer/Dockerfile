@@ -1,4 +1,4 @@
-FROM golang:1.23-bookworm
+FROM golang:1.24-bookworm
 
 RUN apt-get update && apt-get install -y ca-certificates openssl git curl
 RUN rm -rf /var/lib/apt/lists/*
@@ -7,7 +7,7 @@ RUN rm -rf /var/lib/apt/lists/*
 # VARIANT can be either 'hugo' for the standard version or 'hugo_extended' for the extended version.
 ARG VARIANT=hugo_extended
 # VERSION a specific version number
-ARG VERSION=0.140.2
+ARG VERSION=0.147.6
 RUN ARCH=$(uname -m) && \
     if [ "$ARCH" = "aarch64" ]; then ARCH="ARM64"; elif [ "$ARCH" = "x86_64" ]; then ARCH="64bit"; else echo "Unsupported architecture"; exit 1; fi && \
     wget -O ${VERSION}.tar.gz https://github.com/gohugoio/hugo/releases/download/v${VERSION}/${VARIANT}_${VERSION}_Linux-${ARCH}.tar.gz && \
