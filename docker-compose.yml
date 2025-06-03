@@ -1,0 +1,10 @@
+services:
+  website:
+    build:
+      context: .
+    ports:
+      - "1313:1313"
+    volumes:
+      - ./rnp:/website
+    command: ["hugo", "serve", "-s", "/website", "--bind", "0.0.0.0"]
+
