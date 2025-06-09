@@ -4,6 +4,9 @@ languageCode = 'en-gb'
 theme = 'chocos'
 timezone = 'Europe/London'
 
+[pagination]
+  pagerSize = 5
+
 [params]
   footer_text = 'I live in Leeds. I like film. And food.'
   github_username = 'brokensbone/rumandpopcorn'
