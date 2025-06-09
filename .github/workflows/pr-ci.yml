@@ -65,7 +65,7 @@ jobs:
 
         # Check for RSS/feed links
         echo "Checking for feed links..."
-        echo "$ABOUT_PAGE" | grep -q 'feed\.xml\|rss' || (echo "Missing RSS/feed links" && exit 1)
+        echo "$ABOUT_PAGE" | grep -q '/feeds\|rss' || (echo "Missing RSS/feed links" && exit 1)
 
         # Check for Instagram link (from about content)
         echo "Checking for social links..."
