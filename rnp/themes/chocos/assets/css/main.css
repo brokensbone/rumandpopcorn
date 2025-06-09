@@ -29,6 +29,9 @@ body {
   font-kerning: normal;
   padding: 0;
   background-color: var(--color-background);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 .site-title {
   margin: 0;
@@ -45,6 +48,7 @@ header {
   max-width: 600px;
   margin: 0 auto;
   padding: 1rem;
+  flex: 1;
 }
 
 footer {
