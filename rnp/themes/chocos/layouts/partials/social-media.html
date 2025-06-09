@@ -1,15 +1,9 @@
 <div>
     {{ if isset .Site.Params "github_username" }}
-        <a href="https://github.com/{{ .Site.Param "github_username" }}">
-            GitHub
-        </a> - 
-        {{ end }}
-        {{ if isset .Site.Params "instagram_username" }}
-        <a href="https://instagram.com/{{ .Site.Param "instagram_username" }}">
-            Instagram
-        </a> - 
+        <a href="https://github.com/{{ .Site.Param "github_username" }}">GitHub</a> - 
     {{ end }}
-    <a href="/feeds">
-        RSS feeds
-    </a>
+    {{ if isset .Site.Params "instagram_username" }}
+        <a href="https://instagram.com/{{ .Site.Param "instagram_username" }}">Instagram</a> - 
+    {{ end }}
+    <a href="/feeds">RSS feeds</a>
 </div>
