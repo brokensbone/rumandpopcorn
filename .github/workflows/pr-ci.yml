@@ -71,4 +71,22 @@ jobs:
         echo "Checking for social links..."
         echo "$ABOUT_PAGE" | grep -q "instagram.com" || (echo "Missing Instagram link" && exit 1)
 
+        # Check homepage pagination on page 3 (should show 2,3,4 only)
+        echo "Checking homepage pagination format..."
+        PAGE3=$(curl -s http://localhost:1313/page/3/)
+        echo "$PAGE3" | grep -q 'aria-label="Page 2"' || (echo "Missing page 2 link on homepage page 3" && exit 1)
+        echo "$PAGE3" | grep -q 'aria-label="Page 4"' || (echo "Missing page 4 link on homepage page 3" && exit 1)
+        # Check that page 1 and page 5 are NOT showing (only ±1 should show)
+        echo "$PAGE3" | grep -q 'aria-label="Page 1"' && (echo "Page 1 should not show on homepage page 3 (terse format)" && exit 1)
+        echo "$PAGE3" | grep -q 'aria-label="Page 5"' && (echo "Page 5 should not show on homepage page 3 (terse format)" && exit 1)
+
+        # Check posts pagination on page 3 (should show 2,3,4 only)
+        echo "Checking posts pagination format..."
+        POSTS_PAGE3=$(curl -s http://localhost:1313/posts/page/3/)
+        echo "$POSTS_PAGE3" | grep -q 'aria-label="Page 2"' || (echo "Missing page 2 link on posts page 3" && exit 1)
+        echo "$POSTS_PAGE3" | grep -q 'aria-label="Page 4"' || (echo "Missing page 4 link on posts page 3" && exit 1)
+        # Check that page 1 and page 5 are NOT showing (only ±1 should show)
+        echo "$POSTS_PAGE3" | grep -q 'aria-label="Page 1"' && (echo "Page 1 should not show on posts page 3 (terse format)" && exit 1)
+        echo "$POSTS_PAGE3" | grep -q 'aria-label="Page 5"' && (echo "Page 5 should not show on posts page 3 (terse format)" && exit 1)
+
         echo "All checks passed! ✅"
