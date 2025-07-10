@@ -27,3 +27,5 @@ date: 2025-01-01
    - Nice idea, but waaaay too much social media. Reading about Twitter is _boring_.
 1. Kate Atkinson - Shrines of Gaiety
    - Post-war Soho drinking dens. Police, dancers, missing girls, dope. Fabulous stuff.
+1. Angela Carter - Nights at the Circus
+   - Utterly insane. From music hall to Siberia, with clowns, tigers and shaman.
