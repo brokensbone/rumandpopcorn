@@ -29,3 +29,5 @@ date: 2025-01-01
    - Post-war Soho drinking dens. Police, dancers, missing girls, dope. Fabulous stuff.
 1. Angela Carter - Nights at the Circus
    - Utterly insane. From music hall to Siberia, with clowns, tigers and shaman.
+1. Patrick Hamilton - Hangover Square
+   - Fascinating slice of hard-drinking 30s life. Went on a bit too long.
