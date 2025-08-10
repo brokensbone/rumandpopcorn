@@ -31,3 +31,5 @@ date: 2025-01-01
    - Utterly insane. From music hall to Siberia, with clowns, tigers and shaman.
 1. Patrick Hamilton - Hangover Square
    - Fascinating slice of hard-drinking 30s life. Went on a bit too long.
+1. Susanna Clarke - Piranesi
+   - Possibly my favourite book. A whole world of imagination with some very dark twists.
