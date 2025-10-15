@@ -33,3 +33,7 @@ date: 2025-01-01
    - Fascinating slice of hard-drinking 30s life. Went on a bit too long.
 1. Susanna Clarke - Piranesi
    - Possibly my favourite book. A whole world of imagination with some very dark twists.
+1. Susanna Clarke - Jonathon Strange and Mr Norrell
+   - It's long! Victorian novel meets magic and fantasy. Very well written.
+1. JG Ballard - Cocaine Nights
+   - A re-read. Is it my favourite Ballard? Dystopian Costa del Sol magic.
