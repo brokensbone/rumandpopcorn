@@ -28,7 +28,7 @@ Thankfully, I am now very much a Hammer fan. I bought A New Heritage of Horror b
   
 I started with X: The Unknown (radioactive slime crawls out from the centre of the planet and munches its way through some tasty radioactive things), Hound of the Baskevilles (Good fun adaptation) and The Devil Rides Out - which I enjoyed a lot and might have to re-watch and review)  
   
-My now fairly strong feeling that I was onto something rather wonderful was confirmed when I moved onto the Dracula series. So let's start at the begining shall we?  
+My now fairly strong feeling that I was onto something rather wonderful was confirmed when I moved onto the Dracula series. So let's start at the beginning shall we?  
   
 ![](/blogspot/AVvXsEgykDkH0IbPfv2XZ5ggY1aaoVziye887aoiBs7CKHtrV6ofWmBj8ZSx9k1cllCP7MW2qrSI5cTEEEd_B8XKCiRD5pM0DDgMwWm9mKoxQMSv4UPZu6ONlGxQ8THkD55JvSSp1d6YdPfLvJI/s400/POSTER%20-%20DRACULA%20(C.LEE)-1.JPG)  
   

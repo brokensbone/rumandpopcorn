@@ -12,7 +12,7 @@ tags:
 
   
   
-Having recently written a bit about the film OST, I tohught I might as well start a series of posts dedicated to the best soundtracks and theme-tunes around. So here is the rather fabulous [Green Slime](http://www.imdb.com/title/tt0064393/).  
+Having recently written a bit about the film OST, I thought I might as well start a series of posts dedicated to the best soundtracks and theme-tunes around. So here is the rather fabulous [Green Slime](http://www.imdb.com/title/tt0064393/).  
   
 The youtube video was put up by the [Uranium Café](http://uraniumcafe-the.com/), which is a very good blog if you're interested in these kinds of things...  
   
