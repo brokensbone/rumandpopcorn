@@ -39,7 +39,7 @@ Completely by accident however, Donald mixes up the left-over food from the frid
   
 ![](/blogspot/AVvXsEjfgiBR2PtDTsPphjcuY3CcFT93VuQhdA5LSw84lmYtuV1juSUZ3fxZtThw1u3_qeAGq3YvCZM3nsnb9IYd7inN8blEZj5_kGl31VkO2d12_dqxMkMLJPv4TWZEioqKhm99Zw8Q_Oog_eg/s400/Microwave._010.jpg)  
   
-Donald's co-workers agree that the meat is pretty good; by this point the film's great fun. Watching Donald and his work-mates tucking into chunks of human flesh is begining to give us something of what the film promised. Still not really a massacre though....  
+Donald's co-workers agree that the meat is pretty good; by this point the film's great fun. Watching Donald and his work-mates tucking into chunks of human flesh is beginning to give us something of what the film promised. Still not really a massacre though....  
   
 ![](/blogspot/AVvXsEj0_oxMZ6bMHrmu5XIXcpWt91igrc8tNj_gaIrVIYNXH5x8P00yLuW6n7DYhQESLfXSjuT9hf4LJ4XTvzibDIw-hU_AJWBF9gWTWYym_8h-3tQRB5icNKfbE3rAfu-NGgzOV3UIVdg8Ews/s400/Microwave._011.jpg)  
   

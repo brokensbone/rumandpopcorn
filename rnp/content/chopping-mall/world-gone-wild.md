@@ -16,7 +16,7 @@ tags:
 
 ![](/blogspot/AVvXsEgGzO3nm343O4g5Vl5Lt4OgvmUk1VpoxqnX6_ftgCW75iUmMcoP0oT3XuZpZduJW7upbmoNdjeYh8gcD3-TU6JZ_koToKZyhsDCgxDR2VL_ZYgaGJRU1nCOScIVSkmbPpEFuh51Cb-ig_M/s800/worldgonewild1bg9.jpg)  
   
-After wading through a lot of horror recently (especially Vampires!), I was begining to feel the need to turn my gaze to something a little different. At this point, I usually sit down to choose between my other two favourite genres; is it to be Spaghetti Western or camp 80s Dystopian thrills?  
+After wading through a lot of horror recently (especially Vampires!), I was beginning to feel the need to turn my gaze to something a little different. At this point, I usually sit down to choose between my other two favourite genres; is it to be Spaghetti Western or camp 80s Dystopian thrills?  
   
 I chose the camp 80s dystopia and [World Gone Wild](http://www.imdb.com/title/tt0096465/) certainly didn't disappoint.  
   

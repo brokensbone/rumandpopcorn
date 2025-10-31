@@ -16,7 +16,7 @@ tags:
 [![](http://img412.imageshack.us/img412/4615/treevengelogob.gif)](http://img412.imageshack.us/i/treevengelogob.gif/ "ImageShack - Image And Video Hosting")  
 It's hard to know what to say about a short film as funny, gory, mad and wonderful as [Treevenge](http://www.imdb.com/title/tt1343750/).  
   
-The short, clocking in at about 16 minutes, is a couple of years old and comes recommended by a sackful of film festival awards, including an honourable mention at Sundance and audience-fave short at Torronto After Dark, as well as Best Short from Rue Morgue magazine.  
+The short, clocking in at about 16 minutes, is a couple of years old and comes recommended by a sackful of film festival awards, including an honourable mention at Sundance and audience-fave short at Toronto After Dark, as well as Best Short from Rue Morgue magazine.  
   
 I can see why!  
   

@@ -19,7 +19,7 @@ tags:
 
   
   
-Keeping with the DIY aesthetic, the organisers held it in Wharf Chambers - a co-operatively run Arts-space near(ish) to the Corn Exchange, Leeds. This meant that festival goers could take advantage of the Sam Smiths beer on offer as well as some pretty tasty vegan food. A crowd of film-fans had descended like hungry-wolves on the black-bean paté sandwhiches (would hungry wolves eat black bean paté? Not so sure...) but I can vouch for the herb tofu. Great stuff.  
+Keeping with the DIY aesthetic, the organisers held it in Wharf Chambers - a co-operatively run Arts-space near(ish) to the Corn Exchange, Leeds. This meant that festival goers could take advantage of the Sam Smiths beer on offer as well as some pretty tasty vegan food. A crowd of film-fans had descended like hungry-wolves on the black-bean paté sandwiches (would hungry wolves eat black bean paté? Not so sure...) but I can vouch for the herb tofu. Great stuff.  
   
 The set-up in place at the main screen saw films being shown in three sessions with short breaks between each batch of films. There was a second screen as well, with a long list of shorts that were on a rolling playlist.  Sadly, this screen got a bit lost amid the bar, food-counter and conversation of the main room so I didn't really see very much that was shown on it. But the glimpses I caught did seem interesting.  
   

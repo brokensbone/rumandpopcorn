@@ -16,7 +16,7 @@ tags:
   
 Westerns are in an odd place these days. The culture of the Western is so deeply ingrained in our collective consciousness that everyone is familiar with some, if not all, of the classic clichés and norms of the Western film. Goodies wear white hats, baddies wear black. They smoke. They shoot. They drink whisky. They fight in bars. They barge through saloon doors, chase each other on horses across the desert, dash over the border to Mexico when the heat's on, have quick-draw shoot-outs at high noon, etc, etc.  
   
-Part of the reason for this collective knowledge is that Western films were simply MASSIVE once uipon a time. A well-established genre on both sides of the Atlantic, Western films were big business whilst (for the European Spaghetti Westerns at least) being dirt cheap to produce.  
+Part of the reason for this collective knowledge is that Western films were simply MASSIVE once upon a time. A well-established genre on both sides of the Atlantic, Western films were big business whilst (for the European Spaghetti Westerns at least) being dirt cheap to produce.  
   
 So why, years later do we remember the clichés but forget the films? Why do we remember only Clint Eastwood as THE Western star, Segio Leone as THE director and Ennio Morricone as THE composer?  
   
@@ -46,6 +46,6 @@ So no great innovation in terms of plot, but sometimes its executgion rather tha
   
 Cemetery Without Crosses is beautifully shot - full of lots of long static camera angles - and keeps tension high throughout, with sparse dialogue and long silences that threaten to bore at times but mostly thrill. The soundtrack doesn't suffer either, director and star Rob Hossein's father André providing some suitably stompy, whistle-y tunes that fit the picture perfectly.  
   
-In all, Cemetery Without Crosses is an exciting, well-written and well-directed Spagheti Western that, although probably somewhat forgettable, is \`definitely an entertaining watch.  
+In all, Cemetery Without Crosses is an exciting, well-written and well-directed Spaghetti Western that, although probably somewhat forgettable, is \`definitely an entertaining watch.  
   
 As an extra aside, it is worth noting the writing credit given to a certain b-movie legend, Mr Dario Argento. Argento was fresh from a taste of success in writing for Sergio Leone's (him again) Once Upon A Tine in the West and obviously saw another Western as a sensible move. Director Rob Hossein has since claimed however that Argento played no role in the cresation of the film, suggesting that his onvolvement might not have gone as smoothly as hoped...
