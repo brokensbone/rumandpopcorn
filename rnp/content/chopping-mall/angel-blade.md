@@ -20,7 +20,7 @@ That next thing that came along was Angel Blade.
   
 \[WARNING! SPOILER ALERT! THIS REVIEW REVEALS THE PLOT OF THE FILM\]  
   
-Now, I'll be straight about this from the begining; I bought Angel Blade on DVD for £0.99 at the nearest er... 99p shop. So I'll admit that I wasn't necessarily expecting a masterpiece (although I did pick up a couple of Dario Argento films there too... Wine some, lose some). And masterpiece it most certainly wasn't.  
+Now, I'll be straight about this from the beginning; I bought Angel Blade on DVD for £0.99 at the nearest er... 99p shop. So I'll admit that I wasn't necessarily expecting a masterpiece (although I did pick up a couple of Dario Argento films there too... Wine some, lose some). And masterpiece it most certainly wasn't.  
   
 I would have no hesitation in naming Angel Blade as one of the worst films I have watched in recent memory.  
   
