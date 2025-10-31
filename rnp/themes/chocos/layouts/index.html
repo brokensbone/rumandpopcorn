@@ -2,7 +2,10 @@
   {{ .Content }}
   {{ $pages := where .Site.RegularPages "Section" "posts" }}
   {{ $paginator := .Paginate $pages.ByDate.Reverse 5 }}
-  {{ range $paginator.Pages }}
+  {{ range $index, $page := $paginator.Pages }}
+    {{ if gt $index 0 }}
+      <hr class="post-separator">
+    {{ end }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Content }}
   {{ end }}
