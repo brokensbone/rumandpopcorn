@@ -22,7 +22,7 @@ timezone = 'Europe/London'
     posts = "/:year/:month/:slug"
 
 [frontmatter]
-  date  = [":filename", ":default"]
+  date  = [":default", ":filename"]
 
 [services.rss]
   limit = 20
