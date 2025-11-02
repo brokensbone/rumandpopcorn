@@ -4,7 +4,7 @@ date: 2025-11-01T15:15:00+00:00
 draft: true
 ---
 
-Documentries are always hard to comment on really. Are you appreciating the film?
+Documentaries are always hard to comment on really. Are you appreciating the film?
 Or just agreeing with the points the film made?
 
 _In Symbiosis_ is pretty much as right-on as it comes. We cover GM crops, pesticides,
