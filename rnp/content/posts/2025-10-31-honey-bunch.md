@@ -1,6 +1,8 @@
 ---
 title: "Honey Bunch"
 date: 2025-10-31T18:15:00+00:00
+tags: liff25 Leeds international film festival
+screening-number: 2
 ---
 
 The first part of a Halloween Grace Glowicki and Ben Petrie double bill, Honey Bunch is one of those
