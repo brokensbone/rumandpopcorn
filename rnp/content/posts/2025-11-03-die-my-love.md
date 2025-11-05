@@ -1,7 +1,7 @@
 ---
 title: "Die My Love"
 date: 2025-11-03T20:30:00+00:00
-tags: liff25 Leeds international film festival
+tags: [liff25, "Leeds international film festival"]
 screening-number: 12
 ---
 

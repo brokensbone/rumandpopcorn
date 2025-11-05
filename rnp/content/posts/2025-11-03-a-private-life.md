@@ -1,7 +1,7 @@
 ---
 title: "A Private Life"
 date: 2025-11-03T13:00:00+00:00
-tags: liff25 Leeds international film festival
+tags: [liff25, "Leeds international film festival"]
 screening-number: 10
 ---
 
