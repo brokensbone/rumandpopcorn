@@ -1,6 +1,8 @@
 ---
 title: "Rental Family"
 date: 2025-11-01T20:30:00+00:00
+tags: [liff25, "Leeds international film festival"]
+screening-number: 7
 ---
 
 Brendan Fraser is a down-on-his-luck actor living in Tokyo, when he stumbles
