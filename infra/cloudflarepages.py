@@ -15,7 +15,7 @@ class StaticSiteConfig:
         "destination_dir": "/html",
         "root_dir": "/",
     }
-    repo_name: str = "site"
+    repo_name: str = ""
     domain_name: str = ""
 
 
@@ -33,7 +33,7 @@ def static_site(config: StaticSiteConfig):
                 "production_branch": "main",
                 "production_deployments_enabled": True,
                 "repo_name": config.repo_name,
-                "owner": "EdwardSalkeld",
+                "owner": "brokensbone",
             },
             "type": "github",
         },
@@ -61,6 +61,7 @@ def build():
     rnp_site.site_name = "rnp-blog"
     rnp_site.resource_name = "RnP"
     rnp_site.domain_name = "trial.rumandpopcorn.com"
+    rnp_site.repo_name = "rumandpopcorn"
     rnp_site.build_config = {
         "build_caching": True,
         "build_command": "hugo",
