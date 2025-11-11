@@ -58,7 +58,7 @@ def static_site(config: StaticSiteConfig):
 
 def build():
     rnp_site = StaticSiteConfig()
-    rnp_site.site_name = "RnP Blog"
+    rnp_site.site_name = "rnp-blog"
     rnp_site.resource_name = "RnP"
     rnp_site.domain_name = "trial.rumandpopcorn.com"
     rnp_site.build_config = {
