@@ -10,7 +10,7 @@ config:
     secure: AAABAKGQ8fBiLdI0wUjTyvhbcSljbehjHF+Hjo4FoDFlGcs2MFLe+FsO8tmN52h9kvkufZmKVrnJysIFH78=
   cloudflare:apiToken:
     secure: AAABAFIPTNUTJuCIC4fPEV4d2DxorhyTA0GTNCVyMLuiOV+/lNsBsy5LRvB13BSgW+02M+1jEvJSqMvIFu621d/hGbcJyBNZ
-  cloudflare:account_id:
+  rnp:account_id:
     secure: AAABAGaLny+VcyoWs4pdzyGB2cAd1EVh6trg0Xaty77oHtj8wv0BUTuHcypvIh1Ao4T+s8nZVjqsAEy773Rmcg==
-  cloudflare:zone_id:
+  rnp:zone_id:
     secure: AAABABV/sVKPao9Fy5CrfNqnLsDCJXLs2gE0gn7kCbLK10GKgqhlOQzAKdYwhdtwqA1M9lBprbMSD/kBonivpA==

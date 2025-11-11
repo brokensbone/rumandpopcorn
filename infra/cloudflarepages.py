@@ -1,0 +1,70 @@
+import pulumi
+import pulumi_cloudflare as cloudflare
+
+config = pulumi.Config("rnp")
+zone = config.require_secret("zone_id")
+account_id = config.require_secret("account_id")
+
+
+class StaticSiteConfig:
+    resource_name: str = "site"
+    site_name: str = "personal-site"
+    build_config: dict[str, str | bool] = {
+        "build_caching": False,
+        "build_command": "ls -la",
+        "destination_dir": "/html",
+        "root_dir": "/",
+    }
+    repo_name: str = "site"
+    domain_name: str = ""
+
+
+def static_site(config: StaticSiteConfig):
+    pages_projects = cloudflare.PagesProject(
+        f"{config.resource_name}-pages-project",
+        account_id=account_id,
+        name=config.site_name,
+        build_config=config.build_config,
+        production_branch="main",
+        source={
+            "config": {
+                "deployments_enabled": True,
+                "pr_comments_enabled": True,
+                "production_branch": "main",
+                "production_deployments_enabled": True,
+                "repo_name": config.repo_name,
+                "owner": "EdwardSalkeld",
+            },
+            "type": "github",
+        },
+    )
+
+    cloudflare.PagesDomain(
+        f"{config.resource_name}-pages-domain",
+        account_id=account_id,
+        project_name=pages_projects.name,
+        name=config.domain_name,
+    )
+    cloudflare.DnsRecord(
+        f"{config.resource_name}-pages-dns",
+        name=config.domain_name,
+        proxied=True,
+        ttl=1,
+        type="CNAME",
+        content=pages_projects.domains[0],
+        zone_id=zone,
+    )
+
+
+def build():
+    rnp_site = StaticSiteConfig()
+    rnp_site.site_name = "RnP Blog"
+    rnp_site.resource_name = "RnP"
+    rnp_site.domain_name = "trial.rumandpopcorn.com"
+    rnp_site.build_config = {
+        "build_caching": True,
+        "build_command": "hugo",
+        "destination_dir": "/public",
+        "root_dir": "/rnp",
+    }
+    static_site(rnp_site)
