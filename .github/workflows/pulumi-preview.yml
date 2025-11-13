@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [ main ]
     paths:
-      - 'dns/**'
+      - 'infra/**'
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: dns
+        working-directory: infra
         
     steps:
       - uses: actions/checkout@v4
@@ -30,5 +30,5 @@ jobs:
         with:
           command: preview
           stack-name: brokensbone/rnp-web-infra/dev
-          work-dir: dns
+          work-dir: infra
     
