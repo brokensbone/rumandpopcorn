@@ -12,6 +12,6 @@ sequence of events that are all about finding community and conversation and pur
 It's a small film in its way. But its an absolute joy to watch Maura pottering through
 the city, coming up with schemes and badmouthing those who wrong her to a silent nun.
 
-An interesting counterpart to [the Blue Trail](/rnp/content/posts/2025-11-01-the-blue-trail.md)
+An interesting counterpart to [the Blue Trail](/2025/11/the-blue-trail/)
 which told a story of an older woman lead, muscled out of her routine by her daughter,
 forging her own path (in a _very_ different way!).
