@@ -16,7 +16,7 @@ class StaticSiteConfig:
         "root_dir": "/",
     }
     repo_name: str = ""
-    domain_name: str = ""
+    domain_names: list[str] = [""]
 
 
 def static_site(config: StaticSiteConfig):
@@ -39,28 +39,29 @@ def static_site(config: StaticSiteConfig):
         },
     )
 
-    cloudflare.PagesDomain(
-        f"{config.resource_name}-pages-domain",
-        account_id=account_id,
-        project_name=pages_projects.name,
-        name=config.domain_name,
-    )
-    cloudflare.DnsRecord(
-        f"{config.resource_name}-pages-dns",
-        name=config.domain_name,
-        proxied=True,
-        ttl=1,
-        type="CNAME",
-        content=pages_projects.domains[0],
-        zone_id=zone,
-    )
+    for ix, domain_name in enumerate(config.domain_names):
+        cloudflare.PagesDomain(
+            f"{config.resource_name}-{ix}-pages-domain",
+            account_id=account_id,
+            project_name=pages_projects.name,
+            name=domain_name,
+        )
+        cloudflare.DnsRecord(
+            f"{config.resource_name}-{ix}-pages-dns",
+            name=domain_name,
+            proxied=True,
+            ttl=1,
+            type="CNAME",
+            content=pages_projects.domains[0],
+            zone_id=zone,
+        )
 
 
 def build():
     rnp_site = StaticSiteConfig()
     rnp_site.site_name = "rnp-blog"
     rnp_site.resource_name = "rnp"
-    rnp_site.domain_name = "www.rumandpopcorn.com"
+    rnp_site.domain_names = ["rumandpopcorn.com", "www.rumandpopcorn.com"]
     rnp_site.repo_name = "rumandpopcorn"
     rnp_site.build_config = {
         "build_caching": True,
