@@ -1,0 +1,33 @@
+name: Pulumi Deploy
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'infra/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    env:
+      PULUMI_ACCESS_TOKEN:  ${{ secrets.PULUMI_ACCESS_TOKEN }}
+
+    defaults:
+      run:
+        working-directory: dns
+        
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Pulumi deploy
+        uses: pulumi/actions@v6
+        with:
+          command: up
+          stack-name: brokensbone/rnp-web-infra/dev
+          work-dir: infra
+    
