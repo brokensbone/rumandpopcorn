@@ -2,11 +2,23 @@
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for more information:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-# https://containers.dev/guide/dependabot
 
 version: 2
 updates:
- - package-ecosystem: "devcontainers"
-   directory: "/"
-   schedule:
-     interval: weekly
+  # Python dependencies for Pulumi infrastructure
+  - package-ecosystem: "pip"
+    directory: "/infra"
+    schedule:
+      interval: "weekly"
+  
+  # Hugo Go modules for theme and component dependencies
+  - package-ecosystem: "gomod"
+    directory: "/rnp"
+    schedule:
+      interval: "weekly"
+  
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
