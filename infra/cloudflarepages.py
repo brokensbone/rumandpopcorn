@@ -61,7 +61,10 @@ def build():
     rnp_site = StaticSiteConfig()
     rnp_site.site_name = "rnp-blog"
     rnp_site.resource_name = "rnp"
-    rnp_site.domain_names = ["rumandpopcorn.com", "www.rumandpopcorn.com"]
+    rnp_site.domain_names = [
+        "rumandpopcorn.com",
+        "www.rumandpopcorn.com",
+    ]
     rnp_site.repo_name = "rumandpopcorn"
     rnp_site.build_config = {
         "build_caching": True,
