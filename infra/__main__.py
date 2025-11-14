@@ -1,24 +1,25 @@
 """An AWS Python Pulumi program"""
 
-import pulumi
-from pulumi_aws import s3
-from pulumi_aws import amplify
+# import pulumi
+# from pulumi_aws import s3
+
+# from pulumi_aws import amplify
 import cloudflarepages
 from uptime import build_statuscake_check
 
 # Create an AWS resource (S3 Bucket)
-bucket = s3.BucketV2("my-bucket")
+# bucket = s3.BucketV2("my-bucket")
 
 # Export the name of the bucket
-pulumi.export("bucket_name", bucket.id)
+# pulumi.export("bucket_name", bucket.id)
 
 # Amplify App - build config
 # with open("amplify.yml", "r") as file:
 #     amplify_yml = file.read()
 
 # Amplify App
-conf = pulumi.Config()
-github_tok = conf.require_secret("github_token2")
+# conf = pulumi.Config()
+# github_tok = conf.require_secret("github_token2")
 # amplify_app = amplify.App(
 #     "CrumAndPoppedHorn",
 #     name="rumandpopcorn",
