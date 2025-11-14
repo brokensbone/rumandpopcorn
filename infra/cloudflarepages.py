@@ -26,6 +26,18 @@ def static_site(config: StaticSiteConfig):
         name=config.site_name,
         build_config=config.build_config,
         production_branch="main",
+        deployment_configs={
+            "production": {
+                "environment_variables": {
+                    "HUGO_VERSION": "0.147.6",
+                },
+            },
+            "preview": {
+                "environment_variables": {
+                    "HUGO_VERSION": "0.147.6",
+                },
+            },
+        },
         source={
             "config": {
                 "deployments_enabled": True,
