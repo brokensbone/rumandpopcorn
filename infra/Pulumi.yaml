@@ -2,7 +2,7 @@ name: rnp-web-infra
 runtime:
   name: python
   options:
-    virtualenv: venv
+    toolchain: uv
 description: RumAndPopcorn Site Infrastructure
 config:
   pulumi:tags:
