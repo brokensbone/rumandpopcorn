@@ -1,0 +1,27 @@
+Build Information for {{ .Site.Title }}
+Generated: {{ now.Format "2006-01-02 15:04:05 MST" }}
+
+Hugo Build Information:
+=======================
+Hugo Version: {{ hugo.Version }}
+Hugo Environment: {{ hugo.Environment }}
+Hugo IsProduction: {{ hugo.IsProduction }}
+Hugo IsExtended: {{ hugo.IsExtended }}
+
+Site Information:
+=================
+Base URL: {{ .Site.BaseURL }}
+Language: {{ .Site.Language.Lang }}
+Title: {{ .Site.Title }}
+
+Selected Environment Variables:
+================================
+{{- $envVars := slice "CI" "GITHUB_ACTIONS" "GITHUB_REPOSITORY" "GITHUB_REF" "GITHUB_SHA" "GITHUB_ACTOR" "GITHUB_WORKFLOW" "GITHUB_RUN_ID" "GITHUB_RUN_NUMBER" "HOME" "USER" "PATH" "SHELL" "LANG" "TZ" "HUGO_ENV" "HUGO_VERSION" "NODE_VERSION" "GO_VERSION" "RUNNER_OS" "RUNNER_ARCH" }}
+{{- range $envVars }}
+{{- $value := getenv . }}
+{{- if $value }}
+{{ . }}={{ $value }}
+{{- end }}
+{{- end }}
+
+Build Time: {{ now.Format "2006-01-02 15:04:05 MST" }}
