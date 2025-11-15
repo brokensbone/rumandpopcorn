@@ -3,6 +3,12 @@ This repo contains the files used to build the website rumandpopcorn.com
 
 It contains both the content of the site and the infrastructure config that runs it.
 
+## Hugo Version Management
+The Hugo version used across all build environments (Docker, CI/CD, and Cloudflare Pages) is managed centrally via the `.hugo-version` file in the repository root. To update the Hugo version:
+1. Edit `.hugo-version` and change the version number (e.g., `0.147.6` to `0.148.0`)
+2. Test the build locally using Docker
+3. Commit and push the change - CI will automatically use the new version
+
 ## Running locally - devcontainer
 Launch a development container - the config for which is laid out in the `.devcontainer` directory.
 
