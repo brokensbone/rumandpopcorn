@@ -34,6 +34,7 @@ def static_site(config: StaticSiteConfig):
                 "production_deployments_enabled": True,
                 "repo_name": config.repo_name,
                 "owner": "brokensbone",
+                "path_includes": ["*"],
             },
             "type": "github",
         },
