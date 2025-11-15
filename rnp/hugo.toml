@@ -17,6 +17,11 @@ timezone = 'Europe/London'
   [outputFormats.RSS]
     mediatype = "application/rss"
     baseName = "feed"
+  [outputFormats.PLAINTEXT]
+    mediatype = "text/plain"
+    isPlainText = true
+    notAlternative = true
+    baseName = "index"
 
 [permalinks]
     posts = "/:year/:month/:slug"
@@ -26,3 +31,7 @@ timezone = 'Europe/London'
 
 [services.rss]
   limit = 20
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^GITHUB_', '^RUNNER_', '^HOME$', '^USER$', '^PATH$', '^SHELL$', '^LANG$', '^TZ$', '^NODE_', '^GO_']
