@@ -34,8 +34,23 @@ def static_site(config: StaticSiteConfig):
                 "production_deployments_enabled": True,
                 "repo_name": config.repo_name,
                 "owner": "brokensbone",
+                "path_includes": ["*"],
             },
             "type": "github",
+        },
+        deployment_configs={
+            "preview": {
+                "env_vars": {
+                    "test": {"type": "plain_text", "value": "some-value"},
+                    "HUGO_VERSION": {"type": "plain_text", "value": "0.147.6"},
+                }
+            },
+            "production": {
+                "env_vars": {
+                    "test": {"type": "plain_text", "value": "prod-value"},
+                    "HUGO_VERSION": {"type": "plain_text", "value": "0.147.6"},
+                }
+            },
         },
     )
 
@@ -55,6 +70,7 @@ def static_site(config: StaticSiteConfig):
             content=pages_projects.domains[0],
             zone_id=zone,
         )
+    return pages_projects
 
 
 def build():
@@ -72,4 +88,5 @@ def build():
         "destination_dir": "/public",
         "root_dir": "/rnp",
     }
-    static_site(rnp_site)
+    project = static_site(rnp_site)
+    pulumi.export("latest_deployment", project.canonical_deployment)
