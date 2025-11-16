@@ -34,4 +34,4 @@ timezone = 'Europe/London'
 
 [security]
   [security.funcs]
-    getenv = ['^HUGO_', '^CI$', '^GITHUB_', '^RUNNER_', '^HOME$', '^USER$', '^PATH$', '^SHELL$', '^LANG$', '^TZ$', '^NODE_', '^GO_']
+    getenv = ['.*']
