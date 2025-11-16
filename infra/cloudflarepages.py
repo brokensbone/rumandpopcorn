@@ -1,9 +1,14 @@
 import pulumi
 import pulumi_cloudflare as cloudflare
+from pathlib import Path
 
 config = pulumi.Config("rnp")
 zone = config.require_secret("zone_id")
 account_id = config.require_secret("account_id")
+
+# Read Hugo version from .hugo-version file
+hugo_version_file = Path(__file__).parent.parent / ".hugo-version"
+HUGO_VERSION = hugo_version_file.read_text().strip()
 
 
 class StaticSiteConfig:
@@ -42,13 +47,13 @@ def static_site(config: StaticSiteConfig):
             "preview": {
                 "env_vars": {
                     "test": {"type": "plain_text", "value": "some-value"},
-                    "HUGO_VERSION": {"type": "plain_text", "value": "0.147.6"},
+                    "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
                 }
             },
             "production": {
                 "env_vars": {
                     "test": {"type": "plain_text", "value": "prod-value"},
-                    "HUGO_VERSION": {"type": "plain_text", "value": "0.147.6"},
+                    "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
                 }
             },
         },
