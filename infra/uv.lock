@@ -107,7 +107,7 @@ requires-dist = [
     { name = "pulumi", specifier = ">=3.207.0" },
     { name = "pulumi-cloudflare", specifier = ">=6.11.0" },
     { name = "pulumiverse-statuscake", specifier = ">=1.0.2" },
-    { name = "setuptools", specifier = ">=75.0.0" },
+    { name = "setuptools", specifier = ">=75.0.0,<81" },
 ]
 
 [[package]]
