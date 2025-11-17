@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'infra/**'
+      - '.hugo-version'
   workflow_dispatch:
 
 jobs:
