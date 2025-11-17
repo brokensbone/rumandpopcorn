@@ -14,29 +14,14 @@ Base URL: {{ .Site.BaseURL }}
 Language: {{ .Site.Language.Lang }}
 Title: {{ .Site.Title }}
 
-Environment Variables (with values):
-=====================================
-{{- $detailedVars := slice "CI" "GITHUB_ACTIONS" "GITHUB_REPOSITORY" "GITHUB_REF" "GITHUB_REF_NAME" "GITHUB_SHA" "GITHUB_ACTOR" "GITHUB_WORKFLOW" "GITHUB_RUN_ID" "GITHUB_RUN_NUMBER" "GITHUB_EVENT_NAME" "HOME" "USER" "PATH" "SHELL" "LANG" "HUGO_ENV" "RUNNER_OS" "RUNNER_ARCH" "ImageOS" "ImageVersion" }}
-{{- range $detailedVars }}
+Cloudflare Pages Environment Variables:
+=========================================
+{{- $cfVars := slice "CF_PAGES" "CF_PAGES_COMMIT_SHA" "CF_PAGES_BRANCH" "CF_PAGES_URL" "CI" "NODE_VERSION" "NPM_VERSION" "YARN_VERSION" "HUGO_VERSION" "GO_VERSION" "PHP_VERSION" "RUBY_VERSION" "PYTHON_VERSION" "SWIFT_VERSION" }}
+{{- range $cfVars }}
 {{- $value := getenv . }}
 {{- if $value }}
 {{ . }}={{ $value }}
 {{- end }}
-{{- end }}
-
-Environment Variables (names only):
-====================================
-{{- if .Site.Data.envvars }}
-{{- range .Site.Data.envvars.allVars }}
-{{- if not (in $detailedVars .) }}
-{{- $value := getenv . }}
-{{- if $value }}
-{{ . }}
-{{- end }}
-{{- end }}
-{{- end }}
-{{- else }}
-# No environment variable data available. Run generate-env-data.sh before building.
 {{- end }}
 
 Build Time: {{ now.Format "2006-01-02 15:04:05 MST" }}

@@ -34,5 +34,5 @@ limit = 20
 
 [security]
 [security.funcs]
-getenv = ['^HUGO_', '^CI$', '_VERSION$']
+getenv = ['^CF_PAGES', '^CI$', '^NODE_VERSION$', '^NPM_VERSION$', '^YARN_VERSION$', '^HUGO_VERSION$', '^GO_VERSION$', '^PHP_VERSION$', '^RUBY_VERSION$', '^PYTHON_VERSION$', '^SWIFT_VERSION$']
 
