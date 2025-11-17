@@ -6,6 +6,8 @@ on:
     paths:
       - 'rnp/**'
       - '.github/workflows/pr-ci.yml'
+      - '.go-version'
+      - '.hugo-version'
 
 jobs:
   build-and-test:
