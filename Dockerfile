@@ -1,4 +1,7 @@
-FROM golang:1.24-bookworm
+# Go version is read from .go-version file or can be overridden via build arg
+ARG GO_VERSION=1.24
+
+FROM golang:${GO_VERSION}-bookworm
 
 RUN apt-get update && apt-get install -y ca-certificates openssl git curl
 RUN rm -rf /var/lib/apt/lists/*
