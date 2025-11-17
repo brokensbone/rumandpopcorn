@@ -1,3 +1,3 @@
 module github.com/brokensbone/rumandpopcorn/rnp
 
-go 1.21
+go 1.24

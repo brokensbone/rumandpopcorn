@@ -10,6 +10,10 @@ account_id = config.require_secret("account_id")
 hugo_version_file = Path(__file__).parent.parent / ".hugo-version"
 HUGO_VERSION = hugo_version_file.read_text().strip()
 
+# Read Go version from .go-version file
+go_version_file = Path(__file__).parent.parent / ".go-version"
+GO_VERSION = go_version_file.read_text().strip()
+
 
 class StaticSiteConfig:
     resource_name: str = "site"
@@ -48,12 +52,14 @@ def static_site(config: StaticSiteConfig):
                 "env_vars": {
                     "test": {"type": "plain_text", "value": "some-value"},
                     "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
+                    "GO_VERSION": {"type": "plain_text", "value": GO_VERSION},
                 }
             },
             "production": {
                 "env_vars": {
                     "test": {"type": "plain_text", "value": "prod-value"},
                     "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
+                    "GO_VERSION": {"type": "plain_text", "value": GO_VERSION},
                 }
             },
         },
