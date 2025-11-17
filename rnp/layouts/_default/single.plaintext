@@ -1,0 +1,27 @@
+Build Information for {{ .Site.Title }}
+Generated: {{ now.Format "2006-01-02 15:04:05 MST" }}
+
+Hugo Build Information:
+=======================
+Hugo Version: {{ hugo.Version }}
+Hugo Environment: {{ hugo.Environment }}
+Hugo IsProduction: {{ hugo.IsProduction }}
+Hugo IsExtended: {{ hugo.IsExtended }}
+
+Site Information:
+=================
+Base URL: {{ .Site.BaseURL }}
+Language: {{ .Site.Language.Lang }}
+Title: {{ .Site.Title }}
+
+Cloudflare Pages Environment Variables:
+=========================================
+{{- $cfVars := slice "CF_PAGES" "CF_PAGES_COMMIT_SHA" "CF_PAGES_BRANCH" "CF_PAGES_URL" "CI" "NODE_VERSION" "NPM_VERSION" "YARN_VERSION" "HUGO_VERSION" "GO_VERSION" "PHP_VERSION" "RUBY_VERSION" "PYTHON_VERSION" "SWIFT_VERSION" }}
+{{- range $cfVars }}
+{{- $value := getenv . }}
+{{- if $value }}
+{{ . }}={{ $value }}
+{{- end }}
+{{- end }}
+
+Build Time: {{ now.Format "2006-01-02 15:04:05 MST" }}
