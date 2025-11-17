@@ -5,33 +5,34 @@ theme = 'chocos'
 timezone = 'Europe/London'
 
 [pagination]
-  pagerSize = 5
+pagerSize = 5
 
 [params]
-  footer_text = 'I live in Leeds. I like film. And food.'
-  github_username = 'brokensbone/rumandpopcorn'
-  instagram_username = 'edsalkeld'
-  date_format = "02 Jan 2006"
+footer_text = 'I live in Leeds. I like film. And food.'
+github_username = 'brokensbone/rumandpopcorn'
+instagram_username = 'edsalkeld'
+date_format = "02 Jan 2006"
 
 [outputFormats]
-  [outputFormats.RSS]
-    mediatype = "application/rss"
-    baseName = "feed"
-  [outputFormats.PLAINTEXT]
-    mediatype = "text/plain"
-    isPlainText = true
-    notAlternative = true
-    baseName = "index"
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+[outputFormats.PLAINTEXT]
+mediatype = "text/plain"
+isPlainText = true
+notAlternative = true
+baseName = "index"
 
 [permalinks]
-    posts = "/:year/:month/:slug"
+posts = "/:year/:month/:slug"
 
 [frontmatter]
-  date  = [":default", ":filename"]
+date = [":default", ":filename"]
 
 [services.rss]
-  limit = 20
+limit = 20
 
 [security]
-  [security.funcs]
-    getenv = ['.*']
+[security.funcs]
+getenv = ['^HUGO_', '^CI$', '_VERSION$']
+
