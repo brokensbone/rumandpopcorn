@@ -3,6 +3,7 @@ Generated: {{ now.Format "2006-01-02 15:04:05 MST" }}
 
 Hugo Build Information:
 =======================
+Go Version: {{ hugo.GoVersion }}
 Hugo Version: {{ hugo.Version }}
 Hugo Environment: {{ hugo.Environment }}
 Hugo IsProduction: {{ hugo.IsProduction }}
