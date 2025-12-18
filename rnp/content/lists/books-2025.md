@@ -37,3 +37,9 @@ date: 2025-01-01
    - It's long! Victorian novel meets magic and fantasy. Very well written.
 1. JG Ballard - Cocaine Nights
    - A re-read. Is it my favourite Ballard? Dystopian Costa del Sol magic.
+1. Slutty Chef - Tart
+   - Pretty slight but a fun read. Did not make me want to work in a kitchen.
+1. Benjamin Myers - Beastings
+   - Utterly bleak frontier western in Cumbria. Compelling but horrible.
+1. Ali Smith - Gliff
+   - A little underwhelmed. Amazing writing (as always) but the dystopia was underdeveloped.
