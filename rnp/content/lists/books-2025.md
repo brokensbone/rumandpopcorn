@@ -43,3 +43,5 @@ date: 2025-01-01
    - Utterly bleak frontier western in Cumbria. Compelling but horrible.
 1. Ali Smith - Gliff
    - A little underwhelmed. Amazing writing (as always) but the dystopia was underdeveloped.
+1. Oliver Burkeman - Four Thousand Weeks
+   - Anti-productivity approach to accepting you'll never magically get everything done. 
