@@ -45,3 +45,5 @@ date: 2025-01-01
    - A little underwhelmed. Amazing writing (as always) but the dystopia was underdeveloped.
 1. Oliver Burkeman - Four Thousand Weeks
    - Anti-productivity approach to accepting you'll never magically get everything done. 
+1. Agatha Christie - The Secret of Chimneys
+   - Utterly ludicrous but quite fun. Where are the Herzoslovakian crown jewels?
