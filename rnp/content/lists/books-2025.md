@@ -47,3 +47,7 @@ date: 2025-01-01
    - Anti-productivity approach to accepting you'll never magically get everything done. 
 1. Agatha Christie - The Secret of Chimneys
    - Utterly ludicrous but quite fun. Where are the Herzoslovakian crown jewels?
+1. Jules Verne - Around the World in 80 Days
+   - Really very silly and no hot air balloons at all!
+1. Georges Perec - The Art of Asking Your Boss For a Raise
+   - A single sentence across 80 pages of circumperbulation
