@@ -1,9 +1,57 @@
-<div id="search"></div>
+<div class="search-container">
+    <button id="search-toggle" class="search-toggle" aria-label="Toggle search">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="m21 21-4.35-4.35"></path>
+        </svg>
+    </button>
+    <div id="search-modal" class="search-modal" style="display: none;">
+        <div class="search-modal-content">
+            <button id="search-close" class="search-close" aria-label="Close search">&times;</button>
+            <div id="search"></div>
+        </div>
+    </div>
+</div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
+        const searchToggle = document.getElementById('search-toggle');
+        const searchModal = document.getElementById('search-modal');
+        const searchClose = document.getElementById('search-close');
+        
+        searchToggle.addEventListener('click', () => {
+            searchModal.style.display = 'block';
+            // Focus the search input after a short delay to allow rendering
+            setTimeout(() => {
+                const searchInput = document.querySelector('.pagefind-ui__search-input');
+                if (searchInput) searchInput.focus();
+            }, 100);
+        });
+        
+        searchClose.addEventListener('click', () => {
+            searchModal.style.display = 'none';
+        });
+        
+        // Close modal when clicking outside
+        searchModal.addEventListener('click', (e) => {
+            if (e.target === searchModal) {
+                searchModal.style.display = 'none';
+            }
+        });
+        
+        // Close modal with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && searchModal.style.display === 'block') {
+                searchModal.style.display = 'none';
+            }
+        });
+        
         try {
             if (typeof PagefindUI !== 'undefined') {
-                new PagefindUI({ element: "#search", showSubResults: true });
+                new PagefindUI({ 
+                    element: "#search", 
+                    showSubResults: false,
+                    excerptLength: 15
+                });
             } else {
                 console.warn('Pagefind UI not loaded');
             }

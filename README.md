@@ -30,7 +30,35 @@ Then serve the `public` directory with a static file server.
 
 ## Running locally - Docker
 
-TODO - it'd be nice to have a 'prod' build in a local Dockerfile
+You can run the development server using Docker Compose:
+```bash
+docker-compose up website
+```
+This runs a development server, available on localhost:1313
+
+### Testing search functionality locally
+To test the search functionality, you need to build the Pagefind index first:
+```bash
+# Build the site with Pagefind search index
+docker-compose --profile build run build-search
+
+# Then run the dev server
+docker-compose up website
+```
+
+Alternatively, you can build manually:
+```bash
+# Start the container
+docker-compose up -d website
+
+# Build Hugo site and Pagefind index
+docker-compose exec website bash -c "cd /website && hugo && npx -y pagefind --site public"
+
+# Restart the server
+docker-compose restart website
+```
+
+The search icon will appear in the header and will open a modal with full search functionality.
 
 ## Running in AWS
 Hop into the `infra` directory.
