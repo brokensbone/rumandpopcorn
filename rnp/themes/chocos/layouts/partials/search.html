@@ -21,10 +21,11 @@
         searchToggle.addEventListener('click', () => {
             searchModal.style.display = 'block';
             // Focus the search input after a short delay to allow rendering
+            // 200ms delay ensures reliable focus on slower devices
             setTimeout(() => {
                 const searchInput = document.querySelector('.pagefind-ui__search-input');
                 if (searchInput) searchInput.focus();
-            }, 100);
+            }, 200);
         });
         
         searchClose.addEventListener('click', () => {
@@ -40,7 +41,7 @@
         
         // Close modal with Escape key
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape' && searchModal.style.display === 'block') {
+            if (e.key === 'Escape' && searchModal.style.display !== 'none') {
                 searchModal.style.display = 'none';
             }
         });
