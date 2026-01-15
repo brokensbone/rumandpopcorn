@@ -153,8 +153,9 @@ ul.pagination .active, ul.pagination .active a {
 
 hr.post-separator {
   border: none;
-  border-top: 2px solid #222;
+  border-top: 2px solid var(--color-text);
   margin: 3rem auto;
   width: 80%;
+  opacity: 0.3;
 }
 
