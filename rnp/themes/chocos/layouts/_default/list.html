@@ -2,7 +2,7 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ $paginator := .Paginate .Pages 5 }}
-  {{ range $index, $page := $paginator.Pages }}
+  {{ range $index, $_ := $paginator.Pages }}
     {{ if gt $index 0 }}
       <hr class="post-separator">
     {{ end }}
