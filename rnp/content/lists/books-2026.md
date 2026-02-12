@@ -11,3 +11,5 @@ date: 2026-01-01
    Grief and isolation and the crimes of the past. Very bleak and atmospheric.
 1. **Oliver Burkeman - Mediations for Mortals**
    Essentially 4000 weeks chewed over and formed into daily nuggets. Very good all the same.
+1. **Ben Gazur - A Feast of Folklore**
+   Nice round up of a lot of peculiar traditions and beliefs. The devil will steal your potatoes!
