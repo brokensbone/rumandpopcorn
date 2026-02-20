@@ -13,3 +13,6 @@ date: 2026-01-01
    Essentially 4000 weeks chewed over and formed into daily nuggets. Very good all the same.
 1. **Ben Gazur - A Feast of Folklore**
    Nice round up of a lot of peculiar traditions and beliefs. The devil will steal your potatoes!
+1. **Bae Suah - Untold Night and Day**
+   _Loved_ this. Dream-like is an overused descriptor but this deserves it. Shadows, images, symbols, collapsing in on themselves in a hot Seoul night.
+
