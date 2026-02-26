@@ -95,7 +95,7 @@ def build():
     rnp_site.repo_name = "rumandpopcorn"
     rnp_site.build_config = {
         "build_caching": True,
-        "build_command": "hugo",
+        "build_command": "hugo && npx -y pagefind --site public",
         "destination_dir": "/public",
         "root_dir": "/rnp",
     }
