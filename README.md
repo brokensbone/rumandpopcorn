@@ -32,6 +32,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Configure your AWS cli**. 
+**Configure your AWS CLI**. 
 
 Run `pulumi up` to get it running in AWS Amplify. This does not set up any DNS records, but should print the amplify auto generated one.
