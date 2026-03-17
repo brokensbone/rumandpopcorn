@@ -15,4 +15,5 @@ date: 2026-01-01
    Nice round up of a lot of peculiar traditions and beliefs. The devil will steal your potatoes!
 1. **Bae Suah - Untold Night and Day**
    _Loved_ this. Dream-like is an overused descriptor but this deserves it. Shadows, images, symbols, collapsing in on themselves in a hot Seoul night.
-
+1. **Ray Bradbury - Dandelion Wine**
+   Very lovely but a little empty. It's a thickly textured slice of summer as a child, full of little scenes and stories. Pleasant.
