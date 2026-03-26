@@ -17,3 +17,6 @@ date: 2026-01-01
    _Loved_ this. Dream-like is an overused descriptor but this deserves it. Shadows, images, symbols, collapsing in on themselves in a hot Seoul night.
 1. **Ray Bradbury - Dandelion Wine**
    Very lovely but a little empty. It's a thickly textured slice of summer as a child, full of little scenes and stories. Pleasant.
+1. **Richared Brautigan - Trout Fishing in America**
+   A very 60s slice of American surrealism. Little vignettes of life, only loosely connected, vaguely revolving around trout.
+   There is some amazing imagery and very funny bits.
