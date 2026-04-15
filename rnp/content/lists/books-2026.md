@@ -20,3 +20,6 @@ date: 2026-01-01
 1. **Richared Brautigan - Trout Fishing in America**
    A very 60s slice of American surrealism. Little vignettes of life, only loosely connected, vaguely revolving around trout.
    There is some amazing imagery and very funny bits.
+1. **Italo Calvino - Mr Palomar**
+   27 little vignettes of Mr Palomar looking at things and pondering.
+   Ranges from the visual to the metaphysical with a structure that becomes apparent as you read. Small, deep and rather wonderful.
