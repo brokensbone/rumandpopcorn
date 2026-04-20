@@ -6,5 +6,17 @@ services:
       - "1313:1313"
     volumes:
       - ./rnp:/website
+      - ./build-with-search.sh:/build-with-search.sh
     command: ["hugo", "serve", "-s", "/website", "--bind", "0.0.0.0"]
+  
+  # Service to build the site with Pagefind search index
+  build-search:
+    build:
+      context: .
+    volumes:
+      - ./rnp:/website
+      - ./build-with-search.sh:/build-with-search.sh
+    command: ["/build-with-search.sh"]
+    profiles:
+      - build
 
