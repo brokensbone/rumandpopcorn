@@ -35,6 +35,11 @@ jobs:
         cd rnp
         hugo --gc --minify
 
+    - name: Build search index with Pagefind
+      run: |
+        cd rnp
+        npx -y pagefind --site public
+
     - name: Start Hugo server in background
       run: |
         cd rnp

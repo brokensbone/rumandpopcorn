@@ -1,4 +1,11 @@
 <div class="main-col">
-    <a href="/"><h1 class="site-title">{{ site.Title }}{{ if not hugo.IsProduction }} - DEV {{ end }}</h1></a>
+    <div class="header-content">
+        <div class="header-title">
+            <a href="/"><h1 class="site-title">{{ site.Title }}{{ if not hugo.IsProduction }} - DEV {{ end }}</h1></a>
+        </div>
+        <div class="header-search">
+            {{ partial "search.html" . }}
+        </div>
+    </div>
     {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
 </div>
