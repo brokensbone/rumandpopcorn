@@ -28,7 +28,7 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v7
       - name: Pulumi preview
-        uses: pulumi/actions@v6
+        uses: pulumi/actions@v7
         with:
           command: preview
           stack-name: brokensbone/rnp-web-infra/dev
