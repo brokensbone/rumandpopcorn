@@ -20,3 +20,13 @@ date: 2026-01-01
 1. **Richared Brautigan - Trout Fishing in America**
    A very 60s slice of American surrealism. Little vignettes of life, only loosely connected, vaguely revolving around trout.
    There is some amazing imagery and very funny bits.
+1. **Italo Calvino - Mr Palomar**
+   27 little vignettes of Mr Palomar looking at things and pondering.
+   Ranges from the visual to the metaphysical with a structure that becomes apparent as you read. Small, deep and rather wonderful.
+1. **Paul Loomans - Time Surfing**
+   A zen approach to time management. A lot of nice ideas but the main approach doesn't really do it for me.
+1. **Dashiell Hammett - The Dain Curse**
+   A detective novel split across 3 acts, managing to take in ghost story, action, and all sorts. Fast paced and good fun.
+1. **Javier Marías - Berta Isla**
+   A spy thriller that avoids the spying bits (and really the thriller bits too). A novel of absences and missing people.
+   It's a good read but it astonishingly long for a story in which everything happens 'off screen'
