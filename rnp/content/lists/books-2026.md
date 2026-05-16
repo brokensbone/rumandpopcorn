@@ -30,3 +30,5 @@ date: 2026-01-01
 1. **Javier Marías - Berta Isla**
    A spy thriller that avoids the spying bits (and really the thriller bits too). A novel of absences and missing people.
    It's a good read but it astonishingly long for a story in which everything happens 'off screen'
+1. **Percival Everett - The Trees**
+   At once fast paced comic thriller and an exploration of American racism past and present. Fantastic.
