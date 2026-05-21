@@ -15,7 +15,7 @@ Unlike most of the others mentioned, who I read about in the NME when slightly-t
 I'd never heard of them at that point.
 Instead, I got into them from the soundtrack of the fabulous _Monkey Dust_ animation.
 As well as being rude, clever and wickedly funny, Monkey Dust had an absolutely incredible soundtrack.
-From the opening tune, Eels' That's Not Really Funny to melancholy chunks of Golfdrapp, there was a lot of great music in there, but it was a haunting female vocal that really stuck with me, murmuring "It's only the end of the world...". I looked them up. Black Box Recorder.
+From the opening tune, Eels' That's Not Really Funny to melancholy chunks of Goldfrapp, there was a lot of great music in there, but it was a haunting female vocal that really stuck with me, murmuring "It's only the end of the world...". I looked them up. Black Box Recorder.
 
 They did 3 albums. They're all great. There are some top B-sides too. Sarah Nixey's "opiated debutante tones" (thanks Wikipedia) carry a whole bunch of songs about cruelty, greed and turn-of-the-century life in England.
 It was an absolute joy to discover that being liked by Billie Eilish (!) has brought them renewed attention and got them a big London show, for which the Brudenell, Leeds was the warm-up gig.
