@@ -32,3 +32,5 @@ date: 2026-01-01
    It's a good read but it astonishingly long for a story in which everything happens 'off screen'
 1. **Percival Everett - The Trees**
    At once fast paced comic thriller and an exploration of American racism past and present. Fantastic.
+1. **Nigel Slater - A Thousand Feasts**
+   Little snippets and moments of quiet appreciation and small joy, from rose bushes to cups of tea. A calming read.
