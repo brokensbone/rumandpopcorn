@@ -29,6 +29,8 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: Pulumi preview
         uses: pulumi/actions@v7
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           command: preview
           stack-name: brokensbone/rnp-web-infra/dev
