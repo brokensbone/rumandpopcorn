@@ -3,8 +3,6 @@ title: Books 2026
 date: 2026-01-01
 ---
 
-1. **Percival Everett - So Much Blue**
-   Three crises overlap in a story about secrets that's funny, tragic and moving.
 1. **Kate Atkinson - Cold Histories**
    Gripping and incredibly well written. Perhaps too many shadows of 90s lad culture ?
 1. **Vicente Luis Mora - Centroeuropa**
@@ -36,3 +34,5 @@ date: 2026-01-01
    At once fast paced comic thriller and an exploration of American racism past and present. Fantastic.
 1. **Nigel Slater - A Thousand Feasts**
    Little snippets and moments of quiet appreciation and small joy, from rose bushes to cups of tea. A calming read.
+1. **Percival Everett - So Much Blue**
+   Three crises overlap in a story about secrets that's funny, tragic and moving.
