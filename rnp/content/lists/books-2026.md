@@ -34,3 +34,5 @@ date: 2026-01-01
    At once fast paced comic thriller and an exploration of American racism past and present. Fantastic.
 1. **Nigel Slater - A Thousand Feasts**
    Little snippets and moments of quiet appreciation and small joy, from rose bushes to cups of tea. A calming read.
+1. **Percival Everett - So Much Blue**
+   Three crises overlap in a story about secrets that's funny, tragic and moving.
