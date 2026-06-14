@@ -18,6 +18,11 @@ RUN VERSION=$(cat /tmp/.hugo-version | tr -d '\n') && \
 	tar xf ${VERSION}.tar.gz && \
 	mv hugo /usr/bin/hugo
 
+# Install Node.js for Pagefind
+RUN curl -fsSL https://deb.nodesource.com/setup_lts.x | bash - && \
+    apt-get install -y nodejs && \
+    rm -rf /var/lib/apt/lists/*
+
 # Hugo dev server port
 EXPOSE 1313
 
