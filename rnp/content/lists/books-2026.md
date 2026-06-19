@@ -36,3 +36,5 @@ date: 2026-01-01
    Little snippets and moments of quiet appreciation and small joy, from rose bushes to cups of tea. A calming read.
 1. **Percival Everett - So Much Blue**
    Three crises overlap in a story about secrets that's funny, tragic and moving.
+1. **Marghanita Laski - Little Boy Lost**
+   A powerful little story of a father seeking his son among the corruption of post war France.
