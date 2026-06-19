@@ -3,11 +3,6 @@ name: PR CI
 on:
   pull_request:
     branches: [ main ]
-    paths:
-      - 'rnp/**'
-      - '.github/workflows/pr-ci.yml'
-      - '.go-version'
-      - '.hugo-version'
 
 jobs:
   build-and-test:
