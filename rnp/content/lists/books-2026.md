@@ -38,3 +38,5 @@ date: 2026-01-01
    Three crises overlap in a story about secrets that's funny, tragic and moving.
 1. **Marghanita Laski - Little Boy Lost**
    A powerful little story of a father seeking his son among the corruption of post war France.
+1. **Des Fitzgerald - In Search of the Cities of Tomorrow**
+   Fascinating and funny tour of urban planning and 21st century thinking, but it does not offer many alternatives to the ideas it dismantles.
