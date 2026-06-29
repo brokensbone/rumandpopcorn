@@ -45,7 +45,12 @@ header {
 }
 .main-col {
   line-height: 1.5;
-  max-width: 600px;
+  /* width + border-box stop <main> (a flex item) shrinking to its content
+     width, which otherwise centres sparse pages right of the header. The
+     max-width includes the padding so the content area stays 600px wide. */
+  width: 100%;
+  box-sizing: border-box;
+  max-width: calc(600px + 2rem);
   margin: 0 auto;
   padding: 1rem;
   flex: 1;
