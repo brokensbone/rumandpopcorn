@@ -7,7 +7,7 @@ dependencies = [
     "pulumi>=3.251.0",
     "pulumi-cloudflare>=6.17.0",
     "pulumiverse-statuscake>=1.0.2",
-    "setuptools>=75.0.0",
+    "setuptools>=83.0.0",
 ]
 
 # pulumiverse-statuscake 1.0.2 (last upstream release, Oct 2023) imports pkg_resources,
