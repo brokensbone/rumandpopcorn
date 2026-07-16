@@ -40,3 +40,5 @@ date: 2026-01-01
    A powerful little story of a father seeking his son among the corruption of post war France.
 1. **Des Fitzgerald - The City of Today is a Dying Thing: In Search of the Cities of Tomorrow**
    Fascinating and funny tour of urban planning and 21st century thinking, but it does not offer many alternatives to the ideas it dismantles.
+1. **Jasper Fforde - The Constant Rabbit**
+   Decent story with a paper thin layer of allegory. Perhaps a bit long for this sort of thing, and clearly preaching to the converted.
