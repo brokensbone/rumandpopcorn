@@ -42,3 +42,5 @@ date: 2026-01-01
    Fascinating and funny tour of urban planning and 21st century thinking, but it does not offer many alternatives to the ideas it dismantles.
 1. **Jasper Fforde - The Constant Rabbit**
    Decent story with a paper thin layer of allegory. Perhaps a bit long for this sort of thing, and clearly preaching to the converted.
+1. **H. Rider Haggard - King Solomon's Mines**
+   Classic Victorian adventure novel, with all the racism and sexism that implies. Good story though.
