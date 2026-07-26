@@ -43,4 +43,4 @@ date: 2026-01-01
 1. **Jasper Fforde - The Constant Rabbit**
    Decent story with a paper thin layer of allegory. Perhaps a bit long for this sort of thing, and clearly preaching to the converted.
 1. **H. Rider Haggard - King Solomon's Mines**
-   A propulsive Victorian adventure yarn with all the racism and sexism that implies. Good story though.
+   Classic Victorian adventure novel, with all the racism and sexism that implies. Good story though.
