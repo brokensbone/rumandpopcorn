@@ -44,3 +44,7 @@ date: 2026-01-01
    Decent story with a paper thin layer of allegory. Perhaps a bit long for this sort of thing, and clearly preaching to the converted.
 1. **H. Rider Haggard - King Solomon's Mines**
    Classic Victorian adventure novel, with all the racism and sexism that implies. Good story though.
+1. **Kate Atkinson - When Will There Be Good News?**
+   Another Jackson Brodie. Fabulous characters, as ever, plot a little less interesting than the previous. Big coincidences.
+1. **Robert Poynton - Do Pause**
+   A book about slowing down. Some of it appears to require an intercontinental career and owning an olive grove. Other bits are more relatable.
