@@ -49,4 +49,4 @@ date: 2026-01-01
 1. **Robert Poynton - Do Pause**
    A book about slowing down. Some of it appears to require an intercontinental career and owning an olive grove. Other bits are more relatable.
 1. **Ali Smith - Glyph**
-   _[Placeholder: add thoughts on this one.]_
+   Ghosts of horses. I love how Ali Smith writes, but this wasn't my favourite. Enjoyed the journey but not sure I'd come back to it.
