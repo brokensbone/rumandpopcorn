@@ -1,6 +1,6 @@
 title = 'Rum and Popcorn'
 baseURL = 'https://www.rumandpopcorn.com/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 theme = 'chocos'
 timezone = 'Europe/London'
 
@@ -34,5 +34,16 @@ limit = 20
 
 [security]
 [security.funcs]
-getenv = ['^CF_PAGES', '^CI$', '^NODE_VERSION$', '^NPM_VERSION$', '^YARN_VERSION$', '^HUGO_VERSION$', '^GO_VERSION$', '^PHP_VERSION$', '^RUBY_VERSION$', '^PYTHON_VERSION$', '^SWIFT_VERSION$']
-
+getenv = [
+	'^CF_PAGES',
+	'^CI$',
+	'^NODE_VERSION$',
+	'^NPM_VERSION$',
+	'^YARN_VERSION$',
+	'^HUGO_VERSION$',
+	'^GO_VERSION$',
+	'^PHP_VERSION$',
+	'^RUBY_VERSION$',
+	'^PYTHON_VERSION$',
+	'^SWIFT_VERSION$',
+]
