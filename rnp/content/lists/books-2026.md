@@ -50,3 +50,5 @@ date: 2026-01-01
    A book about slowing down. Some of it appears to require an intercontinental career and owning an olive grove. Other bits are more relatable.
 1. **Ali Smith - Glyph**
    Ghosts of horses. I love how Ali Smith writes, but this wasn't my favourite. Enjoyed the journey but not sure I'd come back to it.
+1. **John Tarrant - Bring Me the Rhinoceros**
+   Thought provoking and pleasantly secular tour through Koans
