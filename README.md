@@ -1,37 +1,53 @@
 # Rum and Popcorn
-This repo contains the files used to build the website rumandpopcorn.com
 
-It contains both the content of the site and the infrastructure config that runs it.
+Source for [rumandpopcorn.com](https://www.rumandpopcorn.com/), built with Hugo and hosted on Cloudflare Pages.
 
-## Hugo Version Management
-The Hugo version used across all build environments (Docker, CI/CD, and Cloudflare Pages) is managed centrally via the `.hugo-version` file in the repository root. To update the Hugo version:
-1. Edit `.hugo-version` and change the version number (e.g., `0.147.6` to `0.148.0`)
-2. Test the build locally using Docker
-3. Commit and push the change - CI will automatically use the new version
+## Repository layout
 
-## Running locally - devcontainer
-Launch a development container - the config for which is laid out in the `.devcontainer` directory.
+- `rnp/`: site content, Hugo configuration, assets and the Chocos theme.
+- `Dockerfile` and `docker-compose.yml`: local Hugo builds and development server.
+- `infra/`: Pulumi configuration for Cloudflare Pages, DNS and StatusCake monitoring.
+- `.github/workflows/`: pull-request checks and Pulumi preview/deployment workflows.
 
-From within this, hop into the `rnp` directory and simply run:
-```
-hugo serve
-```
-This runs a development server, available on 127.0.0.1:1313
+## Local development with Docker
 
-## Running locally - Docker
+Install Docker with the Compose plugin, then run these commands from the repository root:
 
-TODO - it'd be nice to have a 'prod' build in a local Dockerfile
-
-## Running in AWS
-Hop into the `infra` directory.
-
-Create a virtual env if there isn't one already:
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+```sh
+docker compose build --build-arg GO_VERSION="$(cat .go-version)"
+docker compose up
 ```
 
-**Configure your AWS cli**. 
+Open <http://localhost:1313>. Compose mounts `rnp/` into the container at `/website`; Hugo watches for edits and refreshes the site. Stop the server with Ctrl+C, and remove the container with `docker compose down`.
 
-Run `pulumi up` to get it running in AWS Amplify. This does not set up any DNS records, but should print the amplify auto generated one.
+To generate the static site without starting the server:
+
+```sh
+docker compose run --rm website hugo --source /website --gc --minify
+```
+
+The generated files are written to `rnp/public/` on the host. Treat `rnp/public/` and `rnp/resources/` as build output; do not commit them.
+
+The Docker image supplies Hugo Extended and Go. It does not include the Node.js tooling used by Cloudflare Pages to generate the Pagefind search index.
+
+## Production hosting and deployment
+
+Cloudflare Pages builds the site from this GitHub repository. Pushes to `main` deploy production; pull requests get preview deployments. The build runs from `rnp/`:
+
+```sh
+hugo && npx -y pagefind --site public
+```
+
+Pages publishes the resulting `public/` directory. The hosting configuration, custom domains, DNS records and uptime monitoring are defined in `infra/`.
+
+GitHub Actions builds the Hugo site and checks key pages on pull requests. A separate Pulumi workflow previews infrastructure changes on pull requests and applies them after merging to `main` when `infra/`, `.hugo-version` or `.go-version` changes.
+
+## Hugo and Go versions
+
+`.hugo-version` defines the Hugo version used by Docker, GitHub Actions and Cloudflare Pages. `.go-version` defines the Go version used by GitHub Actions and Cloudflare Pages; the Docker build command above passes it explicitly as a build argument.
+
+To update either version:
+
+1. Edit the corresponding version file.
+2. Rebuild the Docker image with the command above, then run the local static build.
+3. Open a pull request and check CI before merging. The Pulumi deployment updates the Cloudflare Pages build environment after merge.
