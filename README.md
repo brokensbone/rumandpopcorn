@@ -30,6 +30,28 @@ The generated files are written to `rnp/public/` on the host. Treat `rnp/public/
 
 The Docker image supplies Hugo Extended and Go. It does not include the Node.js tooling used by Cloudflare Pages to generate the Pagefind search index.
 
+## Formatting
+
+With uv and Node.js/npm installed, run these commands from the repository root:
+
+```sh
+uvx --from ruff==0.17.2 ruff format infra
+npx --yes prettier@3.9.10 --write "rnp/assets/**/*.{css,js}" "rnp/themes/chocos/assets/{css,js}/**/*.{css,js}"
+```
+
+Run the same checks as CI:
+
+```sh
+uvx --from ruff==0.17.2 ruff format --check infra
+npx --yes prettier@3.9.10 --check "rnp/assets/**/*.{css,js}" "rnp/themes/chocos/assets/{css,js}/**/*.{css,js}"
+```
+
+Ruff formats infrastructure Python; Prettier formats authored CSS and JavaScript
+in the site and Chocos theme assets. Vendor files, minified files and generated
+output are excluded. Hugo Go templates are outside this check because they need
+additional formatter support. Keep the tool versions here and in
+`.github/workflows/format.yml` in sync when upgrading.
+
 ## Production hosting and deployment
 
 Cloudflare Pages builds the site from this GitHub repository. Pushes to `main` deploy production; pull requests get preview deployments. The build runs from `rnp/`:
