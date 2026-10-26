@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 5
 requires-python = ">=3.12"
 resolution-markers = [
     "python_full_version >= '3.14'",
@@ -133,10 +133,10 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "pulumi", specifier = ">=3.244.0" },
-    { name = "pulumi-cloudflare", specifier = ">=6.11.0" },
+    { name = "pulumi", specifier = ">=3.268.0" },
+    { name = "pulumi-cloudflare", specifier = ">=6.23.1" },
     { name = "pulumiverse-statuscake", git = "https://github.com/EdwardSalkeld/pulumi-statuscake.git?subdirectory=sdk%2Fpython&branch=rumandpopcorn-fork" },
-    { name = "setuptools", specifier = ">=75.0.0" },
+    { name = "setuptools", specifier = ">=84.1.0" },
 ]
 
 [[package]]
@@ -289,7 +289,7 @@ wheels = [
 
 [[package]]
 name = "pulumi"
-version = "3.245.0"
+version = "3.272.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "debugpy" },
@@ -303,23 +303,24 @@ dependencies = [
     { name = "protobuf" },
     { name = "pyyaml" },
     { name = "semver" },
+    { name = "typing-extensions" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/88/90/8fea7e2bf228b9c74bd66ece6449c1fc28bf62e1966be3bc7635a311d96f/pulumi-3.245.0-py3-none-any.whl", hash = "sha256:71711246f0e494c0adffbb6fa5a1e96d653f9beb45dff6af4fd1deebfeecd426", size = 406647, upload-time = "2026-06-04T08:54:11.005Z" },
+    { url = "https://files.pythonhosted.org/packages/be/50/ceba43d892bebd64fbbe173b37e568bcee019c1577a11d528c4877e664fb/pulumi-3.272.0-py3-none-any.whl", hash = "sha256:e6184b2c213eaa13bbb76fe946e0cfc413d53c86ea16e1e7a14d60b8859b41ac", size = 441614, upload-time = "2026-10-22T21:30:41.886Z" },
 ]
 
 [[package]]
 name = "pulumi-cloudflare"
-version = "6.11.0"
+version = "6.23.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "parver" },
+    { name = "packaging" },
     { name = "pulumi" },
     { name = "semver" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/38/1f/4b143f072e2eeb5f090df9171c8e6341dbbba0435674c0dd8a5a628d7b71/pulumi_cloudflare-6.11.0.tar.gz", hash = "sha256:73ae25585bfd1c83f20ff8ca65987e7d7438e3721f51a34e8aa48fcdaa004624", size = 1461570, upload-time = "2025-10-31T06:40:00.014Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/4b/b7/b81ef9259cc64b248f1ada258f89dc5fd65ef86a686506685d072b4bd9d0/pulumi_cloudflare-6.23.1.tar.gz", hash = "sha256:14e6a1a560d934487424281423f44465654b747f7aab3fb00a1a964d76baef88", size = 2095455, upload-time = "2026-10-21T06:41:04.848Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/25/87/dd60bcb12a5b1c330ee22620c0fa4b3925dbe4114a5531b76be0d0501256/pulumi_cloudflare-6.11.0-py3-none-any.whl", hash = "sha256:dfe83928e57b8f3b5c6544fbfef8d27a79119565c3c27d39a22123eb6d625a33", size = 2226378, upload-time = "2025-10-31T06:39:57.768Z" },
+    { url = "https://files.pythonhosted.org/packages/6e/54/cbcbe3cb5ba34b530c0d58fadedfcb2507fb3fdc0c0d7ca895b46f3a27ac/pulumi_cloudflare-6.23.1-py3-none-any.whl", hash = "sha256:74ed8e668674afcfbb1e79f7f1c95840b04b0dcfd74361adf83f1ea4359de7ce", size = 3117561, upload-time = "2026-10-21T06:41:02.715Z" },
 ]
 
 [[package]]
@@ -389,11 +390,11 @@ wheels = [
 
 [[package]]
 name = "setuptools"
-version = "80.9.0"
+version = "84.1.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/18/5d/3bf57dcd21979b887f014ea83c24ae194cfcd12b9e0fda66b957c69d1fca/setuptools-80.9.0.tar.gz", hash = "sha256:f36b47402ecde768dbfafc46e8e4207b4360c654f1f3bb84475f0a28628fb19c", size = 1319958, upload-time = "2025-05-27T00:56:51.443Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/73/eb/7e5f628ee2eb168fecbf8026de7856b2543d6d609cc85f086b9a91ac93d6/setuptools-84.1.0.tar.gz", hash = "sha256:23657205b63d4d31395ab917815247f694aafad28cd21316bf5fd45a51048ea0", size = 1171783, upload-time = "2026-10-19T20:11:43.489Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl", hash = "sha256:062d34222ad13e0cc312a4c02d73f059e86a4acbfbdea8f8f76b28c99f306922", size = 1201486, upload-time = "2025-05-27T00:56:49.664Z" },
+    { url = "https://files.pythonhosted.org/packages/18/02/b4bbb90f8f29e334898ff45c6d9b1fffaa6f378017052b3023a06262b5f7/setuptools-84.1.0-py3-none-any.whl", hash = "sha256:5231689c6ac8156cd155cfb98c3fd6fb252c3e7e9bd3d78b64d3c55f132624c9", size = 819380, upload-time = "2026-10-19T20:11:41.684Z" },
 ]
 
 [[package]]
