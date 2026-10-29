@@ -4,6 +4,10 @@ locale = 'en-gb'
 theme = 'chocos'
 timezone = 'Europe/London'
 
+# Resolve bundle images against their post even when its content is shown in a list.
+[markup.goldmark.renderHooks.image]
+useEmbedded = 'always'
+
 [pagination]
 pagerSize = 5
 
