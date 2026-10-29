@@ -6,6 +6,8 @@ screening-number: 6
 draft: true
 ---
 
+![A frightened woman leans over a toilet in a dimly lit room.](still.jpg)
+
 <!-- Review to follow. -->
 
 <!-- Screening: Vue in the Light, Screen 11. Festival listing: https://www.leedsfilm.com/whats-on/bowels-of-hell-8dqs -->
