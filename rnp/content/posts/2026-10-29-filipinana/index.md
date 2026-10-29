@@ -6,9 +6,9 @@ screening-number: 1
 draft: true
 ---
 
-![A young woman lying on grass with her eyes closed, seen upside down through a blur of water, in Filipiñana.](filipinana-still.jpg)
+![Filipiñana theatrical poster: an upside-down portrait above a golf course, with the film title in white.](filipinana-poster.jpg)
 
-*Filipiñana (2026), directed by Rafael Manuel. Publicity still via [Film4](https://www.film4productions.com/news/news/2026-02/filipinana-secures-north-american-deal-following-sundance-win-and-berlinale).*
+*Filipiñana (2026), directed by Rafael Manuel. Theatrical poster via [Kino Lorber](https://kinolorberedu.com/film/filipinana).*
 
 <!-- Review to follow. -->
 
