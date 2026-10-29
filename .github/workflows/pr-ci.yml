@@ -30,6 +30,9 @@ jobs:
         cd rnp
         hugo --gc --minify
 
+    - name: Check bundle images in single and list views
+      run: python3 tests/check_bundle_images.py rnp/public
+
     - name: Start Hugo server in background
       run: |
         cd rnp
