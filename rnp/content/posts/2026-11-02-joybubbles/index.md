@@ -6,6 +6,10 @@ screening-number: 7
 draft: true
 ---
 
+![Black-and-white still of Joybubbles holding a telephone handset against his headphones.](still.jpg)
+
+*Still via [Visit Films](https://visitfilms.com/joybubbles).*
+
 <!-- Review to follow. -->
 
 <!-- Screening: Everyman Cinema Screen 4. Festival listing: https://www.leedsfilm.com/whats-on/joybubbles-fmxq -->
