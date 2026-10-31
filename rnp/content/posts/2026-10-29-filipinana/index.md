@@ -7,7 +7,9 @@ screening-number: 1
 
 ![Filipiñana theatrical poster: an upside-down portrait above a golf course, with the film title in white.](filipinana-poster.jpg)
 
-> Rafael Manuel’s extraordinary debut is a razor-sharp satire of wealth and exploitation in the Philippines […]
+> Rafael Manuel’s extraordinary debut is a razor-sharp satire of wealth and exploitation in the Philippines, every shot perfectly manicured as the fairways in the elite country club where it’s set.
+>
+> Isabel, a 17-year-old from the rural north, gets a new job pampering powerful men, but soon uncovers the ugly truths behind the veneer of luxury as she encounters the patriarchal director of the club and uncovers her country’s history of violence.
 
 — [LIFF programme](https://www.leedsfilm.com/whats-on/filipinana-1dmr)
 
