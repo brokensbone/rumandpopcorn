@@ -1,6 +1,6 @@
 ---
 title: "Filipiñana"
-date: 2026-10-29T20:30:00+00:00
+date: 2026-10-31T17:15:33+00:00
 tags: [liff26, "Leeds international film festival"]
 screening-number: 1
 ---
@@ -10,8 +10,6 @@ screening-number: 1
 > Rafael Manuel’s extraordinary debut is a razor-sharp satire of wealth and exploitation in the Philippines, every shot perfectly manicured as the fairways in the elite country club where it’s set.
 >
 > Isabel, a 17-year-old from the rural north, gets a new job pampering powerful men, but soon uncovers the ugly truths behind the veneer of luxury as she encounters the patriarchal director of the club and uncovers her country’s history of violence.
-
-— [LIFF programme](https://www.leedsfilm.com/whats-on/filipinana-1dmr)
 
 This is a decent new entry in the documenting-gross-inequality subgenre. I very much liked the quote from the director about golf courses being a silent violence committed against a land.
 
