@@ -1,4 +1,7 @@
-<div class="main-col">
+<div class="header-inner">
     <a href="/"><h1 class="site-title">{{ site.Title }}{{ if not hugo.IsProduction }} - DEV {{ end }}</h1></a>
-    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    <nav class="utility-nav" aria-label="Main navigation">
+      <a href="{{ "about/" | relURL }}"{{ if eq .RelPermalink ("about/" | relURL) }} aria-current="page"{{ end }}>About</a>
+      <a href="{{ "feeds/" | relURL }}"{{ if eq .RelPermalink ("feeds/" | relURL) }} aria-current="page"{{ end }}>Feeds</a>
+    </nav>
 </div>

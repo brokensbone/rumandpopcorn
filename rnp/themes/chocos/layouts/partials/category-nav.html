@@ -1,0 +1,20 @@
+{{- $page := .page -}}
+<nav aria-label="{{ .label }}">
+  <a class="latest-link" href="{{ "" | relURL }}"{{ if $page.IsHome }} aria-current="page"{{ end }}>Latest posts</a>
+  <ul class="category-list">
+    {{- range site.Taxonomies.categories.Alphabetical -}}
+      {{- $term := .Page -}}
+      {{- $current := eq $page.RelPermalink $term.RelPermalink -}}
+      {{- $related := false -}}
+      {{- range $page.GetTerms "categories" -}}
+        {{- if eq .RelPermalink $term.RelPermalink -}}{{- $related = true -}}{{- end -}}
+      {{- end -}}
+      <li>
+        <a href="{{ $term.RelPermalink }}"{{ if $current }} aria-current="page"{{ else if $related }} class="related-category"{{ end }}>
+          <span>{{ $term.LinkTitle }}</span>
+          <span class="category-count"><span class="visually-hidden"> — </span>{{ .Count }}<span class="visually-hidden"> posts</span></span>
+        </a>
+      </li>
+    {{- end -}}
+  </ul>
+</nav>
