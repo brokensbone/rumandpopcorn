@@ -50,7 +50,7 @@ body {
 .header-inner {
   max-width: 960px;
   margin: 0 auto;
-  padding: 1.25rem 1rem;
+  padding: 0.875rem 1rem;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -181,8 +181,8 @@ header > .header-inner > a:focus-visible,
     box-sizing: border-box;
     display: block;
     position: relative;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
   }
 
   .site-title {
@@ -204,7 +204,7 @@ header > .header-inner > a:focus-visible,
 
   .mobile-menu summary {
     position: absolute;
-    top: 0.75rem;
+    top: 0.25rem;
     right: 0.75rem;
     width: 44px;
     height: 44px;
