@@ -1,4 +1,5 @@
 ---
+categories: ["Tech"]
 title: Why the internet is broken
 subtitle: Money broke it
 image: /assets/image/photo/2023/internet-graveyard.png

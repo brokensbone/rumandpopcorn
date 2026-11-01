@@ -30,6 +30,53 @@ The generated files are written to `rnp/public/` on the host. Treat `rnp/public/
 
 The Docker image supplies Hugo Extended and Go. It does not include the Node.js tooling used by Cloudflare Pages to generate the Pagefind search index.
 
+## Content categories
+
+Categories are the subject grouping used across the content tree. Keep files in
+their existing locations: categories do not change the configured post permalinks.
+Sections remain Hugo's directory structure and existing archive URLs.
+
+Homogeneous folders define a category once in their `_index.md`, inherited by
+descendant content pages (including nested folders):
+
+```yaml
+cascade:
+  params:
+    categories: ["Films"]
+  target:
+    kind: page
+```
+
+The Films, Chopping Mall, Walks, Lists and Wine folders use this inheritance.
+Wine belongs to Food & Drink. Chopping Mall retains its named archive category.
+The page-kind target keeps section listing pages out of category counts. Existing
+date cascades within Films continue to apply independently.
+
+The mixed `posts/` folder has no default category: assign exactly one subject to
+each post in front matter, including draft templates:
+
+```yaml
+categories: ["Films"]
+```
+
+For TOML front matter, use `categories = ["Films"]`. Subjects currently include
+Books, Films, Food & Drink, Gardening, Miscellaneous, Music and Tech. Music-library
+setup articles are Tech; the original test post is Miscellaneous. Book-list pages
+under `lists/` remain Lists. About, Feeds and Build Information are utility pages
+and intentionally have no category. Tags are independent and are not changed.
+
+For a URL-preservation audit, capture `hugo list all` and a clean production build
+on both revisions, then run:
+
+```sh
+python3 tests/check_content_urls.py before.csv after.csv before-public after-public
+```
+
+This checks draft/future source URLs too, and verifies existing output paths
+(including section archives, pagination and redirects) still exist. New category
+archive URLs are expected. No files, slugs, dates or permalink rules need moving
+or changing to assign categories.
+
 ## Formatting
 
 With uv and Node.js/npm installed, run these commands from the repository root:

@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Plot 119a
 subtitle: It all begins here
 image: /assets/image/photo/new-allotment.jpg

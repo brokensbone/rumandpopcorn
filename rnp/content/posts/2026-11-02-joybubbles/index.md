@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Joybubbles"
 date: 2026-11-02T16:15:00+00:00
 tags: [liff26, "Leeds international film festival"]

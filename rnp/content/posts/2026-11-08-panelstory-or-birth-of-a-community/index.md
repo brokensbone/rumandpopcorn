@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Panelstory or Birth of a Community"
 date: 2026-11-08T11:30:00+00:00
 tags: [liff26, "Leeds international film festival"]

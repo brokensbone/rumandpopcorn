@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Compost bin
 subtitle: It's not glamorous but...
 image: /assets/image/photo/compostbin.jpg

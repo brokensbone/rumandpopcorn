@@ -1,4 +1,5 @@
 ---
+categories: ["Tech"]
 title: "(Re)building a music library"
 subtitle: MP3s, FLACs, Records
 image: /assets/image/photo/2024/records.webp

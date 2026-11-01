@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Minotaur"
 date: 2026-11-07T14:15:00+00:00
 tags: [liff26, "Leeds international film festival"]

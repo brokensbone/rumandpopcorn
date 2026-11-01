@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "It Was Just an Accident"
 date: 2025-11-02T15:45:00+00:00
 tags: [liff25, "Leeds international film festival"]

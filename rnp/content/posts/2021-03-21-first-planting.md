@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: First planting
 subtitle: Growing stuff!
 image: /assets/image/photo/blossom.jpg

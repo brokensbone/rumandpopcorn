@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Bank holiday sunshine
 subtitle: Nice days on plot 119a
 image: /assets/image/photo/tulips.jpg

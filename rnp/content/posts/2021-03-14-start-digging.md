@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Start digging!
 subtitle: Breaking ground
 image: /assets/image/photo/digging.jpg

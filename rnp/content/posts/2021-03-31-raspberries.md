@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Raspberries
 subtitle: The fruit patch grows bigger
 image: /assets/image/photo/sunshine.jpg

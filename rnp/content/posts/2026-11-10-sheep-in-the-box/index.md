@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Sheep in the Box"
 date: 2026-11-10T20:15:00+00:00
 tags: [liff26, "Leeds international film festival"]

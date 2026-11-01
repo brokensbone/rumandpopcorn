@@ -1,4 +1,9 @@
 ---
+cascade:
+  params:
+    categories: ["Walks"]
+  target:
+    kind: page
 title: Walks
 menu: 'main'
 ---

@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "World Animation Competition 2"
 date: 2026-11-06T14:30:00+00:00
 tags: [liff26, "Leeds international film festival"]

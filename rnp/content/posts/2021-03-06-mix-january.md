@@ -1,4 +1,5 @@
 ---
+categories: ["Music"]
 title: 2021 Tapes - January
 subtitle: 45 minute mix of January 2021
 image: /assets/image/photo/tape.jpg

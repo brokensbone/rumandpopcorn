@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Dead Lover"
 date: 2025-10-31T20:45:00+00:00
 tags: [liff25, "Leeds international film festival"]

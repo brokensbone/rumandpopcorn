@@ -1,4 +1,9 @@
 ---
+cascade:
+  params:
+    categories: ["Chopping Mall"]
+  target:
+    kind: page
 title: "Chopping Mall"
 menu: 'main'
 ---

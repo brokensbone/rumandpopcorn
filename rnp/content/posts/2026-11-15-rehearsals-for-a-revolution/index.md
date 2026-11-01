@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Rehearsals for a Revolution"
 date: 2026-11-15T11:15:00+00:00
 tags: [liff26, "Leeds international film festival"]
