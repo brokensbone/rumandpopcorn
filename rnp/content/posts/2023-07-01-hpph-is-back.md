@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: The Hyde Park Picture House is back!
 subtitle: It's been so long
 image: /assets/image/photo/2023/hpph.png

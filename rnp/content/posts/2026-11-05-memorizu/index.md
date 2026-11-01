@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Memorizu"
 date: 2026-11-05T20:00:00+00:00
 tags: [liff26, "Leeds international film festival"]

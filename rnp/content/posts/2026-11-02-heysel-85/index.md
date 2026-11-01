@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Heysel 85"
 date: 2026-11-02T18:00:00+00:00
 tags: [liff26, "Leeds international film festival"]

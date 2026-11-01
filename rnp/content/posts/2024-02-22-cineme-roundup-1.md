@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Cinema 2024 Roundup: part I"
 subtitle: "Part I"
 image: /assets/image/photo/2024/film/poor-things.jpg

@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Light Pillar"
 date: 2026-11-05T16:15:00+00:00
 tags: [liff26, "Leeds international film festival"]

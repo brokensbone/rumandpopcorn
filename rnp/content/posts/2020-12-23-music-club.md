@@ -1,4 +1,5 @@
 ---
+categories: ["Music"]
 title: Best Music of 2020 - Part 2 Club
 subtitle: Second selection of the best music of 2020
 image: /assets/image/photo/klo.jpg

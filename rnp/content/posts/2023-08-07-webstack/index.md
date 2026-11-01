@@ -1,4 +1,5 @@
 ---
+categories: ["Tech"]
 title: How this all works
 subtitle: Containers for days
 image: /assets/image/photo/2023/circuits.png

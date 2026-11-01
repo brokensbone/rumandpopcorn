@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "The Apologist"
 date: 2026-11-06T18:00:00+00:00
 tags: [liff26, "Leeds international film festival"]

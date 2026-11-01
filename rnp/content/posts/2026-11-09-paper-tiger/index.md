@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Paper Tiger"
 date: 2026-11-09T18:00:00+00:00
 tags: [liff26, "Leeds international film festival"]

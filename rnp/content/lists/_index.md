@@ -1,4 +1,9 @@
 ---
+cascade:
+  params:
+    categories: ["Lists"]
+  target:
+    kind: page
 title: Lists
 menu: 'main'
 ---

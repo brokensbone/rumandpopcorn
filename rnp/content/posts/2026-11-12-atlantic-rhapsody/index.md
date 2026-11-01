@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Atlantic Rhapsody"
 date: 2026-11-12T19:00:00+00:00
 tags: [liff26, "Leeds international film festival"]

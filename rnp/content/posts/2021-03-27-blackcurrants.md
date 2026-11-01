@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: Blackcurrants!
 subtitle: The fruit patch is begun...
 image: /assets/image/photo/blackcurrant.jpg

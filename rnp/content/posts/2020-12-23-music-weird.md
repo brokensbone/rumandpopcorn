@@ -1,4 +1,5 @@
 ---
+categories: ["Music"]
 title: Best Music of 2020 - Part 3 Weird
 subtitle: Third and final selection of the best music of 2020
 image: /assets/image/photo/lr.jpeg

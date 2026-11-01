@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "A Long Winter"
 date: 2026-11-09T20:30:00+00:00
 tags: [liff26, "Leeds international film festival"]

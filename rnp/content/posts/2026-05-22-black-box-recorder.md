@@ -1,4 +1,5 @@
 ---
+categories: ["Music"]
 title: Black Box Recorder
 subtitle: At Brudenell Social Club
 date: 2026-05-21

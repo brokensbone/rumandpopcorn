@@ -1,4 +1,5 @@
 ---
+categories: ["Music"]
 title: "Albums of the Year 2023"
 subtitle: A good year of music!
 image: /assets/image/photo/2023/a_glass_of_rum_and_a_bowl_of_popcorn_5f71aace-5c4a-40ca-b177-ba9e0e435531.png

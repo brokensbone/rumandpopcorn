@@ -1,4 +1,5 @@
 ---
+categories: ["Gardening"]
 title: More digging!
 subtitle: Three beds done
 image: /assets/image/photo/digging2.jpg

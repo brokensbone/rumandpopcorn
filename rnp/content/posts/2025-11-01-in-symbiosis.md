@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "In Symbiosis"
 date: 2025-11-01T15:15:00+00:00
 tags: [liff25, "Leeds international film festival"]

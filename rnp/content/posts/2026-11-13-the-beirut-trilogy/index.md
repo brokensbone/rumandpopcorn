@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "The Beirut Trilogy"
 date: 2026-11-13T17:30:00+00:00
 tags: [liff26, "Leeds international film festival"]

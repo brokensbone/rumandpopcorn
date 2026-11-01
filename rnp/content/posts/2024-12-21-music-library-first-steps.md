@@ -1,4 +1,5 @@
 ---
+categories: ["Tech"]
 title: "How to build the new music library"
 subtitle: MP3s, FLACs, Records
 layout: post

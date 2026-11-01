@@ -1,4 +1,5 @@
 ---
+categories: ["Films"]
 title: "Filipiñana"
 date: 2026-10-31T17:15:33+00:00
 tags: [liff26, "Leeds international film festival"]
