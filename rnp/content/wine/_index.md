@@ -1,5 +1,5 @@
 ---
-title: Wine
+title: Wines
 cascade:
   params:
     categories: ["Food & Drink"]

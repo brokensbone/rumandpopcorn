@@ -77,6 +77,12 @@ This checks draft/future source URLs too, and verifies existing output paths
 archive URLs are expected. No files, slugs, dates or permalink rules need moving
 or changing to assign categories.
 
+Existing RSS subscriptions retain their section-based membership: for example,
+`posts/feed.xml` still contains Posts, and `films/feed.xml` still contains the
+Films section. Category feeds such as `categories/films/feed.xml` are additional
+subject-based subscriptions. The previously empty `categories/feed.xml` lists
+the category terms themselves. The configured 20-item RSS limit is unchanged.
+
 ## Formatting
 
 With uv and Node.js/npm installed, run these commands from the repository root:
