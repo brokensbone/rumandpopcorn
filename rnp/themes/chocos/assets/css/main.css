@@ -57,17 +57,6 @@ body {
   gap: 1rem;
 }
 
-.utility-nav {
-  display: flex;
-  gap: 1.25rem;
-}
-
-.utility-nav a:hover,
-.utility-nav a[aria-current="page"] {
-  text-decoration: underline;
-  text-underline-offset: 0.3em;
-}
-
 .site-shell {
   width: 100%;
   max-width: 992px;
@@ -91,27 +80,21 @@ body {
   align-self: start;
 }
 
-.category-sidebar h2 {
-  margin: 0 0 1rem;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--color-text);
-}
-
-.latest-link {
-  display: block;
-  padding: 0.65rem 0;
-  margin-bottom: 0.5rem;
-  text-underline-offset: 0.2em;
-}
-
+.utility-list,
 .category-list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
+.utility-list {
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 2px solid
+    color-mix(in srgb, var(--color-text) 25%, transparent);
+}
+
+.utility-list a,
 .category-list a {
   display: flex;
   justify-content: space-between;
@@ -126,13 +109,20 @@ body {
   text-decoration: none;
 }
 
+.utility-list a {
+  border-bottom: 0;
+}
+
+.utility-list a:hover,
+.utility-list a[aria-current="page"],
 .category-list a:hover,
 .category-list a[aria-current="page"],
 .category-list a.related-category {
   color: #bd2916;
 }
 
-.category-list a[aria-current="page"] {
+.category-list a[aria-current="page"],
+.utility-list a[aria-current="page"] {
   font-weight: 700;
   border-bottom-color: currentColor;
 }
@@ -143,7 +133,7 @@ body {
   color: color-mix(in srgb, var(--color-text) 65%, var(--color-background));
 }
 
-.mobile-categories {
+.mobile-menu {
   display: none;
 }
 
@@ -176,7 +166,8 @@ summary:focus-visible {
   outline-offset: 4px;
 }
 
-header a:focus-visible {
+header > .header-inner > a:focus-visible,
+.mobile-menu summary:focus-visible {
   outline-color: var(--color-header-text);
 }
 
@@ -188,12 +179,15 @@ header a:focus-visible {
 
   .header-inner {
     box-sizing: border-box;
-    flex-wrap: wrap;
-    gap: 0.5rem 1.5rem;
+    display: block;
+    position: relative;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .site-title {
-    font-size: clamp(1.5rem, 5.5vw, 2rem);
+    font-size: clamp(1.35rem, 5vw, 2rem);
+    padding-right: 3.25rem;
   }
 
   .site-shell {
@@ -204,32 +198,81 @@ header a:focus-visible {
     display: none;
   }
 
-  .mobile-categories {
+  .mobile-menu {
     display: block;
-    margin: 0 1rem;
-    border-bottom: 1px solid
-      color-mix(in srgb, var(--color-text) 25%, transparent);
   }
 
-  .mobile-categories summary {
-    padding: 0.85rem 0;
+  .mobile-menu summary {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
-    font-weight: 600;
+    list-style: none;
+    border-radius: 4px;
   }
 
-  .mobile-categories[open] {
-    padding-bottom: 1rem;
+  .mobile-menu summary::-webkit-details-marker {
+    display: none;
   }
 
-  .mobile-categories .category-list {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0 1.25rem;
+  .mobile-menu summary:hover {
+    background: rgb(0 0 0 / 10%);
+  }
+
+  .menu-icon,
+  .menu-icon::before,
+  .menu-icon::after {
+    width: 24px;
+    height: 2px;
+    background: currentColor;
+    position: relative;
+    display: block;
+  }
+
+  .menu-icon::before,
+  .menu-icon::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: -7px;
+  }
+
+  .menu-icon::after {
+    top: 7px;
+  }
+
+  .mobile-menu[open] .menu-icon {
+    background: transparent;
+  }
+
+  .mobile-menu[open] .menu-icon::before {
+    top: 0;
+    transform: rotate(45deg);
+  }
+
+  .mobile-menu[open] .menu-icon::after {
+    top: 0;
+    transform: rotate(-45deg);
+  }
+
+  .mobile-menu-panel {
+    background: var(--color-background);
+    color: var(--color-text);
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    box-shadow: 0 3px 12px rgb(0 0 0 / 12%);
   }
 }
 
 @media (prefers-color-scheme: dark) {
-  .latest-link,
+  .utility-list a:hover,
+  .utility-list a[aria-current="page"],
   .category-list a:hover,
   .category-list a[aria-current="page"],
   .category-list a.related-category {

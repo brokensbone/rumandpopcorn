@@ -10,16 +10,11 @@
     {{ partial "header.html" . }}
   </header>
   <div class="site-shell">
-    <details class="mobile-categories">
-      <summary>Browse categories</summary>
-      {{ partial "category-nav.html" (dict "page" . "label" "Browse by category") }}
-    </details>
     <main id="main-content" class="main-col site-main">
       {{ block "main" . }}{{ end }}
     </main>
-    <aside class="category-sidebar" aria-labelledby="category-heading">
-      <h2 id="category-heading">Categories</h2>
-      {{ partial "category-nav.html" (dict "page" . "label" "Categories") }}
+    <aside class="category-sidebar" aria-label="Site navigation">
+      {{ partial "category-nav.html" (dict "page" . "label" "Main navigation") }}
     </aside>
   </div>
   <footer>
