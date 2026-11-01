@@ -5,12 +5,18 @@
   {{ block "extrahead" . }}{{ end }}
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <header>
     {{ partial "header.html" . }}
   </header>
-  <main class="main-col">
-    {{ block "main" . }}{{ end }}
-  </main>
+  <div class="site-shell">
+    <main id="main-content" class="main-col site-main">
+      {{ block "main" . }}{{ end }}
+    </main>
+    <aside class="category-sidebar" aria-label="Site navigation">
+      {{ partial "category-nav.html" (dict "page" . "label" "Main navigation") }}
+    </aside>
+  </div>
   <footer>
     {{ partial "footer.html" . }}
   </footer>

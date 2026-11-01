@@ -60,8 +60,8 @@ categories: ["Films"]
 ```
 
 For TOML front matter, use `categories = ["Films"]`. Subjects currently include
-Books, Films, Food & Drink, Gardening, Miscellaneous, Music and Tech. Music-library
-setup articles are Tech; the original test post is Miscellaneous. Book-list pages
+Books, Films, Food & Drink, Gardening, Music and Tech. Music-library
+setup articles and the original test post are Tech. Book-list pages
 under `lists/` remain Lists. About, Feeds and Build Information are utility pages
 and intentionally have no category. Tags are independent and are not changed.
 
