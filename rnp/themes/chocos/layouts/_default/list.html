@@ -1,7 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
   {{ $paginator := .Paginate .Pages 5 }}
+  {{ if eq $paginator.PageNumber 1 }}
+    {{ .Content }}
+  {{ end }}
   {{ range $index, $_ := $paginator.Pages }}
     {{ if gt $index 0 }}
       <hr class="post-separator">
