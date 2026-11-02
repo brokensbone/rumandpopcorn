@@ -21,6 +21,6 @@
     {{ end }}
 
   {{ end }}
-  {{ .Content }}
+  <div{{ if .GetTerms "categories" }} class="post-body"{{ end }}>{{ .Content }}</div>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

@@ -7,7 +7,7 @@
       <hr class="post-separator">
     {{ end }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Content }}
+    <div class="post-body">{{ .Content }}</div>
   {{ end }}
   {{ if gt $paginator.TotalPages 1 }}
     {{ template "_internal/pagination.html" (dict "page" . "format" "terse") }}
