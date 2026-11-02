@@ -21,6 +21,6 @@
     {{ end }}
 
   {{ end }}
-  <div{{ if .GetTerms "categories" }} class="post-body"{{ end }}>{{ .Content }}</div>
+  <div{{ if .GetTerms "categories" }} class="post-body"{{ end }}>{{ partial "post-content.html" (dict "page" . "priority" (.GetTerms "categories")) }}</div>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

@@ -30,6 +30,19 @@ The generated files are written to `rnp/public/` on the host. Treat `rnp/public/
 
 The Docker image supplies Hugo Extended and Go. It does not include the Node.js tooling used by Cloudflare Pages to generate the Pagefind search index.
 
+## Image loading
+
+Markdown images use a custom render hook that retains Hugo's page-bundle and
+global-resource URL resolution. It adds intrinsic dimensions for local raster
+images, asynchronous decoding, and native lazy loading at low priority.
+`post-content.html` promotes the leading image in the first listing entry or
+individual post to eager/high priority. Keep that promotion outside the render
+hook because Hugo caches each post's rendered content across listings.
+
+Browsers may prefetch lazy images near the viewport; distant images wait until
+the reader approaches them. This works without JavaScript. The RSS-specific
+render hook retains the original embedded image markup in feeds.
+
 ## Content categories
 
 Categories are the subject grouping used across the content tree. Keep files in

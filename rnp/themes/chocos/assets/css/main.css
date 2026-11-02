@@ -82,10 +82,6 @@ body {
 }
 
 .post-body p {
-  text-align: justify;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  overflow-wrap: break-word;
   margin-block: 1.15em;
 }
 
