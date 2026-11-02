@@ -7,7 +7,7 @@
       <hr class="post-separator">
     {{ end }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Content }}
+    {{ partial "post-content.html" (dict "page" . "priority" (eq $index 0)) }}
     {{ with .Params.film_tag_in }}
       <p>Linked by {{ . }} to... </p>
     {{ end }}

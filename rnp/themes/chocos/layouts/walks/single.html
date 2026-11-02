@@ -84,6 +84,6 @@
 
     </script>
   {{ end }}
-  {{ .Content }}
+  {{ partial "post-content.html" (dict "page" . "priority" true) }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

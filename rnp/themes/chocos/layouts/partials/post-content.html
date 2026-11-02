@@ -1,0 +1,6 @@
+{{- /* Promote here, outside Hugo's cached .Content, so only the leading list entry gets priority. */ -}}
+{{- $content := .page.Content -}}
+{{- if .priority -}}
+  {{- $content = replaceRE `<img loading="lazy" fetchpriority="low"` `<img loading="eager" fetchpriority="high"` $content 1 -}}
+{{- end -}}
+{{- $content | safeHTML -}}
