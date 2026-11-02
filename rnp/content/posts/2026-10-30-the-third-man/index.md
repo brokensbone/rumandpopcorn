@@ -6,10 +6,7 @@ tags: [liff26, "Leeds international film festival"]
 screening-number: 2
 ---
 
-![The Third Man poster illustrated in black and white with a Ferris wheel and shadowy figures.](poster.jpg)
-
-*Poster via [Black Dragon Press](https://www.blackdragonpress.co.uk/blogs/news/the-third-man-and-black-sunday-by-nicolas-delort-and-johnny-dombrowski). Artwork by Nicolas Delort.*
-
+![The Third Man poster in orange, green and black, showing a shadowy figure in a Vienna street.](poster.jpg)
 
 It’s a stone-cold classic.
 
