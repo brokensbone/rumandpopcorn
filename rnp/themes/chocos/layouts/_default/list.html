@@ -9,7 +9,7 @@
       <hr class="post-separator">
     {{ end }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Content }}
+    <div class="post-body">{{ partial "post-content.html" (dict "page" . "priority" (eq $index 0)) }}</div>
   {{ end }}
   {{ template "_internal/pagination.html" (dict "page" . "format" "terse") }}
 
