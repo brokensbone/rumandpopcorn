@@ -6,7 +6,16 @@ for (const viewport of [
 ]) {
   test(`search works at ${viewport.width}px`, async ({ page }) => {
     await page.setViewportSize(viewport);
-    await page.goto("/search/");
+    await page.goto("/");
+    if (viewport.width < 900)
+      await page.locator(".mobile-menu summary").click();
+    await page.getByRole("link", { name: "Search", exact: true }).click();
+    await expect(page).toHaveURL(/\/search\/$/);
+    for (const link of await page
+      .locator('.utility-list a[href="/search/"]')
+      .all()) {
+      await expect(link).toHaveAttribute("aria-current", "page");
+    }
     const input = page.getByRole("searchbox", { name: "Search the site" });
     await input.fill("Blackcurrants");
     await input.press("Enter");
@@ -112,7 +121,7 @@ test("shows an index load error and recovers through reload", async ({
   ).toBeVisible();
 });
 
-test("remains unlisted and loads search assets only on the search page", async ({
+test("keeps search out of feeds and loads its assets only on the search page", async ({
   page,
   request,
 }) => {
@@ -122,9 +131,9 @@ test("remains unlisted and loads search assets only on the search page", async (
       searchRequests.push(request.url());
   });
   await page.goto("/");
-  await expect(page.locator('a[href="/search/"]')).toHaveCount(0);
+  await expect(page.locator('a[href="/search/"]')).toHaveCount(2);
   expect(searchRequests).toHaveLength(0);
-  for (const path of ["/sitemap.xml", "/feed.xml", "/posts/", "/feeds/"]) {
+  for (const path of ["/sitemap.xml", "/feed.xml"]) {
     const response = await request.get(path);
     expect(response.ok()).toBeTruthy();
     expect(await response.text()).not.toMatch(
