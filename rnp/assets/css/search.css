@@ -1,12 +1,10 @@
 .search-controls {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.5rem;
+  position: relative;
 }
 
 .search-controls input {
-  flex: 1 1 12rem;
+  display: block;
+  width: 100%;
   min-width: 0;
 }
 
@@ -28,6 +26,34 @@
 
 #site-search button:hover {
   background: var(--color-hover);
+}
+
+.search-controls #search-query {
+  padding-right: 3rem;
+}
+
+#search-query::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+#site-search #search-clear {
+  position: absolute;
+  inset: 0 0 0 auto;
+  width: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+#site-search #search-clear:focus-visible {
+  outline-offset: -4px;
+}
+
+#search-status:empty {
+  display: none;
 }
 
 #site-search input:focus-visible,

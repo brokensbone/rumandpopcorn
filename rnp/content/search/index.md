@@ -6,5 +6,3 @@ search: false
 build:
   list: never
 ---
-
-Search posts and walks.

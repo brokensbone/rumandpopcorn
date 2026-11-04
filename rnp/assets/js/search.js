@@ -36,7 +36,7 @@ function showMore(moveFocus = false) {
   more.hidden = shown >= results.length;
   status.textContent = results.length
     ? `Showing ${shown} of ${results.length} result${results.length === 1 ? "" : "s"}.`
-    : "No results found. Try different words.";
+    : "No results found.";
   if (moveFocus) list.children[firstNew]?.querySelector("a").focus();
 }
 
@@ -68,6 +68,7 @@ function update(immediate = false, writeUrl = true) {
   const current = ++revision;
   clearTimeout(timer);
   const term = input.value.trim();
+  clear.hidden = input.value.length === 0;
   list.replaceChildren();
   list.removeAttribute("aria-busy");
   more.hidden = true;
@@ -81,7 +82,7 @@ function update(immediate = false, writeUrl = true) {
     history.replaceState(null, "", url);
   }
   if (!term) {
-    status.textContent = "Enter a word or phrase to search.";
+    status.textContent = "";
     return;
   }
   status.textContent = "Searching…";

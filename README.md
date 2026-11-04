@@ -79,9 +79,9 @@ from Hugo's post collections with `build.list: never`, has no category, is
 omitted from feeds and the sitemap, opts out of Pagefind, and includes
 `noindex, follow`. Search is entirely local to the static site.
 
-Queries are debounced and can also be submitted with Enter or the Search
-button. The `q` parameter makes test queries shareable, for example
-`/search/?q=Blackcurrants`. Clear cancels pending results and returns focus to
+Queries search as you type and can also be submitted with Enter. The `q`
+parameter makes queries shareable, for example `/search/?q=Blackcurrants`.
+The × button inside the field cancels pending results and returns focus to
 the input. Results appear ten at a time with a Show more results button.
 An index-loading failure offers a reload; without JavaScript the page explains
 the requirement. Colours follow the site's light/dark preference.
