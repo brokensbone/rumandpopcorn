@@ -10,7 +10,7 @@
     {{ partial "header.html" . }}
   </header>
   <div class="site-shell">
-    <main id="main-content" class="main-col site-main">
+    <main id="main-content" class="main-col site-main"{{ if and .IsPage (ne .Params.search false) }} data-pagefind-body{{ end }}>
       {{ block "main" . }}{{ end }}
     </main>
     <aside class="category-sidebar" aria-label="Site navigation">

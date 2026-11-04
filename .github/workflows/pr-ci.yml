@@ -25,10 +25,24 @@ jobs:
         rm hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
         hugo version
 
-    - name: Build site
+    - name: Set up Node.js
+      uses: actions/setup-node@v6
+      with:
+        node-version-file: '.node-version'
+        cache: npm
+        cache-dependency-path: rnp/package-lock.json
+
+    - name: Build site and search index
       run: |
         cd rnp
-        hugo --gc --minify
+        npm ci
+        npm run build
+
+    - name: Check search in Chromium
+      working-directory: rnp
+      run: |
+        npx playwright install --with-deps chromium
+        npm run test:search
 
     - name: Check bundle images in single and list views
       run: python3 tests/check_bundle_images.py rnp/public

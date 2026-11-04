@@ -30,6 +30,44 @@ The generated files are written to `rnp/public/` on the host. Treat `rnp/public/
 
 The Docker image supplies Hugo Extended and Go. It does not include the Node.js tooling used by Cloudflare Pages to generate the Pagefind search index.
 
+## Building and checking search
+
+With Hugo Extended (`.hugo-version`) and Node.js (`.node-version`) installed,
+run the same build as Cloudflare Pages from the repository root:
+
+```sh
+cd rnp
+npm ci
+npm run build
+npx playwright install --with-deps chromium
+npm run test:search
+```
+
+The build cleans Hugo's destination, generates the production site, then runs
+the locked Pagefind version over `public/`. Search assets are generated in
+`rnp/public/pagefind/`; neither those assets nor `node_modules/` belong in Git.
+The browser checks serve that static output and query the actual search index,
+including post body text and walks, while checking that archive pages and site
+navigation are excluded. Python 3 supplies the test server.
+
+Only individual HTML pages opt into indexing through `data-pagefind-body` on
+their main content. Set `search: false` in front matter to exclude a utility
+page (as Feeds does). Home, taxonomy, pagination and section listings, redirects,
+and the plaintext Build Information output are excluded. Drafts and future posts
+follow Hugo's normal production exclusions. This first stage builds the index
+without loading search assets on ordinary pages. The unlisted test page and
+public navigation entry will follow separately.
+
+The browser suite also records an expected failure for an unknown single-word
+query (`qzxv`) returning an unrelated result with no match locations in Pagefind
+1.5.2. Investigate this during the unlisted search-page stage and remove the
+expected failure before exposing search in the navigation. Pagefind 1.6.0's
+published Linux binaries currently crash with an illegal instruction on this
+development VM, so the build pins the working 1.5.2 release for now.
+
+To inspect the built site, use `python3 -m http.server --directory public 1414`
+from `rnp/`. `hugo server` alone does not generate or serve the Pagefind index.
+
 ## Image loading
 
 Markdown images use a custom render hook that retains Hugo's page-bundle and
@@ -123,12 +161,19 @@ additional formatter support. Keep the tool versions here and in
 Cloudflare Pages builds the site from this GitHub repository. Pushes to `main` deploy production; pull requests get preview deployments. The build runs from `rnp/`:
 
 ```sh
-hugo && npx -y pagefind --site public
+npm ci && npm run build
 ```
 
 Pages publishes the resulting `public/` directory. The hosting configuration, custom domains, DNS records and uptime monitoring are defined in `infra/`.
 
-GitHub Actions builds the Hugo site and checks key pages on pull requests. A separate Pulumi workflow previews infrastructure changes on pull requests and applies them after merging to `main` when `infra/`, `.hugo-version` or `.go-version` changes.
+GitHub Actions builds Hugo and Pagefind and checks search in Chromium on pull requests. A separate Pulumi workflow previews infrastructure changes on pull requests and applies them after merging to `main` when `infra/`, `.hugo-version`, `.go-version` or `.node-version` changes.
+
+`.node-version` selects Node.js for CI and both Cloudflare preview and production
+builds. Both environments use the same locked dependencies and build command.
+Cloudflare's build settings are managed by Pulumi: a PR previews their changes;
+they take effect after merge and the Pulumi deployment. A branch preview made
+before then still uses the existing unpinned build command. Rebuild that preview
+after the build settings have been applied to verify the deployed configuration.
 
 ## Hugo and Go versions
 
