@@ -1,0 +1,29 @@
+{{ define "extrahead" }}
+  <meta name="robots" content="noindex, follow">
+  {{ with resources.Get "css/search.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+  {{ with resources.Get "js/search.js" | minify | fingerprint }}
+    <script type="module" src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <p id="search-js-message">Search needs JavaScript. You can still browse posts using the site navigation.</p>
+  <section id="site-search" data-index-module="{{ "pagefind/pagefind.js" | relURL }}" aria-label="Site search">
+    <form role="search" action="{{ .RelPermalink }}" method="get">
+      <label for="search-query">Search the site</label>
+      <div class="search-controls">
+        <input id="search-query" name="q" type="search" autocomplete="off" aria-describedby="search-status" disabled>
+        <button type="submit" disabled>Search</button>
+        <button type="button" id="search-clear" disabled>Clear</button>
+      </div>
+    </form>
+    <p id="search-status" role="status" aria-live="polite" aria-atomic="true">Enter a word or phrase to search.</p>
+    <button type="button" id="search-retry" hidden>Reload search</button>
+    <ol id="search-results" aria-label="Search results"></ol>
+    <button type="button" id="search-more" hidden>Show more results</button>
+  </section>
+{{ end }}
