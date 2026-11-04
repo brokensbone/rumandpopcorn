@@ -55,7 +55,7 @@ their main content. Set `search: false` in front matter to exclude a utility
 page (as Feeds does). Home, taxonomy, pagination and section listings, redirects,
 and the plaintext Build Information output are excluded. Drafts and future posts
 follow Hugo's normal production exclusions. Search assets load only on the
-dedicated search page; the public navigation entry will follow separately.
+dedicated search page. The shared navigation links to it on desktop and mobile.
 
 The raw Pagefind API has an expected failure for an unknown single-word query
 (`qzxv`) returning an unrelated result with no match locations in Pagefind.
@@ -71,22 +71,22 @@ the search page is checked against the deployed preview.
 To inspect the built site, use `python3 -m http.server --directory public 1414`
 from `rnp/`. `hugo server` alone does not generate or serve the Pagefind index.
 
-### Unlisted search page (stage 2)
+### Search page
 
-Open `/search/` on the built site or a Cloudflare preview. The page is rendered
-but excluded from Hugo's page collections with `build.list: never`, has no menu
-entry or category, is omitted from feeds and the sitemap, opts out of Pagefind,
-and includes `noindex, follow`. It is unlisted, not access-controlled: anyone
-with the URL can use it. Search is entirely local to the static site.
+Choose Search in the desktop sidebar or mobile menu to open `/search/`.
+The current page is marked in both navigation views. The page stays excluded
+from Hugo's post collections with `build.list: never`, has no category, is
+omitted from feeds and the sitemap, opts out of Pagefind, and includes
+`noindex, follow`. Search is entirely local to the static site.
 
-Queries are debounced and can also be submitted with Enter or the Search
-button. The `q` parameter makes test queries shareable, for example
-`/search/?q=Blackcurrants`. Clear cancels pending results and returns focus to
+Queries search as you type and can also be submitted with Enter. The `q`
+parameter makes queries shareable, for example `/search/?q=Blackcurrants`.
+The × button inside the field cancels pending results and returns focus to
 the input. Results appear ten at a time with a Show more results button.
 An index-loading failure offers a reload; without JavaScript the page explains
 the requirement. Colours follow the site's light/dark preference.
 
-Before adding public navigation, check the preview on desktop and mobile:
+For manual checks, open the preview on desktop and mobile:
 
 - Search for `Blackcurrants` (title), `gooseberries` (body) and `Hartwith` (walk).
 - Follow result links, including an older Chopping Mall `.html` URL.
@@ -96,7 +96,8 @@ Before adding public navigation, check the preview on desktop and mobile:
 - Check light/dark modes and a narrow viewport, and simulate a failed index
   request to check the reload action.
 
-CI covers the main search flows and verifies that the page stays unlisted.
+CI covers navigation to search at desktop and mobile widths, the main search
+flows, and exclusion from feeds, sitemap and the search index.
 
 ## Image loading
 

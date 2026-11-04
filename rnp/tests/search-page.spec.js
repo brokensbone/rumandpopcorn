@@ -6,8 +6,24 @@ for (const viewport of [
 ]) {
   test(`search works at ${viewport.width}px`, async ({ page }) => {
     await page.setViewportSize(viewport);
-    await page.goto("/search/");
+    await page.goto("/");
+    if (viewport.width < 900)
+      await page.locator(".mobile-menu summary").click();
+    await page.getByRole("link", { name: "Search", exact: true }).click();
+    await expect(page).toHaveURL(/\/search\/$/);
+    for (const link of await page
+      .locator('.utility-list a[href="/search/"]')
+      .all()) {
+      await expect(link).toHaveAttribute("aria-current", "page");
+    }
     const input = page.getByRole("searchbox", { name: "Search the site" });
+    await expect(
+      page.getByRole("button", { name: "Search", exact: true }),
+    ).toHaveCount(0);
+    await expect(page.locator("#search-status")).toBeEmpty();
+    await expect(
+      page.getByRole("button", { name: "Clear search", includeHidden: true }),
+    ).toBeHidden();
     await input.fill("Blackcurrants");
     await input.press("Enter");
     const link = page
@@ -45,21 +61,18 @@ test("supports body matches, walks, no results, clear and direct query links", a
     "/walks/brimham-hartwith/",
   );
   await input.fill("qzxv");
-  await expect(page.getByRole("status")).toHaveText(
-    "No results found. Try different words.",
-  );
+  await expect(page.getByRole("status")).toHaveText("No results found.");
   await expect(page.locator("#search-results li")).toHaveCount(0);
   await input.fill("Blackcurrants Hartwith");
-  await expect(page.getByRole("status")).toHaveText(
-    "No results found. Try different words.",
-  );
-  await page.getByRole("button", { name: "Clear", exact: true }).click();
+  await expect(page.getByRole("status")).toHaveText("No results found.");
+  await page.getByRole("button", { name: "Clear search", exact: true }).click();
   await expect(input).toBeFocused();
   await expect(input).toHaveValue("");
   await expect(page).toHaveURL(/\/search\/$/);
-  await expect(page.getByRole("status")).toHaveText(
-    "Enter a word or phrase to search.",
-  );
+  await expect(page.locator("#search-status")).toBeEmpty();
+  await expect(
+    page.getByRole("button", { name: "Clear search", includeHidden: true }),
+  ).toBeHidden();
 });
 
 test("loads more results and moves keyboard focus to the new results", async ({
@@ -88,10 +101,8 @@ test("ignores a slow search after the query changes or clears", async ({
     "/walks/brimham-hartwith/",
   );
   await page.getByRole("searchbox").fill("film");
-  await page.getByRole("button", { name: "Clear", exact: true }).click();
-  await expect(page.getByRole("status")).toHaveText(
-    "Enter a word or phrase to search.",
-  );
+  await page.getByRole("button", { name: "Clear search", exact: true }).click();
+  await expect(page.locator("#search-status")).toBeEmpty();
   await expect(page.locator("#search-results li")).toHaveCount(0);
 });
 
@@ -112,7 +123,7 @@ test("shows an index load error and recovers through reload", async ({
   ).toBeVisible();
 });
 
-test("remains unlisted and loads search assets only on the search page", async ({
+test("keeps search out of feeds and loads its assets only on the search page", async ({
   page,
   request,
 }) => {
@@ -122,9 +133,9 @@ test("remains unlisted and loads search assets only on the search page", async (
       searchRequests.push(request.url());
   });
   await page.goto("/");
-  await expect(page.locator('a[href="/search/"]')).toHaveCount(0);
+  await expect(page.locator('a[href="/search/"]')).toHaveCount(2);
   expect(searchRequests).toHaveLength(0);
-  for (const path of ["/sitemap.xml", "/feed.xml", "/posts/", "/feeds/"]) {
+  for (const path of ["/sitemap.xml", "/feed.xml"]) {
     const response = await request.get(path);
     expect(response.ok()).toBeTruthy();
     expect(await response.text()).not.toMatch(
