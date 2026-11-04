@@ -61,6 +61,7 @@ test("excludes navigation, archives and generated utility content", async ({
   expect(urls).not.toContain("/walks/");
   expect(urls).not.toContain("/build/");
   expect(urls).not.toContain("/feeds/");
+  expect(urls).not.toContain("/search/");
   expect(urls).not.toContain("/404.html");
   expect(urls.some((url) => /^\/(categories|tags)\//.test(url))).toBeFalsy();
   expect(urls.some((url) => /\/page\/\d+\//.test(url))).toBeFalsy();

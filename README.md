@@ -54,19 +54,48 @@ Only individual HTML pages opt into indexing through `data-pagefind-body` on
 their main content. Set `search: false` in front matter to exclude a utility
 page (as Feeds does). Home, taxonomy, pagination and section listings, redirects,
 and the plaintext Build Information output are excluded. Drafts and future posts
-follow Hugo's normal production exclusions. This first stage builds the index
-without loading search assets on ordinary pages. The unlisted test page and
-public navigation entry will follow separately.
+follow Hugo's normal production exclusions. Search assets load only on the
+dedicated search page; the public navigation entry will follow separately.
 
-The browser suite also records an expected failure for an unknown single-word
-query (`qzxv`) returning an unrelated result with no match locations in Pagefind
-1.5.2. Investigate this during the unlisted search-page stage and remove the
-expected failure before exposing search in the navigation. Pagefind 1.6.0's
+The raw Pagefind API has an expected failure for an unknown single-word query
+(`qzxv`) returning an unrelated result with no match locations in Pagefind 1.5.2.
+The search page suppresses results without match locations; all indexed titles
+are also in page content, so genuine matches retain their locations. Browser
+tests verify the visible no-results behavior. Keep the raw API regression test
+until an upstream version resolves it, then remove that expected failure and
+reassess the workaround. Pagefind 1.6.0's
 published Linux binaries currently crash with an illegal instruction on this
 development VM, so the build pins the working 1.5.2 release for now.
 
 To inspect the built site, use `python3 -m http.server --directory public 1414`
 from `rnp/`. `hugo server` alone does not generate or serve the Pagefind index.
+
+### Unlisted search page (stage 2)
+
+Open `/search/` on the built site or a Cloudflare preview. The page is rendered
+but excluded from Hugo's page collections with `build.list: never`, has no menu
+entry or category, is omitted from feeds and the sitemap, opts out of Pagefind,
+and includes `noindex, follow`. It is unlisted, not access-controlled: anyone
+with the URL can use it. Search is entirely local to the static site.
+
+Queries are debounced and can also be submitted with Enter or the Search
+button. The `q` parameter makes test queries shareable, for example
+`/search/?q=Blackcurrants`. Clear cancels pending results and returns focus to
+the input. Results appear ten at a time with a Show more results button.
+An index-loading failure offers a reload; without JavaScript the page explains
+the requirement. Colours follow the site's light/dark preference.
+
+Before adding public navigation, check the preview on desktop and mobile:
+
+- Search for `Blackcurrants` (title), `gooseberries` (body) and `Hartwith` (walk).
+- Follow result links, including an older Chopping Mall `.html` URL.
+- Search for `qzxv`, incompatible words, punctuation and an empty query.
+- Try a broad query such as `film`, load more, and use keyboard navigation.
+- Change and clear queries while results load; reload a shared query URL.
+- Check light/dark modes and a narrow viewport, and simulate a failed index
+  request to check the reload action.
+
+CI covers the main search flows and verifies that the page stays unlisted.
 
 ## Image loading
 
