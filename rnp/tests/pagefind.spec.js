@@ -40,7 +40,7 @@ test("includes walks rendered with their own layout", async ({ page }) => {
 test("unknown single words return no unrelated results", async ({ page }) => {
   test.fail(
     true,
-    "Pagefind 1.5.2 returns an unrelated result; resolve before public search.",
+    "Pagefind returns an unrelated result; the search page filters empty matches.",
   );
   expect(await search(page, "qzxv")).toEqual([]);
 });

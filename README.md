@@ -58,14 +58,15 @@ follow Hugo's normal production exclusions. Search assets load only on the
 dedicated search page; the public navigation entry will follow separately.
 
 The raw Pagefind API has an expected failure for an unknown single-word query
-(`qzxv`) returning an unrelated result with no match locations in Pagefind 1.5.2.
+(`qzxv`) returning an unrelated result with no match locations in Pagefind.
 The search page suppresses results without match locations; all indexed titles
 are also in page content, so genuine matches retain their locations. Browser
 tests verify the visible no-results behavior. Keep the raw API regression test
 until an upstream version resolves it, then remove that expected failure and
-reassess the workaround. Pagefind 1.6.0's
-published Linux binaries currently crash with an illegal instruction on this
-development VM, so the build pins the working 1.5.2 release for now.
+reassess the workaround. The build pins Pagefind 1.6.0. Its published Linux
+binaries currently crash with an illegal instruction on this development VM;
+the production index build is verified in GitHub Actions and Cloudflare, and
+the search page is checked against the deployed preview.
 
 To inspect the built site, use `python3 -m http.server --directory public 1414`
 from `rnp/`. `hugo server` alone does not generate or serve the Pagefind index.

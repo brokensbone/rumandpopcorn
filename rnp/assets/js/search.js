@@ -50,7 +50,7 @@ async function runSearch(term, current) {
       response.results.map((result) => result.data()),
     );
     if (current !== revision) return;
-    // 1.5.2 can return an unrelated fragment with no matches for unknown words.
+    // Pagefind can return an unrelated fragment with no matches for unknown words.
     // All indexed titles are also in the body, so genuine matches have locations.
     results = matches.filter((result) => result.locations?.length);
     shown = 0;
