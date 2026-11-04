@@ -5,6 +5,11 @@
 
 version: 2
 updates:
+  - package-ecosystem: "npm"
+    directory: "/rnp"
+    schedule:
+      interval: "weekly"
+
   # Python dependencies for Pulumi infrastructure
   - package-ecosystem: "pip"
     directory: "/infra"

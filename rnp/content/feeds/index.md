@@ -1,5 +1,6 @@
 ---
 title: Feeds
+search: false
 ---
 
 RSS feeds forever!

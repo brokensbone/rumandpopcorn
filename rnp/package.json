@@ -1,0 +1,13 @@
+{
+  "name": "rumandpopcorn-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "hugo --gc --minify --cleanDestinationDir && pagefind --site public",
+    "test:search": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "pagefind": "1.5.2"
+  }
+}

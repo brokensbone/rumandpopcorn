@@ -14,6 +14,9 @@ HUGO_VERSION = hugo_version_file.read_text().strip()
 go_version_file = Path(__file__).parent.parent / ".go-version"
 GO_VERSION = go_version_file.read_text().strip()
 
+node_version_file = Path(__file__).parent.parent / ".node-version"
+NODE_VERSION = node_version_file.read_text().strip()
+
 
 class StaticSiteConfig:
     resource_name: str = "site"
@@ -53,6 +56,7 @@ def static_site(config: StaticSiteConfig):
                     "test": {"type": "plain_text", "value": "some-value"},
                     "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
                     "GO_VERSION": {"type": "plain_text", "value": GO_VERSION},
+                    "NODE_VERSION": {"type": "plain_text", "value": NODE_VERSION},
                 }
             },
             "production": {
@@ -60,6 +64,7 @@ def static_site(config: StaticSiteConfig):
                     "test": {"type": "plain_text", "value": "prod-value"},
                     "HUGO_VERSION": {"type": "plain_text", "value": HUGO_VERSION},
                     "GO_VERSION": {"type": "plain_text", "value": GO_VERSION},
+                    "NODE_VERSION": {"type": "plain_text", "value": NODE_VERSION},
                 }
             },
         },
@@ -95,7 +100,7 @@ def build():
     rnp_site.repo_name = "rumandpopcorn"
     rnp_site.build_config = {
         "build_caching": True,
-        "build_command": "hugo && npx -y pagefind --site public",
+        "build_command": "npm ci && npm run build",
         "destination_dir": "/public",
         "root_dir": "/rnp",
     }
