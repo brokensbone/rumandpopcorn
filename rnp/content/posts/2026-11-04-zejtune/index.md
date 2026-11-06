@@ -13,7 +13,7 @@ I’ve lumped these two together because they’re both showing in competition t
 
 Both take us to an island. They show us a generational gap being bridged. Both are deeply concerned with the old school—the analogue, the community, the heritage—crashing up against the modern—the impulsive, the independent.
 
-Zejtune follows Mar, whose mother has recently died. Her remaining family are combative and cold, and it was clear she had some serious issues with her mother, but she’s been left three plots of land, with maps scrawled with illegible Italian text that state her right to it. She enlists a wedding singer she meets, who turns out to be a legend of għana, and sets off around the island looking for her land.
+Zejtune follows Mar, whose mother has recently died. Her remaining family are combative and cold, and it was clear she had some serious issues with her mother, but she’s been left three plots of land, with maps scrawled with illegible Italian text that state her right to it. She enlists a wedding singer she meets, who turns out to be a legend of għana (a sort of Maltese folk music, where flamenco meets rap-battle), and sets off around the island looking for her land.
 
 The film isn’t really about that, though. It’s about family and tradition, about historical wrongs and whether they can be righted (or at least forgiven), about land and place and people. There are links back to the fabulous In a Whisper, in the determination of the older characters that the youth should not flee the land.
 
