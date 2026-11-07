@@ -6,6 +6,8 @@ tags: [liff26, "Leeds international film festival"]
 screening-number: 16
 ---
 
+![The Apologist poster with an orange background, a torn-paper silhouette, and a winding dashed line.](poster.jpg)
+
 Oh, I was disappointed in this. I’d expected it to be a dive into what apologies mean, how they differ across countries and languages, some sort of anthropology.
 
 Instead, we get an awful lot of Belgian handwringing. It’s all very well-meaning, but to my mind it fell down on two pretty major points.
