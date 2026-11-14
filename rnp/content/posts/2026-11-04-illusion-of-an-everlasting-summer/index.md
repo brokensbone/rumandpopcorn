@@ -8,9 +8,9 @@ screening-number: 11
 
 ![A girl in a red sleeveless top looks back at the camera while another plays with her necklace.](still.jpg)
 
-This follows a pair of cousins, the photographer- filmmakers neighbour, as they grow up over the course of 25 years. We’re in rural Argentina, surrounded by irrigation canals, poultry and cows. We see two small girls playacting their weddings and funerals (!), going swimming and trying on makeup. Year by year they change to teenagers and then to adults. Their relationship changes. Their self-confidence changes.
+This follows a pair of cousins, the photographer-filmmaker’s neighbours, as they grow up over the course of 25 years. We’re in rural Argentina, surrounded by irrigation canals, poultry and cows. We see two small girls playacting their weddings and funerals (!), going swimming and trying on makeup. Year by year they change from children to teenagers and then to adults. Their relationship changes. Their self-confidence changes.
 
-It’s hard to say if it’s sad. Or if it’s hopeful. It’s absolutely captivating watching them grow up and become different people but there’s a real sense of lost innocence. It’s hard not to wonder what the childhood versions of them would have made of their grown-up futures.
+It’s hard to say if it’s sad. Or if it’s hopeful. It’s absolutely captivating watching them grow up and become different people, but there’s a real sense of lost innocence. It’s hard not to wonder what the childhood versions of them would have made of their grown-up futures.
 
 A very cool film project that I’m glad to have seen.
 
