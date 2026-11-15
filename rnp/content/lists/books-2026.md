@@ -52,3 +52,5 @@ date: 2026-01-01
    Ghosts of horses. I love how Ali Smith writes, but this wasn't my favourite. Enjoyed the journey but not sure I'd come back to it.
 1. **John Tarrant - Bring Me the Rhinoceros**
    Thought provoking and pleasantly secular tour through Koans
+1. **Lissa Evans - Small Bomb at Dimperley**
+   Amiable post-war drama about down-at-heel gentry.
